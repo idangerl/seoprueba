@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "dolor testicular",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "causas del dolor testicular",
+            "tratamiento dolor testicular",
+            "problemas testiculares",
+            "síntomas urológicos masculinos"
+        ],
+        "slug": "que-especialista-trata-dolor-testicular",
+        "title": "¿Qué especialista trata dolor testicular en CDMX? Diagnóstico y atención urológica",
+        "meta_description": "Descubre qué especialista trata el dolor testicular en CDMX, cuándo acudir y dónde recibir un diagnóstico y tratamiento adecuados.",
+        "h1": "¿Qué especialista trata dolor testicular en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "El dolor testicular puede aparecer de forma repentina o progresiva y generar preocupación inmediata. Identificar a tiempo al especialista adecuado en CDMX permite encontrar las causas del dolor testicular y recibir un tratamiento dolor testicular efectivo. Una valoración oportuna es clave para evitar complicaciones y aliviar los síntomas de forma segura.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata dolor testicular?",
+                "descripcion": "El especialista indicado para tratar el dolor testicular es el urólogo, experto en el sistema urinario y reproductor masculino.",
+                "h3": [
+                    {
+                        "titulo": "El papel del urólogo en el diagnóstico",
+                        "contenido": "El urólogo en CDMX evalúa las posibles causas del dolor testicular, que pueden ir desde infecciones hasta alteraciones estructurales. Su formación permite identificar el origen del problema y definir el tratamiento más adecuado según cada caso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa dolor testicular?",
+                "descripcion": "Aunque puede iniciarse con un médico general, la revisión completa corresponde al urólogo.",
+                "h3": [
+                    {
+                        "titulo": "Valoración clínica y estudios necesarios",
+                        "contenido": "El urólogo realiza una exploración física detallada y puede solicitar estudios como ultrasonido o análisis para identificar problemas testiculares. Esto permite diferenciar entre causas leves y condiciones que requieren atención especializada."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata dolor testicular?",
+                "descripcion": "El tratamiento del dolor testicular es guiado por el urólogo, quien adapta el manejo según la causa.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento disponibles",
+                        "contenido": "El tratamiento puede incluir medicamentos, seguimiento clínico o intervenciones específicas según el origen del dolor testicular. En CDMX, el enfoque se centra en resolver la causa y prevenir recurrencias."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por dolor testicular?",
+                "descripcion": "Reconocer cuándo consultar es clave para evitar complicaciones.",
+                "h3": [
+                    {
+                        "titulo": "Síntomas que requieren atención inmediata",
+                        "contenido": "Se recomienda acudir al especialista si el dolor es intenso, persistente o se acompaña de inflamación, fiebre o cambios visibles. Una evaluación temprana permite descartar condiciones graves y recibir tratamiento adecuado."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar dolor testicular?",
+                "descripcion": "El tratamiento debe realizarse en centros especializados en urología.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de la atención especializada en CDMX",
+                        "contenido": "En CDMX, acudir a un urólogo con experiencia en problemas testiculares permite acceder a un diagnóstico preciso y a un tratamiento adecuado. La atención especializada mejora la recuperación y el seguimiento del paciente."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "¿Necesitas saber qué especialista trata dolor testicular en CDMX? Agenda tu consulta con un urólogo y recibe un diagnóstico claro junto con el tratamiento adecuado para aliviar tus síntomas.",
+    "beneficios_contacto": [
+        "Atención especializada en urología",
+        "Diagnóstico preciso y oportuno",
+        "Tratamientos personalizados según la causa",
+        "Seguimiento médico profesional",
+        "Enfoque integral en salud masculina"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata dolor testicular en CDMX?",
+            "description": "Información sobre qué especialista trata el dolor testicular, cuándo acudir y dónde recibir atención en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Dolor testicular"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata dolor testicular?",
+            "respuesta": "El especialista que trata el dolor testicular es el urólogo. En CDMX puedes acudir para una evaluación y tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué especialista trata dolor testicular?",
+            "respuesta": "El urólogo es el médico indicado para tratar el dolor testicular. Se encarga de identificar la causa y proponer el tratamiento."
+        },
+        {
+            "pregunta": "¿Qué médico revisa dolor testicular?",
+            "respuesta": "El médico que revisa el dolor testicular es el urólogo. Puede realizar estudios físicos y de imagen para el diagnóstico."
+        },
+        {
+            "pregunta": "¿Qué doctor trata dolor testicular?",
+            "respuesta": "El doctor que trata el dolor testicular es el urólogo especializado en salud masculina. Evalúa causas como infecciones, varicocele o lesiones."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por dolor testicular?",
+            "respuesta": "Debes acudir si el dolor es intenso, repentino o persistente. También si hay inflamación o síntomas urinarios."
+        },
+        {
+            "pregunta": "¿Dónde tratar dolor testicular?",
+            "respuesta": "El dolor testicular se trata en clínicas urológicas y hospitales en CDMX. Es importante acudir a un especialista con experiencia."
+        },
+        {
+            "pregunta": "¿Cuáles son las causas más comunes del dolor testicular?",
+            "respuesta": "Las causas incluyen infecciones, golpes, varicocele o inflamación. También puede estar relacionado con problemas urinarios."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede ser urgente?",
+            "respuesta": "Sí, si aparece de forma súbita o intensa puede ser una urgencia médica. En estos casos se debe acudir de inmediato."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para evaluar el dolor testicular?",
+            "respuesta": "Se utilizan ultrasonido, análisis de orina y exploración física. Estos ayudan a identificar la causa del dolor."
+        },
+        {
+            "pregunta": "¿El dolor testicular siempre requiere tratamiento médico?",
+            "respuesta": "No siempre, algunos casos leves pueden resolverse solos. Sin embargo, es importante una valoración médica."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar el dolor testicular en CDMX?",
+            "respuesta": "El costo depende del diagnóstico y tratamiento requerido. Se recomienda acudir a consulta para un presupuesto preciso."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede afectar la vida sexual?",
+            "respuesta": "Sí, puede generar molestias durante la actividad sexual. También puede influir en la calidad de vida."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede estar relacionado con infecciones?",
+            "respuesta": "Sí, muchas veces se debe a infecciones urinarias o genitales. Estas requieren tratamiento oportuno."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede ser causado por varicocele?",
+            "respuesta": "Sí, el varicocele es una causa frecuente de dolor testicular. Puede generar sensación de pesadez."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede afectar la fertilidad?",
+            "respuesta": "Dependiendo de la causa, puede influir en la fertilidad. Es importante evaluarlo a tiempo."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato el dolor testicular?",
+            "respuesta": "Puede empeorar o indicar una enfermedad subyacente. El diagnóstico temprano evita complicaciones."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede aparecer de forma repentina?",
+            "respuesta": "Sí, puede presentarse de manera súbita por infecciones o lesiones. En estos casos se recomienda atención inmediata."
+        },
+        {
+            "pregunta": "¿Cómo elegir un buen urólogo en CDMX para dolor testicular?",
+            "respuesta": "Busca experiencia, certificaciones y buenas opiniones de pacientes. También es importante que ofrezca diagnóstico integral."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede relacionarse con otros problemas de salud?",
+            "respuesta": "Sí, puede estar asociado con enfermedades urológicas o sistémicas. Por eso requiere evaluación médica."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede desaparecer sin tratamiento?",
+            "respuesta": "Algunos casos leves pueden mejorar solos, pero no siempre. Es recomendable consultar con un especialista."
+        }
+    ]
+}

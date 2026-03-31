@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SEO-Engine - Instrucciones de Deployment</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f8fafc;color:#1e293b;line-height:1.7;padding:2rem}
+.wrap{max-width:780px;margin:0 auto}
+h1{font-size:1.4rem;color:#0f172a;margin-bottom:.25rem}
+.meta{color:#64748b;font-size:.82rem;margin-bottom:1.5rem}
+.stats{display:flex;gap:1rem;margin-bottom:1.5rem;flex-wrap:wrap}
+.stat{background:#fff;border:1px solid #e2e8f0;border-radius:8px;padding:.75rem 1rem;text-align:center;flex:1;min-width:120px}
+.stat strong{display:block;font-size:1.3rem;color:#0f172a}
+.stat span{font-size:.75rem;color:#64748b}
+.step{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:1.25rem;margin-bottom:1rem}
+.step-num{display:inline-block;width:28px;height:28px;border-radius:50%;background:#2563eb;color:#fff;text-align:center;line-height:28px;font-size:.82rem;font-weight:700;margin-right:.5rem}
+.step h2{display:inline;font-size:1rem;vertical-align:middle}
+.step p{margin-top:.5rem;font-size:.85rem;color:#475569}
+.code{background:#1e293b;color:#e2e8f0;padding:1rem;border-radius:8px;font-family:'Fira Code',monospace;font-size:.78rem;overflow-x:auto;position:relative;white-space:pre;margin:.75rem 0;line-height:1.5}
+.code button{position:absolute;top:.5rem;right:.5rem;background:#475569;color:#fff;border:none;padding:.2rem .5rem;border-radius:4px;cursor:pointer;font-size:.7rem}
+.code button:hover{background:#64748b}
+.success-box{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:8px;padding:1rem;margin:1rem 0;font-size:.85rem;color:#15803d}
+.check{list-style:none;padding:0;margin:.75rem 0}
+.check li{padding:.3rem 0;font-size:.85rem}
+.check li::before{content:'\2610';margin-right:.5rem;font-size:1.1rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>SEO-Engine - Deployment Precompilado</h1>
+<p class="meta">Proyecto: <strong>Que especialista</strong> | Generado: 2026-03-31 17:19:10 | Modo: PHP (componentes dinamicos)</p>
+
+<div class="success-box">
+  Este deployment viene <strong>completamente precompilado</strong>. No necesitas ejecutar ningun script de setup en tu servidor. Solo sube los archivos y agrega las reglas al .htaccess.
+</div>
+
+<div class="stats">
+  <div class="stat"><strong>20</strong><span>Categorias</span></div>
+  <div class="stat"><strong>43</strong><span>Paginas JSON</span></div>
+  <div class="stat"><strong>40</strong><span>Imagenes</span></div>
+</div>
+
+<div class="step">
+  <span class="step-num">1</span><h2>Subir la carpeta seo-engine/</h2>
+  <p>Sube la carpeta <code>seo-engine/</code> completa al <strong>directorio raiz</strong> de tu sitio web via FTP o panel de hosting.</p>
+  <p>Resultado esperado: <code>tu-sitio.com/seo-engine/router.php</code> debe existir.</p>
+</div>
+
+<div class="step"><span class="step-num">2</span><h2>Subir componentes/ del deployment</h2><p>Sube la carpeta <code>componentes/</code> generada por el deployment si tu integracion usa componentes.</p><p><strong>No reemplaces tu carpeta raiz <code>assets/</code></strong>: en SEO General la configuracion viaja dentro de <code>seo-engine/site-config.json</code>.</p></div>
+
+<div class="step">
+  <span class="step-num">3</span><h2>Reemplazar .htaccess</h2>
+  <p>Este deployment ya incluye un archivo <code>.htaccess</code> completo en la raiz, listo para reemplazar el actual segun la configuracion elegida en Deployment.</p>
+  <p>Vista previa del contenido generado:</p>
+  <div class="code" id="htaccess-code">RewriteEngine On
+
+# Redirigir de sin www a www (dinamico para cualquier dominio)
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [L,R=301]
+
+# Forzar HTTPS (excepto para validaciones SSL)
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteBase /
+
+# No tocar llamadas internas al sistema SEO-Engine
+RewriteRule ^seo-engine/ - [L,NC]
+
+# Ignorar archivos y directorios reales
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Nivel 2: /categoria/seccion/
+RewriteCond %{DOCUMENT_ROOT}/seo-engine/pages/n2--$1--$2.json -f
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/?$ seo-engine/router.php?slug1=$1&amp;slug2=$2 [L,QSA,NC]
+
+# Nivel 1: /categoria/
+RewriteCond %{DOCUMENT_ROOT}/seo-engine/pages/n1--$1.json -f
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ seo-engine/router.php?slug1=$1 [L,QSA,NC]
+# Reescribir URL para servicio.php
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ servicio.php?servicio=$1 [L,QSA]
+<button onclick="copyCode(this)">Copiar</button></div>
+</div>
+
+
+
+<div class="step">
+  <span class="step-num">4</span><h2>Verificar</h2>
+  <p>Comprueba que las URLs funcionen correctamente:</p>
+  <ul class="check">
+    <li>La carpeta seo-engine/ esta en la raiz del sitio</li>
+    <li>El .htaccess fue reemplazado por el archivo incluido en el deployment</li>
+    <li>El .htaccess incluido contempla compatibilidad con servicio.php</li>
+    <li>site-config.json existe dentro de seo-engine/ y no reemplazaste assets/ raiz</li>
+    <li>Las URLs /{categoria}/ cargan las paginas SEO</li>
+    <li>La navegacion del sitio muestra los enlaces SEO</li>
+  </ul>
+</div>
+
+</div>
+<script>
+function copyCode(btn){var p=btn.parentElement;var t=p.textContent.replace('Copiar','').trim();navigator.clipboard.writeText(t).then(function(){btn.textContent='Copiado!';setTimeout(function(){btn.textContent='Copiar'},2000)})}
+</script>
+</body>
+</html>

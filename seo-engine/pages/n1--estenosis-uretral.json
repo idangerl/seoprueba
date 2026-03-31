@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "estenosis uretral",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "síntomas de estenosis uretral",
+            "tratamiento estenosis uretral",
+            "problemas urinarios masculinos",
+            "flujo urinario débil"
+        ],
+        "slug": "estenosis-uretral",
+        "title": "Estenosis uretral en CDMX: causas, síntomas y enfoque urológico integral",
+        "meta_description": "Conoce qué es la estenosis uretral, sus síntomas, causas y cómo se relaciona con otros problemas urológicos en CDMX.",
+        "h1": "Estenosis uretral en CDMX: enfoque urológico completo"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La estenosis uretral es una condición que afecta el flujo de la orina y puede generar molestias progresivas que impactan la calidad de vida. En CDMX, muchos pacientes consultan por síntomas urinarios persistentes sin saber que pueden estar relacionados con un estrechamiento de la uretra. Este problema suele estar vinculado a infecciones genitales, infección urinaria o antecedentes de inflamación como prostatitis. Además, puede coexistir con otros problemas urinarios como hematuria o alteraciones en el vaciado vesical, e incluso relacionarse con condiciones como cálculos renales o problemas renales. Entender este contexto permite abordar la estenosis uretral desde una perspectiva integral.",
+        "bloques": [
+            {
+                "h2": "Cómo la estenosis uretral se relaciona con otros problemas urinarios",
+                "descripcion": "La estenosis uretral no aparece de forma aislada, sino que suele formar parte de un conjunto de alteraciones del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Síntomas compartidos con otras afecciones",
+                        "contenido": "El flujo urinario débil, la dificultad para orinar o la sensación de vaciado incompleto pueden confundirse con hiperplasia prostática o problemas de próstata. Asimismo, la incontinencia urinaria o infecciones urinarias recurrentes pueden estar asociadas a esta condición. Identificar estas conexiones es clave para un diagnóstico adecuado."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de la estenosis uretral con enfermedades prostáticas y oncológicas",
+                "descripcion": "El sistema urinario y reproductor masculino está interconectado, lo que influye en la aparición y evolución de distintas patologías.",
+                "h3": [
+                    {
+                        "titulo": "Interacción con cáncer y tumores urológicos",
+                        "contenido": "La estenosis uretral puede coexistir con enfermedades como cáncer de próstata o cáncer de vejiga, así como con otros tumores urológicos. Además, condiciones como prostatitis pueden favorecer la inflamación y contribuir al estrechamiento uretral. Por ello, el análisis clínico debe contemplar todo el sistema urológico."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de la estenosis uretral en la salud sexual y genital",
+                "descripcion": "Además de los síntomas urinarios, la estenosis uretral puede afectar otras áreas de la salud masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con función sexual y condiciones genitales",
+                        "contenido": "La estenosis uretral puede influir en la disfunción eréctil y coexistir con condiciones como varicocele, hidrocele o fimosis. También puede relacionarse con molestias como dolor testicular o alteraciones como eyaculación precoz. Este conjunto de síntomas refleja la importancia de un abordaje integral que considere tanto la salud urinaria como la sexual."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [
+        "Evaluación integral del sistema urinario",
+        "Identificación precisa de la causa del problema",
+        "Enfoque personalizado según síntomas",
+        "Atención especializada en urología",
+        "Orientación clara y profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Estenosis uretral en CDMX: enfoque urológico completo",
+            "description": "Información sobre la estenosis uretral y su relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Estenosis uretral"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la estenosis uretral y por qué ocurre?",
+            "respuesta": "La estenosis uretral es el estrechamiento de la uretra que dificulta el paso de la orina. Puede estar relacionada con una infección urinaria, infecciones genitales o traumatismos."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas de la estenosis uretral?",
+            "respuesta": "Los síntomas incluyen flujo urinario débil, dificultad para orinar y sensación de vaciado incompleto. También puede asociarse con problemas urinarios o hematuria."
+        },
+        {
+            "pregunta": "¿Cómo se diagnostica la estenosis uretral en CDMX?",
+            "respuesta": "Se diagnostica mediante estudios como uroflujometría, cistoscopia o imagen. El urólogo también descarta problemas de próstata o tumores urológicos."
+        },
+        {
+            "pregunta": "¿Qué causa la estenosis uretral en hombres?",
+            "respuesta": "Puede deberse a infecciones, cirugías previas o lesiones. También puede estar asociada con prostatitis o infección urinaria recurrente."
+        },
+        {
+            "pregunta": "¿La estenosis uretral puede causar infecciones urinarias?",
+            "respuesta": "Sí, al dificultar el flujo de orina puede favorecer una infección urinaria. Esto también puede relacionarse con otros problemas urinarios."
+        },
+        {
+            "pregunta": "¿Qué relación tiene la estenosis uretral con la hiperplasia prostática?",
+            "respuesta": "Ambas pueden causar síntomas similares como dificultad para orinar. La hiperplasia prostática también afecta el flujo urinario."
+        },
+        {
+            "pregunta": "¿La estenosis uretral puede confundirse con cálculos renales?",
+            "respuesta": "Sí, algunos síntomas pueden parecerse a los de cálculos renales. Por eso es importante una evaluación médica adecuada."
+        },
+        {
+            "pregunta": "¿La estenosis uretral puede afectar la función sexual?",
+            "respuesta": "En algunos casos puede influir en la función sexual. Puede coexistir con disfunción eréctil o eyaculación precoz."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al urólogo por estenosis uretral?",
+            "respuesta": "Debes acudir si tienes dificultad persistente para orinar o infecciones frecuentes. También si hay síntomas como dolor testicular."
+        },
+        {
+            "pregunta": "¿La estenosis uretral puede causar dolor?",
+            "respuesta": "Sí, puede provocar molestias al orinar o dolor en la zona pélvica. A veces se acompaña de infecciones genitales."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para evaluar la estenosis uretral?",
+            "respuesta": "Se utilizan estudios de flujo urinario, endoscopia y pruebas de imagen. Esto ayuda a descartar cáncer de vejiga u otros tumores urológicos."
+        },
+        {
+            "pregunta": "¿La estenosis uretral puede provocar hematuria?",
+            "respuesta": "Sí, en algunos casos puede presentarse hematuria. Este síntoma también aparece en una infección urinaria o cálculos renales."
+        },
+        {
+            "pregunta": "¿La estenosis uretral está relacionada con problemas renales?",
+            "respuesta": "Si no se trata, puede afectar la función renal. Esto se relaciona con problemas renales a largo plazo."
+        },
+        {
+            "pregunta": "¿Puede la estenosis uretral causar incontinencia urinaria?",
+            "respuesta": "Sí, en algunos casos puede generar alteraciones en el control urinario. Esto se relaciona con incontinencia urinaria."
+        },
+        {
+            "pregunta": "¿Qué enfermedades deben descartarse junto a la estenosis uretral?",
+            "respuesta": "Se deben descartar problemas de próstata, cáncer de próstata y otras enfermedades urinarias. También condiciones como hidrocele o varicocele."
+        },
+        {
+            "pregunta": "¿La estenosis uretral puede aparecer después de una infección?",
+            "respuesta": "Sí, puede desarrollarse tras una infección urinaria o infecciones genitales. Estas pueden causar cicatrices en la uretra."
+        },
+        {
+            "pregunta": "¿Cómo impacta la estenosis uretral en la calidad de vida?",
+            "respuesta": "Puede afectar la micción y causar molestias constantes. También puede asociarse con problemas urinarios o disfunción eréctil."
+        },
+        {
+            "pregunta": "¿La estenosis uretral puede ser crónica?",
+            "respuesta": "Sí, puede volverse persistente si no se trata adecuadamente. Es importante seguimiento médico con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué otras enfermedades urológicas se relacionan con la estenosis uretral?",
+            "respuesta": "Puede relacionarse con fimosis, prostatitis o infecciones genitales. También con problemas de próstata y tumores urológicos."
+        },
+        {
+            "pregunta": "¿Qué papel tiene el urólogo en el tratamiento de la estenosis uretral?",
+            "respuesta": "El urólogo diagnostica y trata la estenosis uretral. Además evalúa condiciones asociadas como una infección urinaria o problemas renales."
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "eyaculación precoz",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "tratamiento eyaculación precoz",
+            "salud sexual masculina",
+            "problemas de eyaculación",
+            "causas eyaculación precoz"
+        ],
+        "slug": "eyaculacion-precoz",
+        "title": "Eyaculación precoz en CDMX: causas, diagnóstico y enfoque urológico integral",
+        "meta_description": "Descubre las causas de la eyaculación precoz, su relación con otras enfermedades urológicas y cómo abordarla con un urólogo en CDMX.",
+        "h1": "Eyaculación precoz en CDMX: enfoque urológico integral"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La eyaculación precoz es una de las consultas más frecuentes en salud sexual masculina y puede afectar tanto el bienestar emocional como la relación de pareja. En CDMX, muchos hombres experimentan este problema sin saber que puede estar relacionado con diversas condiciones urológicas. En algunos casos, se asocia con infecciones genitales, prostatitis o incluso con disfunción eréctil, mientras que en otros puede coexistir con síntomas urinarios como los que aparecen en una infección urinaria, incontinencia urinaria o problemas urinarios persistentes. Comprender el contexto completo en el que aparece la eyaculación precoz es clave para abordarla de manera efectiva.",
+        "bloques": [
+            {
+                "h2": "La eyaculación precoz y su relación con otras enfermedades urológicas",
+                "descripcion": "La eyaculación precoz no siempre es un problema aislado, sino que puede estar vinculada a otras condiciones del sistema urinario y reproductor.",
+                "h3": [
+                    {
+                        "titulo": "Relación con infecciones y problemas prostáticos",
+                        "contenido": "Condiciones como prostatitis, infección urinaria o infecciones genitales pueden influir en la sensibilidad y el control eyaculatorio. Asimismo, problemas de próstata como hiperplasia prostática o incluso cáncer de próstata pueden generar síntomas que afectan la función sexual. En algunos casos, también puede haber relación con hematuria o molestias urinarias persistentes."
+                    }
+                ]
+            },
+            {
+                "h2": "Factores físicos y anatómicos asociados a la eyaculación precoz",
+                "descripcion": "Existen múltiples factores físicos que pueden influir en el control de la eyaculación.",
+                "h3": [
+                    {
+                        "titulo": "Condiciones genitales y testiculares relacionadas",
+                        "contenido": "Alteraciones como varicocele, hidrocele o fimosis pueden afectar la respuesta sexual masculina. Además, el dolor testicular o la presencia de infecciones genitales pueden modificar la sensibilidad y contribuir a la eyaculación precoz. Estos factores deben evaluarse dentro de un contexto clínico completo."
+                    }
+                ]
+            },
+            {
+                "h2": "La eyaculación precoz dentro del contexto de la salud urinaria y renal",
+                "descripcion": "El sistema urinario y la función sexual están estrechamente relacionados.",
+                "h3": [
+                    {
+                        "titulo": "Relación con problemas urinarios y renales",
+                        "contenido": "Problemas urinarios como estenosis uretral o alteraciones en el flujo urinario pueden influir en la función sexual. Asimismo, condiciones como cálculos renales o problemas renales pueden generar molestias que impactan indirectamente la salud sexual. En casos más complejos, también puede coexistir con tumores urológicos o cáncer de vejiga, lo que requiere una evaluación integral."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [
+        "Evaluación integral de la salud sexual masculina",
+        "Identificación de causas subyacentes",
+        "Enfoque personalizado según cada caso",
+        "Atención especializada en urología",
+        "Orientación clara y profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Eyaculación precoz en CDMX: enfoque urológico integral",
+            "description": "Información sobre la eyaculación precoz y su relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Eyaculación precoz"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la eyaculación precoz y por qué ocurre?",
+            "respuesta": "La eyaculación precoz es la dificultad para controlar el momento de la eyaculación durante las relaciones sexuales. Puede estar relacionada con disfunción eréctil, prostatitis o infecciones genitales."
+        },
+        {
+            "pregunta": "¿Cuáles son las causas más comunes de la eyaculación precoz?",
+            "respuesta": "Puede deberse a factores psicológicos, hormonales o neurológicos. También puede asociarse con problemas de próstata o infección urinaria."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz es un problema frecuente?",
+            "respuesta": "Sí, es una de las disfunciones sexuales más comunes en hombres. Puede coexistir con disfunción eréctil o problemas urinarios."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al urólogo por eyaculación precoz en CDMX?",
+            "respuesta": "Debes acudir si el problema es persistente o afecta tu vida sexual. También si hay síntomas como dolor testicular o infecciones genitales."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede estar relacionada con infecciones?",
+            "respuesta": "Sí, algunas infecciones genitales o infección urinaria pueden influir en el control eyaculatorio. Esto requiere evaluación médica."
+        },
+        {
+            "pregunta": "¿Qué relación tiene la eyaculación precoz con la disfunción eréctil?",
+            "respuesta": "Ambas condiciones pueden coexistir y afectar la vida sexual. En muchos casos se evalúan juntas durante la consulta urológica."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede estar relacionada con problemas de próstata?",
+            "respuesta": "Sí, condiciones como prostatitis, hiperplasia prostática o cáncer de próstata pueden influir. Estas también causan problemas urinarios."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede afectar la fertilidad?",
+            "respuesta": "Puede dificultar la concepción en algunos casos. También puede coexistir con varicocele u otras condiciones reproductivas."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para evaluar la eyaculación precoz?",
+            "respuesta": "Se realiza historia clínica y evaluación física. También se descartan problemas como infecciones o tumores urológicos."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede ser psicológica?",
+            "respuesta": "Sí, factores como ansiedad o estrés son comunes. Sin embargo, también se deben descartar causas físicas."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede aparecer de forma repentina?",
+            "respuesta": "Sí, puede presentarse súbitamente por factores emocionales o médicos. Es importante evaluar posibles causas como prostatitis."
+        },
+        {
+            "pregunta": "¿Qué otras enfermedades se relacionan con la eyaculación precoz?",
+            "respuesta": "Puede relacionarse con fimosis, infecciones genitales o problemas de próstata. También con trastornos urinarios."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede causar frustración o estrés?",
+            "respuesta": "Sí, puede afectar la autoestima y las relaciones de pareja. También puede asociarse con disfunción eréctil."
+        },
+        {
+            "pregunta": "¿Cómo impacta la eyaculación precoz en la calidad de vida?",
+            "respuesta": "Puede afectar la vida sexual y emocional. También puede coexistir con problemas urinarios, incontinencia urinaria o enfermedades urológicas."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede estar relacionada con dolor testicular?",
+            "respuesta": "Sí, en algunos casos puede coexistir con dolor testicular. Esto puede indicar infecciones u otras afecciones."
+        },
+        {
+            "pregunta": "¿Qué papel tiene el urólogo en la eyaculación precoz?",
+            "respuesta": "El urólogo evalúa las causas y propone el tratamiento adecuado. También descarta condiciones como cáncer de vejiga o problemas renales."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede estar relacionada con hematuria?",
+            "respuesta": "No directamente, pero pueden coexistir en algunos casos. La hematuria puede indicar otros problemas urinarios."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede estar asociada a estenosis uretral?",
+            "respuesta": "Sí, algunas alteraciones urinarias pueden influir en la función sexual. Esto incluye condiciones como estenosis uretral."
+        },
+        {
+            "pregunta": "¿Qué otros problemas urológicos deben evaluarse junto a la eyaculación precoz?",
+            "respuesta": "Se deben considerar infecciones urinarias, problemas de próstata, cálculos renales y tumores urológicos. También condiciones como hidrocele."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede prevenirse?",
+            "respuesta": "No siempre se puede prevenir, pero el control médico y hábitos saludables ayudan. También es importante tratar infecciones y problemas urinarios a tiempo."
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "hematuria",
+        "palabras_clave_secundarias": [
+            "sangre en la orina",
+            "urologo CDMX",
+            "causas de hematuria",
+            "tratamiento hematuria",
+            "consulta urologica"
+        ],
+        "slug": "que-especialista-trata-hematuria",
+        "title": "¿Qué especialista trata la hematuria en CDMX? Guía clara para saber a quién acudir",
+        "meta_description": "Conoce qué especialista trata la hematuria, cuándo acudir y dónde atenderla en CDMX. Identifica si necesitas un urólogo y qué esperar en consulta.",
+        "h1": "¿Qué especialista trata hematuria en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La presencia de sangre en la orina, conocida como hematuria, es un síntoma que nunca debe ignorarse. Puede estar relacionada con problemas leves o con condiciones que requieren diagnóstico oportuno. Saber a qué especialista acudir en CDMX no solo evita retrasos en la atención, sino que permite identificar la causa exacta y comenzar un tratamiento adecuado desde el inicio.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata hematuria?",
+                "descripcion": "El especialista indicado para evaluar y tratar la hematuria es el urólogo, ya que se enfoca en el sistema urinario tanto en hombres como en mujeres.",
+                "h3": [
+                    {
+                        "titulo": "Evaluación integral del sistema urinario",
+                        "contenido": "El urólogo analiza el origen de la hematuria mediante estudios clínicos y de imagen, identificando si el sangrado proviene de riñones, vejiga, uretra o próstata. Esto permite diferenciar entre causas como infecciones, cálculos o condiciones más complejas."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa hematuria?",
+                "descripcion": "Aunque un médico general puede detectar inicialmente la hematuria, el seguimiento y estudio profundo corresponde al especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Primer contacto y derivación adecuada",
+                        "contenido": "En muchos casos, el primer contacto ocurre con un médico general, quien solicita estudios básicos. Sin embargo, si se confirma la presencia de sangre en la orina, es fundamental acudir con un urólogo para una valoración más precisa y evitar diagnósticos incompletos."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata hematuria?",
+                "descripcion": "El doctor que trata la hematuria es el urólogo, ya que tiene la formación específica para abordar enfermedades del tracto urinario y órganos relacionados.",
+                "h3": [
+                    {
+                        "titulo": "Tratamiento según la causa",
+                        "contenido": "El tratamiento de la hematuria no es único, depende completamente de su origen. Puede ir desde medicamentos para infecciones urinarias hasta procedimientos para tratar cálculos renales o estudios más avanzados si se sospechan enfermedades como tumores. El urólogo define el plan adecuado según cada caso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por hematuria?",
+                "descripcion": "La hematuria siempre debe evaluarse, incluso si aparece una sola vez o no genera dolor.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que no debes ignorar",
+                        "contenido": "Es importante acudir al médico de inmediato si la hematuria es visible, persistente o se acompaña de dolor, fiebre, dificultad para orinar o cambios en el color de la orina. Incluso sin síntomas adicionales, la presencia de sangre puede ser el primer signo de un problema mayor que requiere diagnóstico oportuno."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar hematuria?",
+                "descripcion": "La hematuria debe tratarse en consulta especializada con un urólogo en CDMX, donde se cuente con los estudios necesarios para su diagnóstico.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en CDMX",
+                        "contenido": "Acudir con un urólogo en CDMX permite acceder a una valoración completa, estudios específicos y seguimiento adecuado. Esto es clave para identificar la causa real de la hematuria y evitar que el problema avance o se complique con el tiempo."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si has notado sangre en la orina o tienes dudas sobre hematuria, acudir a valoración con un urólogo en CDMX es el paso más importante para obtener un diagnóstico claro y tratamiento oportuno. No dejes pasar este síntoma y atiéndelo a tiempo.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata hematuria en CDMX?",
+            "description": "Guía sobre qué especialista trata la hematuria, cuándo acudir y dónde recibir atención adecuada en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Hematuria"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata hematuria?",
+            "respuesta": "El especialista indicado es el urólogo, quien evalúa la hematuria para identificar su causa. En CDMX, puede diagnosticar y tratar problemas urinarios, renales o prostáticos relacionados."
+        },
+        {
+            "pregunta": "¿Qué especialista trata hematuria?",
+            "respuesta": "La hematuria debe ser valorada por un urólogo, ya que es el experto en vías urinarias. En CDMX, puede orientar el tratamiento según el origen del sangrado."
+        },
+        {
+            "pregunta": "¿Qué médico revisa hematuria?",
+            "respuesta": "El médico que revisa la hematuria es el urólogo, quien analiza la orina y solicita estudios complementarios. Esto permite detectar infecciones, cálculos o enfermedades más complejas."
+        },
+        {
+            "pregunta": "¿Qué doctor trata hematuria?",
+            "respuesta": "El doctor que trata la hematuria es el urólogo, especializado en el sistema urinario masculino y femenino. En CDMX, puedes acudir directamente para una valoración inicial."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por hematuria?",
+            "respuesta": "Debes acudir al médico si notas sangre en la orina, aunque no haya dolor. En CDMX, una evaluación temprana ayuda a descartar causas graves."
+        },
+        {
+            "pregunta": "¿Dónde tratar hematuria en CDMX?",
+            "respuesta": "La hematuria se trata con un urólogo en clínicas u hospitales especializados en CDMX. Es importante acudir a consulta para un diagnóstico preciso y tratamiento oportuno."
+        },
+        {
+            "pregunta": "¿La hematuria es motivo de consulta urgente?",
+            "respuesta": "Puede ser urgente si es abundante o se acompaña de dolor intenso o fiebre. En CDMX, se recomienda acudir a urgencias o con un urólogo lo antes posible."
+        },
+        {
+            "pregunta": "¿Qué tan grave puede ser la hematuria?",
+            "respuesta": "La hematuria puede ir desde causas leves hasta enfermedades importantes del tracto urinario. Por eso, siempre debe ser evaluada por un especialista."
+        },
+        {
+            "pregunta": "¿Qué estudios hace un urólogo para hematuria?",
+            "respuesta": "El urólogo puede solicitar análisis de orina, ultrasonido o estudios más avanzados según el caso. Esto permite identificar la causa exacta de la hematuria."
+        },
+        {
+            "pregunta": "¿Puedo acudir primero con un médico general por hematuria?",
+            "respuesta": "Sí, pero lo ideal es acudir directamente con un urólogo para una evaluación más específica. En CDMX, esto agiliza el diagnóstico y tratamiento."
+        },
+        {
+            "pregunta": "¿La hematuria puede desaparecer sin tratamiento?",
+            "respuesta": "En algunos casos leves sí, pero también puede indicar problemas más serios. Siempre es recomendable una valoración médica para descartar riesgos."
+        },
+        {
+            "pregunta": "¿La hematuria duele siempre?",
+            "respuesta": "No, puede presentarse sin dolor, lo que no descarta enfermedades importantes. Por eso, es clave evaluarla aunque no haya molestias."
+        },
+        {
+            "pregunta": "¿Qué tan rápido debo consultar por hematuria?",
+            "respuesta": "Lo ideal es acudir lo antes posible tras detectarla. En CDMX, una consulta temprana con urólogo mejora el pronóstico."
+        },
+        {
+            "pregunta": "¿La hematuria en hombres requiere revisión prostática?",
+            "respuesta": "Sí, puede estar relacionada con la próstata, por lo que el urólogo puede evaluarla. Esto es especialmente importante en hombres adultos."
+        },
+        {
+            "pregunta": "¿La hematuria en mujeres también la trata un urólogo?",
+            "respuesta": "Sí, el urólogo trata la hematuria tanto en hombres como en mujeres. Evalúa causas urinarias independientemente del sexo."
+        },
+        {
+            "pregunta": "¿Qué pasa si ignoro la hematuria?",
+            "respuesta": "Ignorar la hematuria puede retrasar el diagnóstico de enfermedades importantes. Es recomendable acudir a un especialista en CDMX lo antes posible."
+        },
+        {
+            "pregunta": "¿Se necesita cita con especialista para hematuria en CDMX?",
+            "respuesta": "Sí, generalmente se agenda consulta con un urólogo para valoración completa. Esto permite iniciar estudios y tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿La hematuria puede ser causada por infección?",
+            "respuesta": "Sí, una infección urinaria es una causa frecuente de hematuria. El urólogo puede confirmarlo con estudios y dar tratamiento."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar la hematuria en CDMX?",
+            "respuesta": "El costo depende de la causa y los estudios necesarios. Lo más importante es obtener un diagnóstico adecuado desde la primera consulta."
+        },
+        {
+            "pregunta": "¿Qué síntomas acompañan a la hematuria?",
+            "respuesta": "Puede acompañarse de dolor al orinar, urgencia urinaria o molestias abdominales. Estos signos ayudan al urólogo a orientar el diagnóstico."
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "infecciones genitales",
+        "palabras_clave_secundarias": [
+            "infecciones íntimas",
+            "urologo CDMX",
+            "tratamiento infecciones genitales",
+            "síntomas genitales hombres",
+            "salud genital masculina"
+        ],
+        "slug": "que-especialista-trata-infecciones-genitales",
+        "title": "¿Qué especialista trata las infecciones genitales en CDMX? Diagnóstico y tratamiento adecuado",
+        "meta_description": "Descubre qué especialista trata las infecciones genitales, cuándo acudir y dónde atenderlas en CDMX. Información clara para actuar a tiempo.",
+        "h1": "¿Qué especialista trata infecciones genitales en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "Las infecciones genitales son una causa frecuente de consulta y pueden generar síntomas como irritación, secreción o molestias persistentes. Saber qué especialista trata este tipo de afecciones en CDMX es fundamental para recibir un diagnóstico adecuado y evitar complicaciones. Identificar a tiempo el origen de las infecciones genitales permite iniciar un tratamiento efectivo y proteger la salud genital masculina.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata infecciones genitales?",
+                "descripcion": "El especialista indicado para tratar las infecciones genitales es el urólogo, quien se encarga del diagnóstico y tratamiento del sistema urinario y reproductor masculino.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en salud genital",
+                        "contenido": "El urólogo evalúa los síntomas, identifica el tipo de infección y determina su causa. Esto permite establecer un tratamiento específico que elimine la infección y reduzca el riesgo de recurrencias o complicaciones."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa infecciones genitales?",
+                "descripcion": "Un médico general puede detectar los primeros signos, pero la evaluación completa corresponde al especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Diagnóstico adecuado desde la especialidad",
+                        "contenido": "El médico general puede identificar síntomas iniciales, pero el urólogo realiza estudios más precisos para determinar el origen de las infecciones genitales y descartar otras condiciones que puedan presentar síntomas similares."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata infecciones genitales?",
+                "descripcion": "El doctor que trata las infecciones genitales es el urólogo, quien adapta el tratamiento según la causa y gravedad del caso.",
+                "h3": [
+                    {
+                        "titulo": "Tratamiento personalizado según el caso",
+                        "contenido": "El tratamiento puede incluir medicamentos específicos y recomendaciones para mejorar la higiene y prevenir recurrencias. El urólogo ajusta el manejo según el tipo de infección y las características del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por infecciones genitales?",
+                "descripcion": "Es importante acudir al médico ante los primeros síntomas para evitar que la infección avance.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que requieren valoración",
+                        "contenido": "Irritación, secreción, dolor, enrojecimiento o molestias persistentes son señales claras para acudir al médico. También es importante consultar si los síntomas no mejoran o reaparecen, ya que esto puede indicar una infección más compleja."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar infecciones genitales?",
+                "descripcion": "Las infecciones genitales deben tratarse con un urólogo en CDMX para asegurar un diagnóstico preciso.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite recibir una valoración integral, identificar la causa de las infecciones genitales y definir un tratamiento adecuado que proteja la salud y evite complicaciones."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si presentas síntomas de infecciones genitales, acudir con un urólogo en CDMX es la mejor forma de obtener un diagnóstico claro y un tratamiento efectivo que proteja tu salud.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata infecciones genitales en CDMX?",
+            "description": "Información sobre qué especialista trata las infecciones genitales, cuándo acudir y dónde atenderlas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Infecciones genitales"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata infecciones genitales?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata las infecciones genitales. En CDMX, puede ofrecer un manejo adecuado según la causa."
+        },
+        {
+            "pregunta": "¿Qué especialista trata infecciones genitales?",
+            "respuesta": "Las infecciones genitales deben ser valoradas por un urólogo, experto en el sistema urogenital. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa infecciones genitales?",
+            "respuesta": "El médico que revisa infecciones genitales es el urólogo, quien evalúa síntomas y solicita estudios. Esto permite confirmar el diagnóstico y definir el tratamiento."
+        },
+        {
+            "pregunta": "¿Qué doctor trata infecciones genitales?",
+            "respuesta": "El doctor que trata infecciones genitales es el urólogo, capacitado en enfermedades del aparato reproductor y urinario. En CDMX, puedes acudir para una valoración completa."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por infecciones genitales?",
+            "respuesta": "Debes acudir cuando presentes síntomas como ardor, secreción o dolor. En CDMX, una evaluación temprana evita complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar infecciones genitales en CDMX?",
+            "respuesta": "Las infecciones genitales se tratan en clínicas y hospitales con servicio de urología en CDMX. Es importante acudir con un especialista para un tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales requieren tratamiento inmediato?",
+            "respuesta": "Sí, se recomienda tratarlas lo antes posible para evitar complicaciones. El urólogo puede indicar el tratamiento adecuado según el caso."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo infecciones genitales?",
+            "respuesta": "Se identifican por síntomas como picazón, secreción o dolor en la zona genital. Un urólogo puede confirmar el diagnóstico con estudios."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales son urgentes?",
+            "respuesta": "No siempre son urgentes, pero sí requieren valoración médica. En CDMX, puedes agendar consulta con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué estudios se hacen para infecciones genitales?",
+            "respuesta": "Se realizan análisis de laboratorio y exploración física. Esto ayuda a identificar la causa exacta de las infecciones genitales."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden desaparecer solas?",
+            "respuesta": "Algunas pueden mejorar, pero muchas requieren tratamiento específico. Es importante no automedicarse."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales afectan la vida diaria?",
+            "respuesta": "Sí, pueden causar molestias que afectan actividades cotidianas. El tratamiento adecuado mejora los síntomas rápidamente."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por infecciones genitales?",
+            "respuesta": "Sí, pero lo ideal es acudir con un urólogo para una evaluación más precisa. En CDMX, esto permite un tratamiento adecuado desde el inicio."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales tienen cura definitiva?",
+            "respuesta": "Sí, la mayoría de los casos se curan con tratamiento adecuado. Es importante seguir las indicaciones médicas."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar infecciones genitales en CDMX?",
+            "respuesta": "El costo depende de los estudios y el tratamiento necesario. Se recomienda acudir a consulta para una valoración personalizada."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden empeorar si no se tratan?",
+            "respuesta": "Sí, pueden progresar y causar complicaciones más serias. Por eso es importante acudir a valoración médica oportuna."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden repetirse?",
+            "respuesta": "Sí, pueden ser recurrentes si no se trata la causa o hay factores de riesgo. El seguimiento médico ayuda a prevenir recaídas."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales están relacionadas con otras enfermedades?",
+            "respuesta": "Sí, pueden asociarse a otros problemas del sistema urinario o reproductor. El diagnóstico adecuado permite identificar estas relaciones."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato las infecciones genitales?",
+            "respuesta": "Puede haber complicaciones como infecciones más graves o afectación de otros órganos. En CDMX, es recomendable tratarlas a tiempo."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales afectan la calidad de vida?",
+            "respuesta": "Sí, pueden generar molestias físicas y emocionales. El tratamiento adecuado mejora significativamente el bienestar."
+        }
+    ]
+}

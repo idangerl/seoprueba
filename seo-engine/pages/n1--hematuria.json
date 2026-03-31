@@ -1,0 +1,187 @@
+{
+    "seo": {
+        "palabra_clave_principal": "hematuria",
+        "palabras_clave_secundarias": [
+            "sangre en la orina",
+            "causas de hematuria",
+            "urologo CDMX",
+            "problemas urinarios",
+            "enfermedades urologicas"
+        ],
+        "slug": "hematuria",
+        "title": "Hematuria en CDMX: causas, diagnóstico y relación con enfermedades urológicas",
+        "meta_description": "Descubre qué significa la hematuria, sus causas más comunes y cómo se relaciona con problemas urinarios, próstata, riñón y otras condiciones urológicas en CDMX.",
+        "h1": "Hematuria en CDMX: causas, evaluación y lo que puede indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "Detectar sangre en la orina puede generar preocupación inmediata, pero también es una señal clave que el cuerpo utiliza para alertar sobre distintos problemas urinarios o sistémicos. La hematuria no es una enfermedad en sí misma, sino un síntoma que puede estar relacionado con infecciones, alteraciones prostáticas, enfermedades renales o incluso tumores urológicos. En una ciudad como CDMX, donde el acceso a especialistas permite una evaluación oportuna, entender este signo es fundamental para orientar el diagnóstico y evitar complicaciones. Desde condiciones comunes como una infección urinaria hasta escenarios más complejos como el cáncer de vejiga o problemas renales, la hematuria requiere siempre un enfoque integral.",
+        "bloques": [
+            {
+                "h2": "¿Qué puede indicar la hematuria en hombres y mujeres?",
+                "descripcion": "La presencia de sangre en la orina puede tener múltiples orígenes, y su interpretación depende del contexto clínico, la edad y otros síntomas asociados. Es fundamental analizarla como parte de un panorama más amplio de salud urológica.",
+                "h3": [
+                    {
+                        "titulo": "Relación con infecciones y problemas urinarios",
+                        "contenido": "Una de las causas más frecuentes de hematuria es la infección urinaria, especialmente cuando se acompaña de ardor al orinar, urgencia o aumento en la frecuencia. También puede aparecer en casos de incontinencia urinaria o cuando existen alteraciones estructurales como la estenosis uretral, que dificultan el flujo normal de la orina y generan irritación."
+                    },
+                    {
+                        "titulo": "Cálculos renales y afectación del tracto urinario",
+                        "contenido": "Los cálculos renales son otra causa común, ya que al desplazarse pueden lesionar las vías urinarias y provocar sangrado visible o microscópico. Este tipo de hematuria suele acompañarse de dolor intenso en la zona lumbar o abdominal, lo que también orienta hacia problemas renales más amplios."
+                    }
+                ]
+            },
+            {
+                "h2": "Hematuria y su relación con enfermedades de la próstata y órganos reproductivos",
+                "descripcion": "En hombres, la hematuria puede estar estrechamente vinculada con alteraciones prostáticas o condiciones del sistema reproductor, que también afectan la función urinaria y sexual.",
+                "h3": [
+                    {
+                        "titulo": "Problemas de próstata y enfermedades asociadas",
+                        "contenido": "Condiciones como la hiperplasia prostática o la prostatitis pueden provocar hematuria debido a inflamación o crecimiento del tejido prostático. En algunos casos, también puede ser un signo de cáncer de próstata, especialmente cuando se presenta junto a otros síntomas urinarios persistentes. Estos problemas de próstata suelen coexistir con molestias al orinar o cambios en el flujo urinario."
+                    },
+                    {
+                        "titulo": "Síntomas urológicos y sexuales relacionados",
+                        "contenido": "Aunque la hematuria no siempre está directamente relacionada con la función sexual, puede coexistir con condiciones como la disfunción eréctil o la eyaculación precoz cuando existe una base inflamatoria o vascular. Además, enfermedades como el varicocele, hidrocele o infecciones genitales pueden generar molestias como dolor testicular, que requieren evaluación conjunta dentro del contexto urológico."
+                    }
+                ]
+            },
+            {
+                "h2": "Cuando la hematuria puede ser señal de enfermedades graves",
+                "descripcion": "Aunque muchas causas son benignas, la hematuria también puede ser el primer signo de patologías más complejas que requieren diagnóstico oportuno.",
+                "h3": [
+                    {
+                        "titulo": "Tumores urológicos y cáncer de vejiga",
+                        "contenido": "La presencia de sangre en la orina sin dolor puede ser un dato relevante en el diagnóstico temprano de tumores urológicos, incluyendo el cáncer de vejiga. Este tipo de hematuria suele ser intermitente y puede pasar desapercibido si no se estudia adecuadamente."
+                    },
+                    {
+                        "titulo": "Enfermedades renales y otras causas estructurales",
+                        "contenido": "Diversos problemas renales, desde inflamaciones hasta enfermedades crónicas, pueden manifestarse con hematuria. Asimismo, condiciones como la fimosis en etapas avanzadas o alteraciones anatómicas pueden influir indirectamente en la salud urinaria. Evaluar estos factores permite diferenciar entre causas leves y aquellas que requieren atención especializada inmediata."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Hematuria en CDMX",
+            "description": "Información completa sobre hematuria, sus causas, relación con enfermedades urológicas y su importancia en el diagnóstico en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Hematuria"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la hematuria y cuándo debo preocuparme en CDMX?",
+            "respuesta": "La hematuria es la presencia de sangre en la orina y puede relacionarse con Problemas urinarios o Problemas renales, incluyendo Incontinencia urinaria. En CDMX, es importante evaluarla con un urólogo para descartar causas como Infección urinaria o Cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿La hematuria siempre indica una enfermedad grave?",
+            "respuesta": "No siempre, pero puede estar asociada a Cálculos renales, Prostatitis o incluso Tumores urológicos. Por eso, dentro de la sección Hematuria se orienta sobre cuándo requiere atención médica."
+        },
+        {
+            "pregunta": "¿Qué especialista trata la hematuria en CDMX?",
+            "respuesta": "El urólogo es el especialista indicado para estudiar la hematuria y su relación con Problemas de próstata, Infecciones genitales o Estenosis uretral. En CDMX, puede realizar un diagnóstico integral."
+        },
+        {
+            "pregunta": "¿Cuáles son las causas más comunes de hematuria?",
+            "respuesta": "Entre las causas frecuentes están la Infección urinaria, Cálculos renales y Hiperplasia prostática. También puede estar vinculada a Cáncer de próstata o Cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿La hematuria puede aparecer sin dolor?",
+            "respuesta": "Sí, puede ser indolora y aun así estar relacionada con Tumores urológicos o Problemas renales. Por eso, en la sección Hematuria se explica la importancia de evaluarla incluso sin síntomas."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para evaluar la hematuria?",
+            "respuesta": "El urólogo puede solicitar análisis de orina, estudios de imagen y otros exámenes para detectar Infección urinaria, Cálculos renales o Estenosis uretral. Esto permite identificar la causa exacta dentro del contexto de Problemas urinarios."
+        },
+        {
+            "pregunta": "¿La hematuria está relacionada con problemas de próstata?",
+            "respuesta": "Sí, puede estar asociada a Hiperplasia prostática, Prostatitis o incluso Cáncer de próstata. Por eso se incluye dentro de los Problemas de próstata que deben evaluarse en CDMX."
+        },
+        {
+            "pregunta": "¿Puede la hematuria estar relacionada con cáncer?",
+            "respuesta": "Sí, en algunos casos se relaciona con Cáncer de vejiga o Tumores urológicos. Detectarla a tiempo permite descartar o tratar estas condiciones de forma oportuna."
+        },
+        {
+            "pregunta": "¿La hematuria puede ser causada por infecciones?",
+            "respuesta": "Sí, una Infección urinaria o Infecciones genitales pueden provocar sangre en la orina. En la sección Hematuria se explica cómo diferenciarlas de otras causas."
+        },
+        {
+            "pregunta": "¿La hematuria desaparece sola?",
+            "respuesta": "En algunos casos leves puede desaparecer, pero también puede ser signo de Problemas renales o Cálculos renales. Siempre es recomendable valoración urológica en CDMX."
+        },
+        {
+            "pregunta": "¿La hematuria afecta solo a hombres?",
+            "respuesta": "No, puede presentarse en hombres y mujeres, aunque en hombres puede relacionarse con Problemas de próstata o Prostatitis. En ambos casos, requiere evaluación médica."
+        },
+        {
+            "pregunta": "¿Puede la actividad física causar hematuria?",
+            "respuesta": "Sí, el ejercicio intenso puede causar hematuria temporal, pero también puede confundirse con Problemas urinarios o Cálculos renales. Por eso es importante una revisión adecuada."
+        },
+        {
+            "pregunta": "¿La hematuria está relacionada con dolor testicular?",
+            "respuesta": "En algunos casos, puede coexistir con Dolor testicular si hay infecciones o inflamación urológica. Esto puede orientar hacia diagnósticos como Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Puede la hematuria estar asociada a problemas sexuales?",
+            "respuesta": "Indirectamente, sí, ya que condiciones como Prostatitis o Problemas de próstata pueden afectar tanto la orina como la función sexual, incluyendo Disfunción eréctil o Eyaculación precoz."
+        },
+        {
+            "pregunta": "¿La hematuria puede aparecer en jóvenes?",
+            "respuesta": "Sí, puede presentarse en jóvenes por Infección urinaria, Varicocele o incluso Cálculos renales. La evaluación temprana ayuda a descartar complicaciones."
+        },
+        {
+            "pregunta": "¿Qué tan frecuente es la hematuria en consulta urológica?",
+            "respuesta": "Es un motivo común de consulta, ya que puede estar relacionada con múltiples Problemas urinarios o Problemas renales. Por eso tiene una sección específica dentro del hub."
+        },
+        {
+            "pregunta": "¿La hematuria puede estar relacionada con malformaciones urológicas?",
+            "respuesta": "Sí, puede vincularse con condiciones como Estenosis uretral o Hidrocele en algunos casos. Estas alteraciones forman parte de los Problemas urológicos evaluados."
+        },
+        {
+            "pregunta": "¿La hematuria puede ser un síntoma de infecciones de transmisión sexual?",
+            "respuesta": "En algunos casos, sí, especialmente si hay Infecciones genitales. Esto puede acompañarse de otros síntomas urinarios o molestias."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir a urgencias por hematuria en CDMX?",
+            "respuesta": "Si la hematuria es abundante o se acompaña de dolor intenso, puede estar relacionada con Cálculos renales o Tumores urológicos. En CDMX, se recomienda atención inmediata."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con la hematuria dentro de la urología?",
+            "respuesta": "Puede estar vinculada con Fimosis, Problemas de próstata o incluso Cáncer de vejiga. La sección Hematuria conecta estas condiciones para orientar mejor al paciente."
+        }
+    ]
+}

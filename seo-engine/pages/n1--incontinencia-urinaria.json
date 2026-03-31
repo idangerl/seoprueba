@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "incontinencia urinaria",
+        "palabras_clave_secundarias": [
+            "pérdida de orina",
+            "control urinario",
+            "urologo CDMX",
+            "problemas al orinar",
+            "salud urinaria"
+        ],
+        "slug": "incontinencia-urinaria",
+        "title": "Incontinencia urinaria en CDMX: causas, tipos y relación con problemas urológicos",
+        "meta_description": "Conoce qué es la incontinencia urinaria, sus causas y cómo se relaciona con otras enfermedades urológicas en CDMX. Información clara y útil.",
+        "h1": "Incontinencia urinaria en CDMX: causas, tipos y qué puede indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La incontinencia urinaria es un problema que afecta el control de la vejiga y puede presentarse en distintas etapas de la vida, generando incomodidad y afectando la confianza personal. Más allá de la pérdida de orina, este síntoma suele estar relacionado con múltiples causas urológicas que requieren evaluación adecuada. En CDMX, entender la incontinencia urinaria permite identificar si se trata de un problema aislado o de una señal asociada a alteraciones más amplias del sistema urinario o reproductor.",
+        "bloques": [
+            {
+                "h2": "¿Por qué ocurre la incontinencia urinaria y qué factores la provocan?",
+                "descripcion": "La pérdida de control urinario puede tener múltiples causas, desde debilidad muscular hasta enfermedades del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Relación con infecciones y alteraciones urinarias",
+                        "contenido": "Una infección urinaria puede irritar la vejiga y provocar urgencia o pérdida involuntaria de orina. Asimismo, problemas urinarios como la estenosis uretral pueden dificultar el flujo adecuado, generando presión y episodios de incontinencia urinaria."
+                    }
+                ]
+            },
+            {
+                "h2": "Incontinencia urinaria y su relación con enfermedades urológicas",
+                "descripcion": "Este síntoma puede estar vinculado con diversas condiciones que afectan la próstata, riñones y otros órganos del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Problemas de próstata y enfermedades asociadas",
+                        "contenido": "En hombres, la hiperplasia prostática es una causa frecuente de incontinencia urinaria, al igual que la prostatitis. También es importante descartar cáncer de próstata cuando existen síntomas persistentes. Estas condiciones forman parte de los principales problemas de próstata que afectan el control urinario."
+                    },
+                    {
+                        "titulo": "Relación con riñones, vejiga y otras patologías",
+                        "contenido": "Los cálculos renales, problemas renales y enfermedades como el cáncer de vejiga pueden alterar el funcionamiento normal del sistema urinario. La presencia de hematuria también puede acompañar estos cuadros. Además, tumores urológicos pueden manifestarse con cambios en el control urinario que requieren atención especializada."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de la incontinencia urinaria en la salud integral",
+                "descripcion": "La incontinencia urinaria no solo afecta la vejiga, sino que puede estar relacionada con otras áreas de la salud masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con salud sexual y genital",
+                        "contenido": "Condiciones como la disfunción eréctil o la eyaculación precoz pueden coexistir con problemas urológicos. Asimismo, infecciones genitales, fimosis o alteraciones como el varicocele y el hidrocele pueden presentarse junto con molestias urinarias, incluyendo dolor testicular."
+                    },
+                    {
+                        "titulo": "Importancia de un enfoque integral en CDMX",
+                        "contenido": "En CDMX, la valoración por un urólogo permite analizar de forma integral la incontinencia urinaria y su relación con otras condiciones. Esto facilita identificar la causa real del problema y comprender si está vinculado con alteraciones estructurales, enfermedades urológicas o factores funcionales del sistema urinario."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Incontinencia urinaria en CDMX",
+            "description": "Información completa sobre la incontinencia urinaria, sus causas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Incontinencia urinaria"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la incontinencia urinaria y por qué ocurre?",
+            "respuesta": "La incontinencia urinaria es la pérdida involuntaria de orina y forma parte de los Problemas urinarios. Puede relacionarse con Infección urinaria, Problemas de próstata o Problemas renales."
+        },
+        {
+            "pregunta": "¿Cuáles son los tipos de incontinencia urinaria?",
+            "respuesta": "Existen varios tipos como de esfuerzo, urgencia o mixta, todos dentro del espectro de Problemas urinarios. Algunas formas pueden asociarse a Estenosis uretral o Hiperplasia prostática."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria es común en hombres?",
+            "respuesta": "Sí, especialmente en hombres con Problemas de próstata o tras cirugías prostáticas. También puede coexistir con Disfunción eréctil o Prostatitis."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por incontinencia urinaria en CDMX?",
+            "respuesta": "Debes acudir si la pérdida de orina es frecuente o afecta tu vida diaria. En CDMX, el urólogo puede evaluar causas como Cálculos renales o Infección urinaria."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede ser causada por infecciones?",
+            "respuesta": "Sí, una Infección urinaria o Infecciones genitales pueden provocar pérdida de orina. Esto suele acompañarse de otros síntomas urinarios."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria está relacionada con la próstata?",
+            "respuesta": "Sí, puede estar vinculada a Hiperplasia prostática, Prostatitis o incluso Cáncer de próstata. Por eso es importante evaluar los Problemas de próstata."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede causar sangre en la orina?",
+            "respuesta": "No directamente, pero puede coexistir con Hematuria en algunos casos. Esto requiere descartar afecciones como Cáncer de vejiga o Tumores urológicos."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para evaluar la incontinencia urinaria?",
+            "respuesta": "El urólogo puede solicitar análisis de orina, estudios de imagen y pruebas funcionales. Esto ayuda a identificar Problemas urinarios o Estenosis uretral."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria tiene tratamiento?",
+            "respuesta": "Sí, el tratamiento depende de la causa e incluye cambios de hábitos, medicamentos o cirugía. El urólogo definirá la mejor opción según cada caso."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede afectar la vida sexual?",
+            "respuesta": "Sí, puede impactar la calidad de vida y la función sexual, incluyendo Disfunción eréctil o Eyaculación precoz. El tratamiento puede mejorar ambos aspectos."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede aparecer en jóvenes?",
+            "respuesta": "Sí, aunque es más frecuente en adultos, puede presentarse en jóvenes por Infecciones genitales o Problemas urinarios. La evaluación médica es clave."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede ser temporal?",
+            "respuesta": "Sí, puede ser temporal si está asociada a Infección urinaria o inflamación. Sin embargo, si persiste, debe evaluarse por un especialista."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria está relacionada con problemas renales?",
+            "respuesta": "En algunos casos puede asociarse a Problemas renales o complicaciones urinarias. Esto requiere una evaluación integral."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede confundirse con otras enfermedades?",
+            "respuesta": "Sí, puede confundirse con Cálculos renales, Estenosis uretral o infecciones. Por eso es importante un diagnóstico adecuado."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede causar dolor testicular?",
+            "respuesta": "No es común, pero puede coexistir con Dolor testicular si hay infecciones o inflamación asociada. Esto debe ser valorado por un urólogo."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria empeora con el tiempo?",
+            "respuesta": "Puede progresar si no se trata adecuadamente. También puede relacionarse con Problemas de próstata o enfermedades crónicas."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede estar asociada a cáncer?",
+            "respuesta": "En algunos casos puede coexistir con Cáncer de vejiga o Tumores urológicos. Por eso es importante una evaluación oportuna."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con la incontinencia urinaria?",
+            "respuesta": "Puede estar vinculada con Hidrocele, Varicocele o Fimosis en el contexto urológico general. El urólogo evalúa todas estas condiciones de forma integral."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria afecta la calidad de vida?",
+            "respuesta": "Sí, puede limitar actividades diarias y afectar el bienestar emocional. El tratamiento adecuado mejora significativamente la calidad de vida."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación de la sección Incontinencia urinaria?",
+            "respuesta": "Incluye la valoración de síntomas, estudios diagnósticos y relación con otros Problemas urinarios o Problemas de próstata. La sección Incontinencia urinaria orienta sobre diagnóstico y tratamiento."
+        }
+    ]
+}

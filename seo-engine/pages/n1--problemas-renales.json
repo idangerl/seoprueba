@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "problemas renales",
+        "palabras_clave_secundarias": [
+            "enfermedades del riñón",
+            "dolor renal",
+            "urologo CDMX",
+            "síntomas renales",
+            "salud renal"
+        ],
+        "slug": "problemas-renales",
+        "title": "Problemas renales en CDMX: síntomas, causas y relación con enfermedades urológicas",
+        "meta_description": "Conoce los problemas renales, sus síntomas y cómo se relacionan con otras enfermedades urológicas en CDMX. Información clara y útil.",
+        "h1": "Problemas renales en CDMX: síntomas, causas y qué pueden indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral"
+    ],
+    "seccion_seo": {
+        "introduccion": "Los problemas renales pueden desarrollarse de forma silenciosa o manifestarse con síntomas como dolor en la zona lumbar, cambios en la orina o malestar general. Más allá de ser una afección aislada, suelen estar relacionados con el funcionamiento del sistema urinario en su conjunto, incluyendo condiciones como la incontinencia urinaria o diversos problemas de próstata que pueden alterar el flujo urinario y afectar a los riñones. En CDMX, comprender los problemas renales permite detectar señales tempranas, identificar factores de riesgo y entender su relación con otras enfermedades urológicas que pueden afectar la salud a largo plazo.",
+        "bloques": [
+            {
+                "h2": "¿Qué síntomas pueden indicar problemas renales?",
+                "descripcion": "Los problemas renales pueden presentar distintos síntomas dependiendo de la causa y el avance de la enfermedad.",
+                "h3": [
+                    {
+                        "titulo": "Señales urinarias y sistémicas",
+                        "contenido": "Dolor en la espalda baja, cambios en la frecuencia urinaria, presencia de hematuria o molestias al orinar pueden ser señales de alerta. También es común que una infección urinaria o los cálculos renales se manifiesten con síntomas que afectan directamente la función renal."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de los problemas renales con otras enfermedades urológicas",
+                "descripcion": "Los riñones forman parte de un sistema interconectado, por lo que su funcionamiento puede verse afectado por múltiples condiciones.",
+                "h3": [
+                    {
+                        "titulo": "Enfermedades prostáticas y su impacto renal",
+                        "contenido": "Condiciones como la hiperplasia prostática o el cáncer de próstata pueden dificultar el flujo urinario, generando presión que afecta a los riñones. Asimismo, la prostatitis puede contribuir a infecciones que se extienden hacia el tracto urinario superior."
+                    },
+                    {
+                        "titulo": "Relación con vejiga, uretra y otras patologías",
+                        "contenido": "El cáncer de vejiga, la estenosis uretral y otros problemas urinarios pueden alterar el flujo de la orina, afectando indirectamente la función renal. Además, los tumores urológicos pueden involucrar diferentes estructuras del sistema urinario y requerir evaluación integral."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de los problemas renales en la salud general",
+                "descripcion": "Las alteraciones renales no solo afectan la filtración de desechos, sino también otros aspectos de la salud.",
+                "h3": [
+                    {
+                        "titulo": "Relación con salud genital y función sexual",
+                        "contenido": "Problemas como la disfunción eréctil o la eyaculación precoz pueden coexistir en pacientes con enfermedades urológicas. Además, infecciones genitales, fimosis o condiciones como varicocele e hidrocele pueden aparecer en conjunto con alteraciones del sistema urinario, acompañándose en ocasiones de dolor testicular."
+                    },
+                    {
+                        "titulo": "Importancia de la evaluación integral en CDMX",
+                        "contenido": "En CDMX, la valoración por un urólogo permite analizar los problemas renales en relación con el resto del sistema urinario. Esto facilita identificar la causa del problema, su impacto en otras áreas como la próstata o la vejiga, y comprender su evolución dentro de la salud general."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Problemas renales en CDMX",
+            "description": "Información completa sobre los problemas renales, sus síntomas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Problemas renales"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué son los problemas renales y por qué ocurren?",
+            "respuesta": "Los problemas renales son alteraciones en el funcionamiento de los riñones que pueden afectar la salud general. Pueden relacionarse con Cálculos renales, Infección urinaria o Problemas urinarios."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de los problemas renales?",
+            "respuesta": "Incluyen dolor lumbar, cambios en la orina y fatiga. También pueden presentarse Hematuria o signos asociados a Infección urinaria."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por problemas renales en CDMX?",
+            "respuesta": "Debes acudir si presentas dolor persistente, sangre en la orina o infecciones recurrentes. En CDMX, el urólogo puede descartar Cálculos renales o Tumores urológicos."
+        },
+        {
+            "pregunta": "¿Los problemas renales son graves?",
+            "respuesta": "Pueden ser leves o graves dependiendo de la causa. Algunos casos pueden relacionarse con Cáncer de vejiga o complicaciones avanzadas."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden causar problemas urinarios?",
+            "respuesta": "Sí, pueden afectar la frecuencia y el control de la micción. Esto se relaciona directamente con Problemas urinarios e Incontinencia urinaria."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden causar sangre en la orina?",
+            "respuesta": "Sí, pueden provocar Hematuria, especialmente en casos de Cálculos renales. Esto requiere evaluación médica."
+        },
+        {
+            "pregunta": "¿Los problemas renales están relacionados con infecciones?",
+            "respuesta": "Sí, pueden derivar de o provocar Infección urinaria. También pueden coexistir con Infecciones genitales en algunos casos."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para evaluar problemas renales?",
+            "respuesta": "Se realizan análisis de sangre, orina y estudios de imagen. Esto permite identificar causas como Cálculos renales o Estenosis uretral."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden confundirse con otras enfermedades?",
+            "respuesta": "Sí, pueden confundirse con Problemas urinarios, Prostatitis o incluso Dolor testicular. El diagnóstico médico es clave."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden afectar la función sexual?",
+            "respuesta": "En algunos casos pueden influir indirectamente en la función sexual. Esto puede relacionarse con Disfunción eréctil o Eyaculación precoz."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden aparecer en jóvenes?",
+            "respuesta": "Sí, pueden presentarse a cualquier edad, especialmente por infecciones o cálculos. También pueden relacionarse con hábitos o factores de riesgo."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden estar relacionados con la próstata?",
+            "respuesta": "Sí, en algunos casos pueden coexistir con Problemas de próstata o Hiperplasia prostática. Esto ocurre por la conexión del sistema urinario."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden causar dolor testicular?",
+            "respuesta": "En algunos casos, el dolor puede irradiarse y confundirse con Dolor testicular. Esto también puede coexistir con Varicocele o Hidrocele."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden derivar en cáncer?",
+            "respuesta": "Algunos casos pueden asociarse a Tumores urológicos. Por eso es importante una evaluación oportuna."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden empeorar con el tiempo?",
+            "respuesta": "Sí, pueden progresar si no se tratan adecuadamente. Esto puede agravar los Problemas urinarios."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden causar incontinencia urinaria?",
+            "respuesta": "En algunos casos pueden influir en el control urinario. Esto puede manifestarse como Incontinencia urinaria."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con los problemas renales?",
+            "respuesta": "Pueden coexistir con Fimosis, Estenosis uretral o Infecciones genitales. El urólogo evalúa el sistema urogenital completo."
+        },
+        {
+            "pregunta": "¿Los problemas renales afectan la calidad de vida?",
+            "respuesta": "Sí, pueden afectar el bienestar general y las actividades diarias. El tratamiento adecuado mejora la calidad de vida."
+        },
+        {
+            "pregunta": "¿Los problemas renales pueden estar relacionados con enfermedades prostáticas?",
+            "respuesta": "Sí, pueden coexistir con Cáncer de próstata o Prostatitis. Esto requiere evaluación integral."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación en la sección Problemas renales?",
+            "respuesta": "Incluye diagnóstico, tratamiento y relación con Problemas urinarios o Tumores urológicos. La sección Problemas renales orienta al paciente de forma integral."
+        }
+    ]
+}

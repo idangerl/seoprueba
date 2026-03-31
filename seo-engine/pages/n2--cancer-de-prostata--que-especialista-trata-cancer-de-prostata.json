@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "cáncer de próstata",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "oncología urológica",
+            "tratamiento de cáncer de próstata",
+            "síntomas de cáncer de próstata",
+            "diagnóstico prostático"
+        ],
+        "slug": "que-especialista-trata-cancer-de-prostata",
+        "title": "¿Qué especialista trata cáncer de próstata en CDMX? Diagnóstico y atención urológica",
+        "meta_description": "Descubre qué especialista trata el cáncer de próstata en CDMX, cuándo acudir y dónde recibir atención urológica adecuada para un diagnóstico oportuno.",
+        "h1": "¿Qué especialista trata cáncer de próstata en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "El cáncer de próstata es una condición que requiere atención médica especializada desde sus primeras sospechas. Identificar al especialista adecuado en CDMX no solo permite confirmar el diagnóstico prostático, sino también iniciar un tratamiento de cáncer de próstata oportuno que puede marcar una diferencia significativa en la evolución de la enfermedad. Conocer quién evalúa, diagnostica y trata esta patología es clave para tomar decisiones informadas y actuar a tiempo.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata cáncer de próstata?",
+                "descripcion": "El especialista principal encargado del manejo del cáncer de próstata es el urólogo, con formación en el diagnóstico y tratamiento de enfermedades del sistema urinario y reproductor masculino.",
+                "h3": [
+                    {
+                        "titulo": "El papel del urólogo en el tratamiento",
+                        "contenido": "El urólogo en CDMX es el profesional que evalúa los síntomas, solicita estudios específicos y determina el enfoque terapéutico más adecuado para el cáncer de próstata. Dependiendo del caso, puede coordinarse con oncología para un manejo integral, especialmente en etapas avanzadas."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa cáncer de próstata?",
+                "descripcion": "La revisión del cáncer de próstata puede comenzar con un médico general, pero el diagnóstico preciso corresponde al urólogo mediante estudios especializados.",
+                "h3": [
+                    {
+                        "titulo": "Evaluación clínica y pruebas diagnósticas",
+                        "contenido": "El urólogo realiza exploraciones como el tacto rectal y solicita estudios como el antígeno prostático específico (PSA) o imágenes diagnósticas. Estas herramientas permiten detectar alteraciones tempranas y diferenciar el cáncer de próstata de otras enfermedades prostáticas."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata cáncer de próstata?",
+                "descripcion": "El tratamiento del cáncer de próstata es liderado por el urólogo, quien diseña un plan adaptado a la etapa y características del paciente.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento disponibles",
+                        "contenido": "El manejo puede incluir vigilancia activa, terapias médicas o procedimientos especializados. En CDMX, el tratamiento de cáncer de próstata se enfoca en preservar la calidad de vida del paciente, considerando factores como la edad, síntomas y evolución de la enfermedad."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por cáncer de próstata?",
+                "descripcion": "Acudir a valoración médica oportuna es clave para detectar el cáncer de próstata en etapas tempranas y mejorar el pronóstico.",
+                "h3": [
+                    {
+                        "titulo": "Señales y momentos clave para consulta",
+                        "contenido": "Se recomienda acudir al urólogo si existen síntomas como dificultad para orinar, flujo urinario débil o cambios en la frecuencia urinaria. También es importante realizar revisiones preventivas, incluso sin síntomas, especialmente a partir de cierta edad o si hay antecedentes familiares."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar cáncer de próstata?",
+                "descripcion": "El tratamiento del cáncer de próstata debe realizarse en centros médicos con experiencia en urología y oncología.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de la atención especializada en CDMX",
+                        "contenido": "En CDMX, acudir a un especialista en urología con experiencia en cáncer de próstata permite acceder a un diagnóstico preciso y a un tratamiento adecuado. La elección de un entorno especializado mejora la toma de decisiones y el seguimiento del paciente."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "¿Buscas saber qué especialista trata cáncer de próstata en CDMX? Agenda tu valoración con un urólogo y recibe una evaluación clara, oportuna y enfocada en tu salud.",
+    "beneficios_contacto": [
+        "Atención especializada en urología oncológica",
+        "Diagnóstico oportuno con estudios adecuados",
+        "Tratamiento personalizado según cada caso",
+        "Seguimiento médico continuo",
+        "Enfoque integral en salud masculina"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata cáncer de próstata en CDMX?",
+            "description": "Información sobre qué especialista trata el cáncer de próstata, cuándo acudir y dónde recibir atención en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Cáncer de próstata"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata cáncer de próstata?",
+            "respuesta": "El especialista que trata el cáncer de próstata es el urólogo, quien evalúa el diagnóstico y define el tratamiento adecuado. En CDMX puedes acudir a consulta para una valoración integral."
+        },
+        {
+            "pregunta": "¿Qué especialista trata cáncer de próstata?",
+            "respuesta": "El urólogo es el médico indicado para tratar el cáncer de próstata. También puede trabajar en conjunto con oncólogos según el caso."
+        },
+        {
+            "pregunta": "¿Qué médico revisa cáncer de próstata?",
+            "respuesta": "El médico que revisa el cáncer de próstata es el urólogo. Realiza estudios clínicos y solicita pruebas para confirmar el diagnóstico."
+        },
+        {
+            "pregunta": "¿Qué doctor trata cáncer de próstata?",
+            "respuesta": "El doctor que trata el cáncer de próstata es el urólogo especializado en enfermedades del sistema urinario masculino. Puede indicar desde vigilancia hasta cirugía."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por cáncer de próstata?",
+            "respuesta": "Debes acudir si presentas síntomas urinarios persistentes, sangre en la orina o antecedentes familiares. La detección temprana mejora el pronóstico."
+        },
+        {
+            "pregunta": "¿Dónde tratar cáncer de próstata?",
+            "respuesta": "El cáncer de próstata se trata en clínicas urológicas y hospitales especializados en CDMX. Es importante acudir a un centro con experiencia en urología."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas del cáncer de próstata?",
+            "respuesta": "Incluyen dificultad para orinar, flujo débil y sangre en la orina. En etapas iniciales puede no presentar síntomas."
+        },
+        {
+            "pregunta": "¿Cómo se diagnostica el cáncer de próstata en CDMX?",
+            "respuesta": "Se diagnostica mediante antígeno prostático, tacto rectal y estudios de imagen. En algunos casos se requiere biopsia para confirmación."
+        },
+        {
+            "pregunta": "¿Qué tratamientos existen para el cáncer de próstata?",
+            "respuesta": "Los tratamientos incluyen vigilancia activa, cirugía, radioterapia o terapia hormonal. La elección depende del avance y características del tumor."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata siempre requiere cirugía?",
+            "respuesta": "No siempre, algunos casos se manejan con vigilancia o tratamientos no quirúrgicos. El urólogo define la mejor opción según cada paciente."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar cáncer de próstata en CDMX?",
+            "respuesta": "El costo varía según el tipo de tratamiento y la institución. Se recomienda una valoración médica para un presupuesto preciso."
+        },
+        {
+            "pregunta": "¿Qué tan urgente es tratar el cáncer de próstata?",
+            "respuesta": "Depende del estadio del cáncer, pero en general debe atenderse lo antes posible. Un diagnóstico temprano permite tratamientos menos invasivos."
+        },
+        {
+            "pregunta": "¿Se puede curar el cáncer de próstata?",
+            "respuesta": "Sí, especialmente si se detecta en etapas tempranas. El seguimiento médico es clave para lograr buenos resultados."
+        },
+        {
+            "pregunta": "¿Qué estudios necesito para detectar cáncer de próstata?",
+            "respuesta": "Se utilizan análisis de sangre, exploración física y estudios de imagen. En algunos casos se confirma con biopsia prostática."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata afecta la función sexual?",
+            "respuesta": "Puede afectar la función eréctil dependiendo del tratamiento. Es importante hablar con el especialista sobre los posibles efectos."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato el cáncer de próstata?",
+            "respuesta": "Puede progresar y afectar otros órganos o funciones del cuerpo. Esto puede complicar el tratamiento y el pronóstico."
+        },
+        {
+            "pregunta": "¿A qué edad debo hacerme estudios de próstata?",
+            "respuesta": "Generalmente a partir de los 40 o 45 años, o antes si hay antecedentes familiares. La detección temprana es fundamental."
+        },
+        {
+            "pregunta": "¿Cómo elegir un buen urólogo en CDMX para cáncer de próstata?",
+            "respuesta": "Busca experiencia, certificaciones y buenas referencias. También es importante que ofrezca diagnóstico y tratamiento integral."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata tiene factores de riesgo?",
+            "respuesta": "Sí, la edad, antecedentes familiares y algunos factores genéticos aumentan el riesgo. El control médico ayuda a detectarlo a tiempo."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata puede detectarse sin síntomas?",
+            "respuesta": "Sí, muchos casos se detectan en estudios de rutina sin síntomas evidentes. Por eso se recomienda realizar chequeos periódicos."
+        }
+    ]
+}

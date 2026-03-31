@@ -1,0 +1,179 @@
+{
+    "banner": {
+        "titulo": "Especialistas en Urología en CDMX",
+        "subtitulo": "Cuidado integral para tu salud urológica",
+        "texto": "En el Centro Urológico Masculino en CDMX ofrecemos atención especializada en urología con los más altos estándares médicos. Nuestro equipo está dedicado a brindar soluciones efectivas para todas las necesidades urológicas.",
+        "whatsapp": "Agenda tu cita por WhatsApp",
+        "telefono": "Llama para más información",
+        "imagen": "urologo-en-cdmx.png",
+        "alt": "Especialista en urología en CDMX"
+    },
+    "biografia": {
+        "titulo": "Centro Urológico Masculino - Expertos en la salud masculina cerca de CDMX",
+        "texto": "El Centro Urológico Masculino es una clínica especializada en el diagnóstico y tratamiento de enfermedades del tracto urinario masculino y sistema reproductor. Contamos con profesionales altamente capacitados en todas las áreas de la urología moderna.",
+        "subtitulo": "Tu salud urológica en las mejores manos",
+        "whatsapp": "Consulta con nuestros especialistas por WhatsApp",
+        "telefono": "Habla directamente con nuestro equipo",
+        "imagen1": "centro-urologico-en-cdmx.jpg",
+        "alt1": "Centro especializado en urología en CDMX",
+        "imagen2": "especialistas-en-urologia-en-cdmx.jpg",
+        "alt2": "Centro especializado en urología en CDMX"
+    },
+        "beneficios": {
+            "titulo": "Beneficios de elegir nuestros servicios Urológicos en CDMX",
+            "texto": "En el Centro Urológico Masculino combinamos experiencia médica con tecnología de vanguardia para ofrecerte los mejores resultados en tratamientos urológicos.",
+            "subtitulo": "Ventajas que marcan la diferencia en tu salud",
+            "beneficios": [
+                {
+                    "titulo": "Tecnología avanzada",
+                    "texto": "Contamos con equipos de última generación para diagnósticos precisos y tratamientos efectivos.",
+                    "imagen": "tecnologia-urologica-avanzada-en-cdmx.png"
+                },
+                {
+                    "titulo": "Enfoque personalizado",
+                    "texto": "Cada tratamiento es diseñado considerando las necesidades específicas del paciente.",
+                    "imagen": "tratamiento-personalizado-en-urologia-en-cdmx.png"
+                },
+                {
+                    "titulo": "Procedimientos mínimamente invasivos",
+                    "texto": "Ofrecemos técnicas que reducen el tiempo de recuperación y las molestias postoperatorias.",
+                    "imagen": "procedimientos-minimamente-invasivos-en-cdmx.png"
+                },
+                {
+                    "titulo": "Atención discreta y confidencial",
+                    "texto": "Garantizamos un ambiente seguro y confidencial para que nuestros pacientes se sientan cómodos al tratar temas sensibles de salud urológica.",
+                    "imagen": "atencion-confidencial-de-urologia-en-cdmx.png"
+                }
+            ],
+            "whatsapp": "Conoce más beneficios por WhatsApp",
+            "telefono": "Infórmate llamando a nuestro centro",
+            "imagen": "beneficios-urologia-cdmx",
+            "alt": "Beneficios de la urología moderna en CDMX"
+        },
+    "testimonios": {
+        "titulo": "Experiencias de nuestros pacientes en el Centro Urológico Masculino Urología en CDMX",
+        "subtitulo": "Historias reales de satisfacción y recuperación",
+        "testimonios": [
+            {
+                "nombre": "Roberto M.",
+                "texto": "Excelente atención en mi circuncisión. El procedimiento fue rápido y el postoperatorio muy bien explicado.",
+                "imagen": "icon-testimonio.svg"
+            },
+            {
+                "nombre": "Javier L.",
+                "texto": "Resolvieron mi problema de disfunción eréctil cuando otros médicos no pudieron. Muy profesionales.",
+                "imagen": "icon-testimonio.svg"
+            },
+            {
+                "nombre": "Carlos R.",
+                "texto": "La vasectomía fue más sencilla de lo que imaginaba. Sin dolor y rápida recuperación gracias a su técnica.",
+                "imagen": "icon-testimonio.svg"
+            }
+        ],
+        "whatsapp": "Comparte tu experiencia por WhatsApp",
+        "telefono": "Cuéntanos tu caso por teléfono",
+        "imagen": "testimonios-de-servicios-de-urologia-en-cdmx.jpg",
+        "alt": "Pacientes satisfechos con tratamientos urológicos en CDMX"
+    },
+    "servicios": {
+        "titulo": "Servicios de Urología con especialistas de la salud masculina en CDMX",
+        "subtitulo": "Soluciones integrales para tu salud masculina",
+        "texto": "Ofrecemos una amplia gama de servicios urológicos con el más alto nivel de especialización y cuidado al paciente.",
+        "servicios": [
+            {
+                "titulo": "Consulta urológica",
+                "texto": "Evaluación especializada para diagnosticar y tratar problemas del sistema urinario y reproductor masculino.",
+                "imagen": "consulta-urologica"
+            },
+            {
+                "titulo": "Detección de ETS",
+                "texto": "Pruebas confiables y discretas para detectar enfermedades de transmisión sexual.",
+                "imagen": "deteccion-de-ets"
+            },
+            {
+                "titulo": "Resección de verrugas o lesiones de ETS",
+                "texto": "Procedimientos seguros para eliminar verrugas y lesiones causadas por enfermedades de transmisión sexual.",
+                "imagen": "resecion-de-verrugas-o-lesiones-de-ets"
+            },
+            {
+                "titulo": "Circuncisión",
+                "texto": "Intervención realizada con técnicas modernas para mayor comodidad y rápida recuperación.",
+                "imagen": "circuncision"
+            },
+            {
+                "titulo": "Vasectomia",
+                "texto": "Método anticonceptivo permanente realizado con técnicas mínimamente invasivas.",
+                "imagen": "vasectomia"
+            },
+            {
+                "titulo": "Valoración de fertilidad",
+                "texto": "Estudios completos para evaluar la capacidad reproductiva masculina.",
+                "imagen": "valoracion-de-fertilidad"
+            },
+            {
+                "titulo": "Disfunción eréctil",
+                "texto": "Diagnóstico y tratamiento personalizado para problemas de erección.",
+                "imagen": "disfuncion-erectil"
+            },
+            {
+                "titulo": "Eyaculación precoz",
+                "texto": "Terapias efectivas para controlar el tiempo eyaculatorio.",
+                "imagen": "eyaculacion-precoz"
+            },
+            {
+                "titulo": "Enfermedades de la próstata",
+                "texto": "Manejo integral de prostatitis, hiperplasia prostática y cáncer de próstata.",
+                "imagen": "enfermedades-de-la-prostata"
+            }
+        ],
+        "whatsapp": "Consulta sobre nuestros servicios por WhatsApp",
+        "telefono": "Infórmate sobre tratamientos por teléfono"
+    },
+    "preguntas": {
+        "titulo": "Preguntas frecuentes sobre Urología en CDMX",
+        "subtitulo": "Resolvemos tus dudas sobre salud urológica",
+        "preguntas": {
+            "¿Cuándo debo acudir al urólogo?": "Se recomienda visita al urólogo ante síntomas como dolor al orinar, cambios en el flujo urinario, dolor testicular o problemas de función sexual. También para chequeos preventivos a partir de los 40 años.",
+            "¿La vasectomía afecta el desempeño sexual?": "No, la vasectomía no afecta la erección, el deseo sexual ni el volumen del eyaculado. Solo impide que los espermatozoides estén presentes en el semen.",
+            "¿Qué tan efectivos son los tratamientos para disfunción eréctil?": "Los tratamientos actuales tienen altas tasas de éxito, desde medicamentos orales hasta terapias más avanzadas según cada caso. El urólogo determinará la mejor opción tras una evaluación completa."
+        },
+        "whatsapp": "Resuelve tus dudas por WhatsApp",
+        "telefono": "Consulta tus preguntas por teléfono",
+        "imagen": "preguntas-urologia-cdmx",
+        "alt": "Preguntas comunes sobre urología en CDMX"
+    },
+    "formulario": {
+        "titulo": "Agenda tu consulta urológica",
+        "texto": "Completa este formulario y nos pondremos en contacto contigo para programar tu cita o resolver tus dudas sobre nuestros servicios urológicos."
+    },
+    "schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "¿Cuándo debo acudir al urólogo?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Se recomienda visita al urólogo ante síntomas como dolor al orinar, cambios en el flujo urinario, dolor testicular o problemas de función sexual. También para chequeos preventivos a partir de los 40 años."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "¿La vasectomía afecta el desempeño sexual?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, la vasectomía no afecta la erección, el deseo sexual ni el volumen del eyaculado. Solo impide que los espermatozoides estén presentes en el semen."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "¿Qué tan efectivos son los tratamientos para disfunción eréctil?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Los tratamientos actuales tienen altas tasas de éxito, desde medicamentos orales hasta terapias más avanzadas según cada caso. El urólogo determinará la mejor opción tras una evaluación completa."
+                }
+            }
+        ]
+    }
+}

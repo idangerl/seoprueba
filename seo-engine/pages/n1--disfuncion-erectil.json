@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "disfunción eréctil",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "problemas de erección",
+            "tratamiento disfunción eréctil",
+            "salud sexual masculina",
+            "causas disfunción eréctil"
+        ],
+        "slug": "disfuncion-erectil",
+        "title": "Disfunción eréctil en CDMX: causas, diagnóstico y enfoque urológico integral",
+        "meta_description": "Descubre las causas de la disfunción eréctil, su relación con otras enfermedades urológicas y cómo abordarla con un urólogo en CDMX.",
+        "h1": "Disfunción eréctil en CDMX: enfoque urológico integral"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La disfunción eréctil es un problema que puede afectar no solo la vida sexual, sino también la salud general del hombre. En CDMX, cada vez más pacientes consultan por dificultades en la erección que, en muchos casos, están relacionadas con otras condiciones urológicas como problemas de próstata, infecciones genitales o incluso enfermedades más complejas. Además, síntomas urinarios asociados, como los que aparecen en infecciones urinarias o incontinencia urinaria, pueden ser señales de fondo que requieren evaluación. Entender cómo la disfunción eréctil se conecta con el sistema urinario, hormonal y vascular es clave para abordar el problema de manera integral y efectiva.",
+        "bloques": [
+            {
+                "h2": "La disfunción eréctil como señal de otros problemas urológicos",
+                "descripcion": "La dificultad para lograr o mantener una erección puede ser un síntoma relacionado con diversas enfermedades del sistema urinario y reproductor.",
+                "h3": [
+                    {
+                        "titulo": "Relación con próstata, infecciones y alteraciones urinarias",
+                        "contenido": "Condiciones como la hiperplasia prostática, la prostatitis o incluso el cáncer de próstata pueden afectar la función eréctil. Asimismo, la presencia de infección urinaria, hematuria o problemas urinarios persistentes puede reflejar alteraciones que influyen en la salud sexual. En algunos casos, enfermedades más complejas como cáncer de vejiga o tumores urológicos también pueden estar relacionadas."
+                    }
+                ]
+            },
+            {
+                "h2": "Factores físicos asociados a la disfunción eréctil",
+                "descripcion": "Diversas condiciones anatómicas y funcionales pueden influir directamente en la capacidad de lograr una erección.",
+                "h3": [
+                    {
+                        "titulo": "Alteraciones genitales y testiculares",
+                        "contenido": "Problemas como varicocele, hidrocele o fimosis pueden impactar la función sexual masculina. Además, síntomas como dolor testicular o infecciones genitales pueden alterar la respuesta eréctil. También es importante considerar la eyaculación precoz como una condición asociada que puede coexistir con la disfunción eréctil y afectar la experiencia sexual."
+                    }
+                ]
+            },
+            {
+                "h2": "La disfunción eréctil en el contexto de la salud renal y urinaria",
+                "descripcion": "El funcionamiento adecuado del sistema urinario y renal influye en la salud sexual masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con riñones y vías urinarias",
+                        "contenido": "Los problemas renales pueden afectar la circulación y el equilibrio hormonal, impactando la función eréctil. Asimismo, condiciones como cálculos renales o estenosis uretral pueden generar molestias y alteraciones que influyen indirectamente en la respuesta sexual. Un enfoque urológico integral permite evaluar todos estos factores para ofrecer un manejo adecuado."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [
+        "Evaluación integral de la salud sexual masculina",
+        "Identificación de causas subyacentes",
+        "Enfoque personalizado según cada paciente",
+        "Atención especializada en urología",
+        "Orientación clara y profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Disfunción eréctil en CDMX: enfoque urológico integral",
+            "description": "Información sobre la disfunción eréctil y su relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Disfunción eréctil"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la disfunción eréctil y por qué ocurre?",
+            "respuesta": "La disfunción eréctil es la dificultad para lograr o mantener una erección suficiente. Puede estar relacionada con problemas de próstata, problemas urinarios o incluso condiciones como prostatitis."
+        },
+        {
+            "pregunta": "¿Cuáles son las causas más comunes de la disfunción eréctil?",
+            "respuesta": "Puede deberse a factores físicos, hormonales o psicológicos. También puede asociarse con enfermedades como cáncer de próstata o problemas renales."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil es un problema frecuente en hombres?",
+            "respuesta": "Sí, es una condición común que aumenta con la edad. Puede coexistir con otros trastornos como eyaculación precoz o infecciones genitales."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al urólogo por disfunción eréctil?",
+            "respuesta": "Debes acudir si el problema es persistente o afecta tu calidad de vida. También si hay síntomas asociados como dolor testicular o problemas urinarios."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede ser señal de otra enfermedad?",
+            "respuesta": "Sí, puede ser un síntoma de enfermedades urológicas o sistémicas. Por ejemplo, puede relacionarse con hiperplasia prostática o tumores urológicos."
+        },
+        {
+            "pregunta": "¿Cómo se diagnostica la disfunción eréctil en CDMX?",
+            "respuesta": "El diagnóstico incluye historia clínica, exploración física y estudios complementarios. Esto permite descartar condiciones como varicocele o hidrocele."
+        },
+        {
+            "pregunta": "¿Qué relación tiene la disfunción eréctil con los problemas urinarios?",
+            "respuesta": "Ambas condiciones pueden compartir causas como alteraciones prostáticas. También pueden presentarse junto a incontinencia urinaria o estenosis uretral."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil está relacionada con la edad?",
+            "respuesta": "Sí, el riesgo aumenta con la edad, aunque no es exclusiva de hombres mayores. También puede aparecer en presencia de problemas renales o enfermedades crónicas."
+        },
+        {
+            "pregunta": "¿Puede la disfunción eréctil estar relacionada con infección urinaria?",
+            "respuesta": "Sí, una infección urinaria puede afectar la función sexual y causar molestias asociadas. También puede coexistir con hematuria u otros problemas urinarios."
+        },
+        {
+            "pregunta": "¿Qué papel tiene el urólogo en la disfunción eréctil?",
+            "respuesta": "El urólogo evalúa, diagnostica y trata esta condición. Además, identifica enfermedades asociadas como cáncer de vejiga o problemas de próstata."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede afectar la fertilidad?",
+            "respuesta": "Puede influir indirectamente en la fertilidad si dificulta las relaciones sexuales. También puede coexistir con condiciones como varicocele."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil siempre tiene una causa física?",
+            "respuesta": "No, también puede tener origen psicológico. Sin embargo, es importante descartar enfermedades urológicas o problemas renales."
+        },
+        {
+            "pregunta": "¿Qué síntomas acompañan a la disfunción eréctil?",
+            "respuesta": "Además de la dificultad eréctil, puede haber baja libido o problemas de eyaculación. También puede coexistir con eyaculación precoz."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede aparecer de forma repentina?",
+            "respuesta": "Sí, puede presentarse de manera súbita por factores emocionales o físicos. Es importante evaluar posibles causas como prostatitis o infecciones genitales."
+        },
+        {
+            "pregunta": "¿Qué enfermedades deben descartarse junto a la disfunción eréctil?",
+            "respuesta": "Se deben evaluar problemas de próstata, tumores urológicos y enfermedades urinarias. También condiciones como cálculos renales o cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede estar relacionada con dolor testicular?",
+            "respuesta": "Sí, en algunos casos puede coexistir con dolor testicular. Esto puede indicar condiciones como infecciones o varicocele."
+        },
+        {
+            "pregunta": "¿Cómo impacta la disfunción eréctil en la calidad de vida?",
+            "respuesta": "Puede afectar la autoestima y las relaciones de pareja. También puede estar asociada a problemas urinarios o enfermedades crónicas."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil tiene relación con la hiperplasia prostática?",
+            "respuesta": "Sí, ambas condiciones pueden coexistir en hombres mayores. La hiperplasia prostática puede afectar la función urinaria y sexual."
+        },
+        {
+            "pregunta": "¿Qué otros problemas urológicos se relacionan con la disfunción eréctil?",
+            "respuesta": "Puede relacionarse con fimosis, infecciones genitales o estenosis uretral. También con enfermedades como cáncer de próstata."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede prevenirse?",
+            "respuesta": "No siempre se puede prevenir, pero un estilo de vida saludable ayuda a reducir el riesgo. También es importante el control de problemas urinarios y enfermedades urológicas."
+        }
+    ]
+}

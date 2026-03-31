@@ -1,0 +1,188 @@
+{
+    "seo": {
+        "palabra_clave_principal": "cálculos renales",
+        "palabras_clave_secundarias": [
+            "piedras en el riñón",
+            "tratamiento de cálculos renales",
+            "síntomas de cálculos renales",
+            "urologo en CDMX",
+            "problemas renales"
+        ],
+        "slug": "calculos-renales",
+        "title": "Cálculos renales en CDMX: causas, síntomas y abordaje urológico integral",
+        "meta_description": "Conoce cómo se presentan los cálculos renales, sus síntomas y el enfoque integral de un urólogo en CDMX. Información clara sobre diagnóstico, prevención y relación con otros problemas urológicos.",
+        "h1": "Cálculos renales en CDMX: comprensión y enfoque urológico integral"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "Los cálculos renales son una de las causas más frecuentes de consulta con un urólogo en CDMX, especialmente por el dolor intenso que pueden provocar y su impacto en la calidad de vida. Sin embargo, más allá del episodio agudo, este problema suele estar vinculado con otros trastornos del sistema urinario y reproductor masculino. Desde infección urinaria recurrente hasta hematuria o problemas urinarios persistentes, entender el contexto completo permite un abordaje más preciso y preventivo. Esta sección reúne una visión amplia y clara sobre los cálculos renales, integrando su relación con condiciones como problemas renales, alteraciones prostáticas o incluso enfermedades urológicas más complejas.",
+        "bloques": [
+            {
+                "h2": "¿Cómo se desarrollan los cálculos renales y qué los detona?",
+                "descripcion": "La formación de cálculos renales no ocurre de forma aislada; responde a múltiples factores metabólicos, hábitos y condiciones médicas que afectan el equilibrio del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Factores urinarios y su relación con otros problemas urológicos",
+                        "contenido": "Los cálculos renales suelen originarse por la acumulación de minerales en la orina, pero también pueden estar relacionados con infecciones urinarias recurrentes que alteran el pH urinario. La presencia de hematuria puede ser un signo de alerta temprano, al igual que molestias persistentes asociadas a problemas urinarios. Además, condiciones como la estenosis uretral pueden dificultar el flujo normal de la orina, favoreciendo la formación de cristales."
+                    },
+                    {
+                        "titulo": "Relación con el sistema prostático y enfermedades asociadas",
+                        "contenido": "En hombres, los problemas de próstata como la hiperplasia prostática o la prostatitis pueden modificar la dinámica urinaria, generando retención o vaciamiento incompleto. Esto incrementa el riesgo de formación de cálculos. En algunos casos, es necesario diferenciar estos síntomas de enfermedades más serias como el cáncer de próstata o el cáncer de vejiga, que también pueden presentar signos similares."
+                    }
+                ]
+            },
+            {
+                "h2": "Síntomas y señales que requieren valoración urológica",
+                "descripcion": "Identificar los síntomas a tiempo permite evitar complicaciones y detectar si los cálculos renales están asociados a otras condiciones del aparato urinario o reproductor.",
+                "h3": [
+                    {
+                        "titulo": "Dolor, cambios urinarios y manifestaciones asociadas",
+                        "contenido": "El dolor lumbar intenso es el síntoma más característico, pero no es el único. Alteraciones como la incontinencia urinaria, molestias al orinar o cambios en la frecuencia urinaria pueden acompañar el cuadro. En algunos casos, estos síntomas se confunden con infecciones genitales o incluso con enfermedades como el hidrocele o el varicocele, que afectan la región testicular y pueden coexistir con dolor testicular."
+                    },
+                    {
+                        "titulo": "¿Cómo diferenciar los cálculos de otros problemas urológicos?",
+                        "contenido": "No todos los síntomas urinarios corresponden a cálculos renales. La disfunción eréctil o la eyaculación precoz, por ejemplo, tienen un origen distinto pero pueden aparecer en pacientes con enfermedades urológicas crónicas. Asimismo, condiciones como la fimosis o infecciones genitales pueden generar molestias que requieren un diagnóstico diferencial preciso. Un enfoque integral permite descartar tumores urológicos y otras patologías más complejas."
+                    }
+                ]
+            },
+            {
+                "h2": "Enfoque integral del urólogo en CDMX ante los cálculos renales",
+                "descripcion": "El tratamiento de los cálculos renales no se limita a eliminar la piedra, sino a entender el entorno clínico del paciente y prevenir recurrencias.",
+                "h3": [
+                    {
+                        "titulo": "Evaluación completa del sistema urinario y reproductor",
+                        "contenido": "Un urólogo en CDMX evalúa no solo la presencia de cálculos, sino también la función renal y posibles problemas renales asociados. Esto incluye revisar antecedentes de infecciones urinarias, alteraciones prostáticas y signos de enfermedades como cáncer de vejiga o tumores urológicos. La valoración integral permite identificar factores de riesgo y diseñar un manejo personalizado."
+                    },
+                    {
+                        "titulo": "Prevención y control a largo plazo",
+                        "contenido": "Evitar la recurrencia de los cálculos renales implica cambios en hábitos, seguimiento médico y control de condiciones asociadas. Tratar adecuadamente la prostatitis, controlar la hiperplasia prostática o atender oportunamente problemas urinarios reduce el riesgo de nuevos episodios. Este enfoque también considera la salud sexual masculina, abordando condiciones como disfunción eréctil o eyaculación precoz dentro de un contexto urológico global."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Cálculos renales en CDMX: comprensión y enfoque urológico integral",
+            "description": "Información integral sobre cálculos renales, sus síntomas, causas y relación con otras condiciones urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Cálculos renales"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "CDMX"
+            },
+            "medicalSpecialty": "Urology"
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué son los cálculos renales y por qué se forman?",
+            "respuesta": "Los cálculos renales son depósitos minerales que se forman en los riñones y pueden relacionarse con problemas renales o infecciones urinarias que alteran la composición de la orina."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de los cálculos renales?",
+            "respuesta": "El dolor lumbar intenso, la hematuria y los cambios en los problemas urinarios son señales frecuentes, aunque también pueden confundirse con infección urinaria o prostatitis."
+        },
+        {
+            "pregunta": "¿Cómo saber si necesito acudir a un urólogo en CDMX por cálculos renales?",
+            "respuesta": "Si presentas dolor persistente, hematuria o molestias urinarias, es importante acudir a un urólogo en CDMX para descartar cálculos renales u otras condiciones como problemas de próstata o cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿Los cálculos renales pueden causar infección urinaria?",
+            "respuesta": "Sí, los cálculos renales pueden favorecer la infección urinaria al obstruir el flujo de orina, lo que también incrementa el riesgo de problemas urinarios recurrentes."
+        },
+        {
+            "pregunta": "¿Qué relación existe entre cálculos renales y problemas de próstata?",
+            "respuesta": "Los problemas de próstata como la hiperplasia prostática o la prostatitis pueden dificultar el vaciamiento urinario, lo que favorece la formación de cálculos renales."
+        },
+        {
+            "pregunta": "¿Los cálculos renales afectan la función sexual masculina?",
+            "respuesta": "No directamente, pero condiciones asociadas como prostatitis, disfunción eréctil o eyaculación precoz pueden coexistir en pacientes con enfermedades urológicas crónicas."
+        },
+        {
+            "pregunta": "¿Se pueden confundir los cálculos renales con otros problemas urológicos?",
+            "respuesta": "Sí, síntomas como dolor o hematuria también pueden aparecer en cáncer de próstata, cáncer de vejiga o tumores urológicos, por lo que es importante una evaluación adecuada."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para diagnosticar cálculos renales?",
+            "respuesta": "El diagnóstico puede incluir estudios de imagen y análisis de orina para identificar cálculos renales y descartar infección urinaria o estenosis uretral."
+        },
+        {
+            "pregunta": "¿Los cálculos renales pueden causar dolor testicular?",
+            "respuesta": "Sí, el dolor puede irradiarse hacia la zona testicular, lo que puede confundirse con condiciones como varicocele, hidrocele o dolor testicular de otra causa."
+        },
+        {
+            "pregunta": "¿Qué tan frecuentes son los cálculos renales en hombres en CDMX?",
+            "respuesta": "Son relativamente comunes y suelen estar asociados a hábitos, problemas renales y condiciones como hiperplasia prostática o infecciones urinarias."
+        },
+        {
+            "pregunta": "¿Cómo prevenir la formación de cálculos renales?",
+            "respuesta": "La prevención incluye hidratación adecuada y control de problemas urinarios, así como tratar condiciones como infección urinaria o prostatitis."
+        },
+        {
+            "pregunta": "¿Los cálculos renales siempre requieren cirugía?",
+            "respuesta": "No siempre, pero en algunos casos es necesario intervenir, especialmente si hay complicaciones como hematuria persistente o infecciones urinarias recurrentes."
+        },
+        {
+            "pregunta": "¿Qué pasa si no se tratan los cálculos renales?",
+            "respuesta": "Pueden generar complicaciones como infección urinaria, daño en los riñones o empeorar problemas urinarios existentes."
+        },
+        {
+            "pregunta": "¿Los cálculos renales están relacionados con el cáncer?",
+            "respuesta": "No directamente, pero algunos síntomas pueden parecerse a los de cáncer de próstata, cáncer de vejiga o tumores urológicos, por lo que es clave un diagnóstico preciso."
+        },
+        {
+            "pregunta": "¿Pueden reaparecer los cálculos renales después del tratamiento?",
+            "respuesta": "Sí, especialmente si no se controlan factores como problemas renales, infección urinaria o alteraciones urinarias persistentes."
+        },
+        {
+            "pregunta": "¿Qué otros problemas pueden acompañar a los cálculos renales?",
+            "respuesta": "Pueden coexistir con infecciones genitales, fimosis, estenosis uretral o problemas de próstata que afectan la salud urinaria integral."
+        },
+        {
+            "pregunta": "¿Cómo impactan los cálculos renales en la calidad de vida?",
+            "respuesta": "El dolor, los problemas urinarios y la posible relación con condiciones como incontinencia urinaria o disfunción eréctil pueden afectar significativamente el bienestar."
+        },
+        {
+            "pregunta": "¿Es posible tener cálculos renales sin síntomas?",
+            "respuesta": "Sí, algunos cálculos renales son asintomáticos y se detectan al evaluar problemas urinarios, hematuria o estudios por otras condiciones."
+        },
+        {
+            "pregunta": "¿Qué especialista trata los cálculos renales en CDMX?",
+            "respuesta": "El urólogo es el especialista indicado para tratar cálculos renales y evaluar su relación con problemas de próstata, tumores urológicos o infecciones urinarias."
+        },
+        {
+            "pregunta": "¿Cómo se relacionan los cálculos renales con otros problemas urológicos?",
+            "respuesta": "Forman parte de un contexto más amplio que incluye problemas renales, infecciones urinarias, hiperplasia prostática, varicocele y otras condiciones del sistema urinario y reproductor."
+        }
+    ]
+}

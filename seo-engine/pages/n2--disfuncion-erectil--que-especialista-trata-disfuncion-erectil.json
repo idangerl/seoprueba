@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "disfunción eréctil",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "tratamiento disfunción eréctil",
+            "problemas de erección",
+            "salud sexual masculina",
+            "causas disfunción eréctil"
+        ],
+        "slug": "que-especialista-trata-disfuncion-erectil",
+        "title": "¿Qué especialista trata disfunción eréctil en CDMX? Atención urológica experta",
+        "meta_description": "Descubre qué especialista trata la disfunción eréctil en CDMX, cuándo acudir y dónde recibir un diagnóstico y tratamiento adecuados.",
+        "h1": "¿Qué especialista trata disfunción eréctil en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La disfunción eréctil es un problema más común de lo que parece y puede tener múltiples causas, desde factores físicos hasta emocionales. Identificar al especialista adecuado en CDMX es clave para entender el origen de los problemas de erección y acceder a un tratamiento de disfunción eréctil efectivo con un urólogo en CDMX. Una evaluación oportuna no solo mejora la salud sexual masculina, sino también la calidad de vida en general.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata disfunción eréctil?",
+                "descripcion": "El especialista indicado para tratar la disfunción eréctil es el urólogo, experto en salud sexual masculina y sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Rol del urólogo en la salud sexual",
+                        "contenido": "El urólogo en CDMX está capacitado para diagnosticar las causas de la disfunción eréctil, ya sean vasculares, hormonales o relacionadas con otras enfermedades. Su enfoque permite ofrecer un tratamiento personalizado según cada caso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa disfunción eréctil?",
+                "descripcion": "Aunque puede iniciarse con un médico general, la evaluación completa corresponde al urólogo.",
+                "h3": [
+                    {
+                        "titulo": "Valoración clínica y estudios necesarios",
+                        "contenido": "El urólogo realiza una revisión integral que incluye antecedentes médicos, exploración física y estudios específicos para identificar las causas de los problemas de erección. Esto permite diferenciar entre factores temporales y condiciones que requieren tratamiento."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata disfunción eréctil?",
+                "descripcion": "El tratamiento de la disfunción eréctil es guiado por el urólogo, quien define la mejor estrategia según el diagnóstico.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento disponibles",
+                        "contenido": "El tratamiento puede incluir cambios en el estilo de vida, terapias médicas o intervenciones específicas. En CDMX, el enfoque se centra en tratar la causa de la disfunción eréctil y mejorar la salud sexual masculina de forma integral."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por disfunción eréctil?",
+                "descripcion": "Reconocer el momento adecuado para consultar puede marcar la diferencia en el tratamiento.",
+                "h3": [
+                    {
+                        "titulo": "Señales que indican la necesidad de valoración",
+                        "contenido": "Se recomienda acudir al especialista si la dificultad para lograr o mantener una erección es frecuente o persistente. También es importante consultar si existen factores de riesgo o cambios recientes en la función sexual."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar disfunción eréctil?",
+                "descripcion": "El tratamiento debe realizarse en centros especializados en urología.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de elegir atención especializada en CDMX",
+                        "contenido": "En CDMX, acudir a un urólogo con experiencia en disfunción eréctil permite acceder a un diagnóstico preciso y a un tratamiento adecuado. La atención especializada mejora los resultados y el seguimiento del paciente."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "¿Quieres saber qué especialista trata disfunción eréctil en CDMX? Agenda tu consulta con un urólogo y recibe un diagnóstico claro junto con el tratamiento adecuado para recuperar tu bienestar.",
+    "beneficios_contacto": [
+        "Atención especializada en salud sexual masculina",
+        "Diagnóstico preciso y personalizado",
+        "Tratamientos adaptados a cada caso",
+        "Enfoque integral en bienestar y calidad de vida",
+        "Seguimiento médico profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata disfunción eréctil en CDMX?",
+            "description": "Información sobre qué especialista trata la disfunción eréctil, cuándo acudir y dónde recibir atención en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Disfunción eréctil"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata disfunción eréctil?",
+            "respuesta": "El especialista que trata la disfunción eréctil es el urólogo. En CDMX puedes acudir a consulta para un diagnóstico y tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué especialista trata disfunción eréctil?",
+            "respuesta": "El urólogo es el médico indicado para tratar la disfunción eréctil. También puede apoyarse en otros especialistas según la causa."
+        },
+        {
+            "pregunta": "¿Qué médico revisa disfunción eréctil?",
+            "respuesta": "El médico que revisa la disfunción eréctil es el urólogo. Evalúa factores físicos, hormonales y psicológicos."
+        },
+        {
+            "pregunta": "¿Qué doctor trata disfunción eréctil?",
+            "respuesta": "El doctor que trata la disfunción eréctil es el urólogo especializado en salud sexual masculina. Puede indicar diferentes opciones de tratamiento."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por disfunción eréctil?",
+            "respuesta": "Debes acudir si el problema es recurrente o afecta tu vida sexual. La evaluación temprana permite identificar la causa."
+        },
+        {
+            "pregunta": "¿Dónde tratar disfunción eréctil?",
+            "respuesta": "La disfunción eréctil se trata en clínicas urológicas y centros especializados en CDMX. Es importante elegir un lugar con experiencia."
+        },
+        {
+            "pregunta": "¿Cuáles son las causas más comunes de la disfunción eréctil?",
+            "respuesta": "Puede deberse a problemas vasculares, hormonales o psicológicos. También puede estar relacionada con enfermedades crónicas."
+        },
+        {
+            "pregunta": "¿Cómo se diagnostica la disfunción eréctil en CDMX?",
+            "respuesta": "Se diagnostica mediante evaluación clínica, estudios de laboratorio y pruebas específicas. El urólogo define el enfoque según cada caso."
+        },
+        {
+            "pregunta": "¿Qué tratamientos existen para la disfunción eréctil?",
+            "respuesta": "Incluyen medicamentos, terapia psicológica o procedimientos médicos. El tratamiento depende de la causa identificada."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil siempre requiere medicamentos?",
+            "respuesta": "No siempre, algunos casos se tratan con cambios en el estilo de vida o terapia. El especialista determina la mejor opción."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar la disfunción eréctil en CDMX?",
+            "respuesta": "El costo varía según el tratamiento y la clínica. Se recomienda una valoración previa para definir el presupuesto."
+        },
+        {
+            "pregunta": "¿Qué tan común es la disfunción eréctil?",
+            "respuesta": "Es una condición frecuente, especialmente con el paso de los años. Sin embargo, puede presentarse a cualquier edad."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil tiene solución?",
+            "respuesta": "Sí, en la mayoría de los casos tiene tratamiento efectivo. La clave es un diagnóstico adecuado."
+        },
+        {
+            "pregunta": "¿Qué estudios necesito para evaluar la disfunción eréctil?",
+            "respuesta": "Se pueden solicitar análisis de sangre, pruebas hormonales y estudios vasculares. Esto ayuda a identificar la causa."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil afecta la fertilidad?",
+            "respuesta": "Puede afectar indirectamente la fertilidad al dificultar las relaciones sexuales. Es importante tratarla a tiempo."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato la disfunción eréctil?",
+            "respuesta": "Puede afectar la calidad de vida y las relaciones personales. También puede ser señal de otros problemas de salud."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede ser psicológica?",
+            "respuesta": "Sí, factores como estrés o ansiedad pueden influir. En estos casos se puede combinar tratamiento médico y psicológico."
+        },
+        {
+            "pregunta": "¿Cómo elegir un buen urólogo en CDMX para disfunción eréctil?",
+            "respuesta": "Busca experiencia, certificaciones y buenas opiniones de pacientes. Es importante que ofrezca un enfoque integral."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede prevenirse?",
+            "respuesta": "Un estilo de vida saludable ayuda a reducir el riesgo. También es importante el control médico regular."
+        },
+        {
+            "pregunta": "¿La disfunción eréctil puede aparecer de forma repentina?",
+            "respuesta": "Sí, puede aparecer de manera súbita por causas físicas o emocionales. Es recomendable acudir a evaluación médica."
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "tumores urológicos",
+        "palabras_clave_secundarias": [
+            "cáncer urológico",
+            "síntomas urológicos graves",
+            "urologo CDMX",
+            "salud urológica",
+            "diagnóstico urológico"
+        ],
+        "slug": "tumores-urologicos",
+        "title": "Tumores urológicos en CDMX: síntomas, tipos y relación con enfermedades urinarias",
+        "meta_description": "Conoce qué son los tumores urológicos, sus síntomas y cómo se relacionan con otras enfermedades urológicas en CDMX.",
+        "h1": "Tumores urológicos en CDMX: síntomas, causas y qué pueden indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "Los tumores urológicos abarcan una serie de condiciones que pueden afectar órganos como la próstata, la vejiga o los riñones, y en muchos casos pueden desarrollarse sin síntomas evidentes en etapas iniciales. En CDMX, comprender este tipo de afecciones permite identificar señales tempranas y reconocer su relación con otros problemas del sistema urinario, incluyendo la incontinencia urinaria, que puede presentarse como un síntoma asociado en algunos pacientes. Más allá de su gravedad potencial, los tumores urológicos suelen compartir síntomas con otras enfermedades más comunes, lo que hace fundamental una evaluación adecuada para diferenciarlos a tiempo.",
+        "bloques": [
+            {
+                "h2": "¿Qué síntomas pueden estar relacionados con tumores urológicos?",
+                "descripcion": "Los tumores urológicos pueden manifestarse con síntomas que también aparecen en otras enfermedades del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Señales urinarias y cambios relevantes",
+                        "contenido": "La hematuria es uno de los signos más importantes, aunque también pueden presentarse síntomas como dificultad para orinar, molestias persistentes o cambios en la frecuencia urinaria. Estos síntomas pueden confundirse con una infección urinaria o con problemas urinarios más comunes, lo que retrasa su detección."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de los tumores urológicos con otras enfermedades del sistema urinario",
+                "descripcion": "Los tumores urológicos pueden coexistir o confundirse con diversas condiciones urológicas.",
+                "h3": [
+                    {
+                        "titulo": "Enfermedades prostáticas y diagnósticos diferenciales",
+                        "contenido": "El cáncer de próstata es uno de los tumores más frecuentes y puede presentar síntomas similares a la hiperplasia prostática o a la prostatitis. Estas condiciones forman parte de los principales problemas de próstata que requieren evaluación médica detallada."
+                    },
+                    {
+                        "titulo": "Relación con riñones, vejiga y otras patologías",
+                        "contenido": "El cáncer de vejiga y los problemas renales pueden manifestarse con síntomas urinarios similares. Asimismo, los cálculos renales o la estenosis uretral pueden generar molestias que dificultan el diagnóstico diferencial. También es posible que existan infecciones genitales asociadas o que los síntomas se acompañen de dolor testicular."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de los tumores urológicos en la salud integral",
+                "descripcion": "Estas condiciones pueden afectar no solo el sistema urinario, sino también otros aspectos de la salud masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con función sexual y salud genital",
+                        "contenido": "Algunos pacientes pueden experimentar disfunción eréctil o eyaculación precoz en el contexto de enfermedades urológicas. Además, condiciones como el varicocele, hidrocele o fimosis pueden coexistir, lo que refleja una afectación más amplia del sistema reproductor."
+                    },
+                    {
+                        "titulo": "Importancia de la evaluación integral en CDMX",
+                        "contenido": "En CDMX, la valoración por un urólogo permite analizar los tumores urológicos dentro de un contexto completo, considerando su relación con enfermedades urinarias y prostáticas. Esto facilita un diagnóstico oportuno y una mejor comprensión de la salud urológica en general."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Tumores urológicos en CDMX",
+            "description": "Información completa sobre los tumores urológicos, sus síntomas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Tumores urológicos"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué son los tumores urológicos y qué órganos afectan?",
+            "respuesta": "Los tumores urológicos son crecimientos anormales en órganos como riñones, vejiga o próstata. Pueden relacionarse con Cáncer de vejiga, Cáncer de próstata o Problemas renales."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de los tumores urológicos?",
+            "respuesta": "Los síntomas incluyen Hematuria, cambios en la micción y dolor. También pueden confundirse con Problemas urinarios o Infección urinaria."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por sospecha de tumores urológicos en CDMX?",
+            "respuesta": "Debes acudir si presentas sangre en la orina o síntomas persistentes. En CDMX, el urólogo puede descartar Cáncer de vejiga o Cálculos renales."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos siempre son cancerosos?",
+            "respuesta": "No todos los tumores urológicos son malignos, pero deben evaluarse. Algunos pueden diferenciarse de condiciones como Hiperplasia prostática."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden causar problemas urinarios?",
+            "respuesta": "Sí, pueden generar Problemas urinarios como dificultad para orinar. También pueden asociarse con Incontinencia urinaria."
+        },
+        {
+            "pregunta": "¿La sangre en la orina siempre indica tumores urológicos?",
+            "respuesta": "No siempre, la Hematuria también puede deberse a Infección urinaria o Cálculos renales. Sin embargo, debe evaluarse para descartar tumores."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para detectar tumores urológicos?",
+            "respuesta": "Se realizan estudios de imagen, análisis y evaluación clínica. Esto permite diferenciar de Estenosis uretral o Problemas renales."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden confundirse con otras enfermedades?",
+            "respuesta": "Sí, pueden parecerse a Prostatitis, Problemas de próstata o Infecciones genitales. El diagnóstico especializado es clave."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden causar dolor testicular?",
+            "respuesta": "En algunos casos pueden generar Dolor testicular. También pueden coexistir con Varicocele o Hidrocele."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos afectan la función sexual?",
+            "respuesta": "Dependiendo del caso, pueden influir en la función sexual. Esto puede relacionarse con Disfunción eréctil o Eyaculación precoz."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos son frecuentes en hombres?",
+            "respuesta": "Sí, especialmente en edades avanzadas. Se asocian comúnmente con Problemas de próstata y Cáncer de próstata."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden aparecer en jóvenes?",
+            "respuesta": "Sí, aunque son menos frecuentes, pueden presentarse. En estos casos pueden coexistir con Infecciones genitales u otras condiciones."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden afectar los riñones?",
+            "respuesta": "Sí, pueden involucrar directamente los riñones y generar Problemas renales. Esto requiere atención especializada."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos están relacionados con infecciones?",
+            "respuesta": "No siempre, pero pueden confundirse con Infección urinaria. También pueden coexistir con Prostatitis en algunos casos."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden requerir cirugía?",
+            "respuesta": "Sí, algunos casos requieren tratamiento quirúrgico. El urólogo definirá la mejor opción según el diagnóstico."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con los tumores urológicos?",
+            "respuesta": "Pueden coexistir con Fimosis, Hidrocele o Estenosis uretral. El urólogo evalúa el sistema urogenital completo."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden derivar en cáncer?",
+            "respuesta": "Sí, algunos tumores urológicos son malignos como el Cáncer de vejiga. Por eso es importante la detección oportuna."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos afectan la calidad de vida?",
+            "respuesta": "Sí, pueden impactar la micción, el bienestar y la vida diaria. El tratamiento adecuado mejora la calidad de vida."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden empeorar con el tiempo?",
+            "respuesta": "Sí, pueden progresar si no se detectan a tiempo. Esto puede agravar Problemas urinarios o renales."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación en la sección Tumores urológicos?",
+            "respuesta": "Incluye diagnóstico, tratamiento y relación con Problemas de próstata o Problemas urinarios. La sección Tumores urológicos orienta de forma integral al paciente."
+        }
+    ]
+}

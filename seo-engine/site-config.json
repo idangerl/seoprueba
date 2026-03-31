@@ -1,0 +1,51 @@
+{
+    "seo_mode": "general",
+    "especialidad": "UROLOGO",
+    "ubicacion": "CDMX",
+    "site": {
+        "id": "1c7ab465b039d851b45c",
+        "host": "centrourologicomasculino.com",
+        "display_name": "centrourologicomasculino.com",
+        "business_name": "centrourologicomasculino.com"
+    },
+    "informacion_general": {
+        "nombre": "centrourologicomasculino.com",
+        "descripcion": "",
+        "especialidad": "UROLOGO",
+        "ubicacion": "CDMX"
+    },
+    "informacion_contacto": {
+        "telefono": [
+            "5537174210"
+        ],
+        "correo": [
+            "centrourologicomasculino@gmail.com"
+        ],
+        "whatsapp": [
+            {
+                "numero": "+5215537174210",
+                "mensaje": "Hola, quiero informes"
+            }
+        ],
+        "horario": [
+            {
+                "dias": "",
+                "horas": ""
+            }
+        ]
+    },
+    "seo_engine": {
+        "adapter": "php",
+        "head-metas": "componentes\/head-metas.php",
+        "header": "componentes\/header2.php",
+        "footer": "componentes\/footer.php",
+        "botones": "componentes\/botones.php",
+        "js": "componentes\/js.php",
+        "site_url": "https:\/\/centrourologicomasculino.com",
+        "site_path": "",
+        "branding": {
+            "color_1": "#0763e4",
+            "color_2": "#00a2ff"
+        }
+    }
+}

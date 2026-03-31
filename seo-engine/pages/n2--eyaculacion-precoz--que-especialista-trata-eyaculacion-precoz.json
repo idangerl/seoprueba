@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "eyaculación precoz",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "tratamiento eyaculación precoz",
+            "problemas de eyaculación",
+            "salud sexual masculina",
+            "causas eyaculación precoz"
+        ],
+        "slug": "que-especialista-trata-eyaculacion-precoz",
+        "title": "¿Qué especialista trata eyaculación precoz en CDMX? Atención urológica especializada",
+        "meta_description": "Descubre qué especialista trata la eyaculación precoz en CDMX, cuándo acudir y dónde recibir diagnóstico y tratamiento adecuados.",
+        "h1": "¿Qué especialista trata eyaculación precoz en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La eyaculación precoz es una condición frecuente que puede afectar la confianza, la vida en pareja y la salud sexual masculina. Identificar al especialista adecuado en CDMX permite entender las causas de la eyaculación precoz y acceder a un tratamiento eyaculación precoz efectivo. Una valoración médica oportuna ayuda a mejorar el control y recuperar el bienestar.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata eyaculación precoz?",
+                "descripcion": "El especialista indicado para tratar la eyaculación precoz es el urólogo, experto en salud sexual masculina.",
+                "h3": [
+                    {
+                        "titulo": "Rol del urólogo en la evaluación",
+                        "contenido": "El urólogo en CDMX analiza los factores físicos y funcionales que pueden estar relacionados con la eyaculación precoz. Su enfoque permite identificar causas médicas y orientar el tratamiento adecuado según cada caso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa eyaculación precoz?",
+                "descripcion": "Aunque un médico general puede detectar el problema, la evaluación completa corresponde al urólogo.",
+                "h3": [
+                    {
+                        "titulo": "Valoración clínica integral",
+                        "contenido": "El urólogo realiza una evaluación detallada que incluye antecedentes, hábitos y posibles causas de los problemas de eyaculación. Esto permite diferenciar entre factores temporales y condiciones que requieren tratamiento especializado."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata eyaculación precoz?",
+                "descripcion": "El tratamiento de la eyaculación precoz es guiado por el urólogo, quien adapta el manejo según cada paciente.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento disponibles",
+                        "contenido": "El tratamiento eyaculación precoz puede incluir estrategias médicas, cambios en hábitos o terapias específicas. En CDMX, el enfoque se centra en mejorar el control y la calidad de la salud sexual masculina."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por eyaculación precoz?",
+                "descripcion": "Saber cuándo consultar es clave para abordar el problema a tiempo.",
+                "h3": [
+                    {
+                        "titulo": "Señales que requieren valoración",
+                        "contenido": "Se recomienda acudir al especialista cuando la eyaculación ocurre de forma constante antes de lo deseado o genera malestar. Una evaluación temprana permite identificar causas y evitar que el problema se mantenga a largo plazo."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar eyaculación precoz?",
+                "descripcion": "El tratamiento debe realizarse en centros especializados en urología.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de la atención especializada en CDMX",
+                        "contenido": "En CDMX, acudir a un urólogo con experiencia en eyaculación precoz permite acceder a un diagnóstico preciso y a un tratamiento adecuado. La atención especializada mejora los resultados y el seguimiento del paciente."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "¿Quieres saber qué especialista trata eyaculación precoz en CDMX? Agenda tu consulta con un urólogo y recibe un diagnóstico claro junto con el tratamiento adecuado para mejorar tu salud sexual.",
+    "beneficios_contacto": [
+        "Atención especializada en salud sexual masculina",
+        "Diagnóstico preciso y personalizado",
+        "Tratamientos adaptados a cada caso",
+        "Mejora del control y bienestar",
+        "Seguimiento médico profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata eyaculación precoz en CDMX?",
+            "description": "Información sobre qué especialista trata la eyaculación precoz, cuándo acudir y dónde recibir atención en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Eyaculación precoz"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata eyaculación precoz?",
+            "respuesta": "El especialista que trata la eyaculación precoz es el urólogo. En CDMX puedes acudir para una evaluación integral y tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué especialista trata eyaculación precoz?",
+            "respuesta": "El urólogo es el médico indicado para tratar la eyaculación precoz. Puede identificar causas físicas o emocionales."
+        },
+        {
+            "pregunta": "¿Qué médico revisa eyaculación precoz?",
+            "respuesta": "El médico que revisa la eyaculación precoz es el urólogo. Evalúa tu historial clínico y síntomas para determinar la causa."
+        },
+        {
+            "pregunta": "¿Qué doctor trata eyaculación precoz?",
+            "respuesta": "El doctor que trata la eyaculación precoz es el urólogo especializado en salud sexual masculina. Puede recomendar diferentes opciones de tratamiento."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por eyaculación precoz?",
+            "respuesta": "Debes acudir si el problema es frecuente o afecta tu vida sexual. La atención oportuna mejora los resultados."
+        },
+        {
+            "pregunta": "¿Dónde tratar eyaculación precoz?",
+            "respuesta": "La eyaculación precoz se trata en clínicas urológicas y centros especializados en CDMX. Es importante elegir un especialista con experiencia."
+        },
+        {
+            "pregunta": "¿Cuáles son las causas más comunes de la eyaculación precoz?",
+            "respuesta": "Puede deberse a factores psicológicos, hormonales o neurológicos. También puede estar relacionada con otras condiciones médicas."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz tiene tratamiento?",
+            "respuesta": "Sí, existen tratamientos efectivos como terapia, medicamentos o técnicas conductuales. El urólogo define el más adecuado."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz siempre es psicológica?",
+            "respuesta": "No, también puede tener causas físicas. Por eso es importante una evaluación médica completa."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para diagnosticar la eyaculación precoz?",
+            "respuesta": "Generalmente se realiza una evaluación clínica y, en algunos casos, estudios complementarios. Esto permite identificar la causa."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar la eyaculación precoz en CDMX?",
+            "respuesta": "El costo depende del tipo de tratamiento y la clínica. Se recomienda acudir a valoración para conocer el precio exacto."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz afecta la fertilidad?",
+            "respuesta": "Puede dificultar la concepción en algunos casos. Sin embargo, con tratamiento adecuado se puede mejorar."
+        },
+        {
+            "pregunta": "¿Qué tan común es la eyaculación precoz?",
+            "respuesta": "Es una de las disfunciones sexuales más frecuentes en hombres. Puede presentarse a cualquier edad."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede aparecer de forma repentina?",
+            "respuesta": "Sí, puede aparecer por estrés, ansiedad o causas físicas. Es recomendable acudir a evaluación médica."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato la eyaculación precoz?",
+            "respuesta": "Puede afectar la calidad de vida y las relaciones de pareja. También puede generar estrés o ansiedad."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede mejorar con tratamiento?",
+            "respuesta": "Sí, en la mayoría de los casos mejora con el tratamiento adecuado. El seguimiento médico es importante."
+        },
+        {
+            "pregunta": "¿Cómo elegir un buen urólogo en CDMX para eyaculación precoz?",
+            "respuesta": "Busca experiencia, certificaciones y buenas opiniones de pacientes. Es importante que ofrezca un enfoque integral."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz tiene solución definitiva?",
+            "respuesta": "En muchos casos se puede controlar o mejorar significativamente. El tratamiento depende de la causa."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede prevenirse?",
+            "respuesta": "No siempre se puede prevenir, pero el manejo del estrés y hábitos saludables ayudan. También es importante la atención médica temprana."
+        },
+        {
+            "pregunta": "¿La eyaculación precoz puede estar relacionada con otros problemas de salud?",
+            "respuesta": "Sí, puede asociarse con otras condiciones físicas o emocionales. Por eso es importante una evaluación completa."
+        }
+    ]
+}

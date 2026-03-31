@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "hidrocele",
+        "palabras_clave_secundarias": [
+            "inflamación escrotal",
+            "urologo CDMX",
+            "tratamiento hidrocele",
+            "cirugía hidrocele",
+            "dolor testicular causas"
+        ],
+        "slug": "que-especialista-trata-hidrocele",
+        "title": "¿Qué especialista trata el hidrocele en CDMX? Atención urológica y opciones de tratamiento",
+        "meta_description": "Descubre qué especialista trata el hidrocele, cuándo acudir y dónde atenderlo en CDMX. Información clara para tomar decisión y recibir atención adecuada.",
+        "h1": "¿Qué especialista trata hidrocele en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "El hidrocele es una condición frecuente que se manifiesta como aumento de volumen en el escroto debido a la acumulación de líquido, generando una inflamación escrotal que puede pasar desapercibida al inicio. Aunque muchas veces no genera dolor, sí puede causar incomodidad o preocupación. Identificar qué especialista trata el hidrocele y cuándo buscar atención en CDMX es clave para obtener un diagnóstico preciso y definir si requiere seguimiento o tratamiento específico.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata hidrocele?",
+                "descripcion": "El especialista indicado para tratar el hidrocele es el urólogo, ya que cuenta con la formación para evaluar el sistema urinario y reproductor masculino.",
+                "h3": [
+                    {
+                        "titulo": "Enfoque especializado en diagnóstico y tratamiento",
+                        "contenido": "El urólogo determina si el hidrocele es simple o está relacionado con otras condiciones como infecciones, inflamación o alteraciones estructurales. A partir de la valoración clínica y estudios complementarios, define si es necesario solo seguimiento o un tratamiento específico."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa hidrocele?",
+                "descripcion": "Un médico general puede detectar inicialmente un hidrocele, pero la valoración completa debe realizarla un especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de la evaluación urológica",
+                        "contenido": "Aunque el diagnóstico inicial puede sospecharse en consulta general, el urólogo es quien confirma el tipo de hidrocele y descarta otras causas como hernias, infecciones o problemas testiculares. Esto evita diagnósticos incompletos y permite un manejo adecuado desde el inicio."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata hidrocele?",
+                "descripcion": "El doctor encargado de tratar el hidrocele es el urólogo, quien adapta el tratamiento según la evolución y características del caso.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento según cada caso",
+                        "contenido": "El tratamiento del hidrocele puede variar desde la observación cuando no genera molestias, hasta procedimientos quirúrgicos si aumenta de tamaño o causa incomodidad. El urólogo evalúa factores como síntomas, tamaño y evolución para decidir la mejor opción."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por hidrocele?",
+                "descripcion": "No todos los casos de hidrocele requieren intervención inmediata, pero sí es importante saber cuándo debe valorarse.",
+                "h3": [
+                    {
+                        "titulo": "Signos que indican la necesidad de valoración",
+                        "contenido": "Se recomienda acudir al médico si el aumento de volumen crece progresivamente, genera dolor, sensación de peso o incomodidad al realizar actividades. También es importante consultar si hay cambios en la consistencia o si aparecen síntomas asociados que puedan indicar otra condición."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar hidrocele?",
+                "descripcion": "El hidrocele debe tratarse en consulta especializada con un urólogo en CDMX, donde se pueda realizar una valoración completa.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite acceder a diagnóstico preciso y seguimiento adecuado. Esto es clave para definir si el hidrocele requiere tratamiento o solo vigilancia, evitando complicaciones y brindando tranquilidad al paciente."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si tienes aumento de volumen en el escroto o sospechas de hidrocele, acudir con un urólogo en CDMX te permitirá confirmar el diagnóstico y recibir el tratamiento adecuado según tu caso. Atenderlo a tiempo te dará claridad y tranquilidad.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata hidrocele en CDMX?",
+            "description": "Información sobre qué especialista trata el hidrocele, cuándo acudir y dónde atenderlo en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Hidrocele"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata hidrocele?",
+            "respuesta": "El especialista indicado es el urólogo, quien evalúa y trata el hidrocele según su causa. En CDMX, puede ofrecer diagnóstico y opciones de tratamiento adecuadas."
+        },
+        {
+            "pregunta": "¿Qué especialista trata hidrocele?",
+            "respuesta": "El hidrocele debe ser valorado por un urólogo, experto en enfermedades del sistema urinario y genital masculino. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa hidrocele?",
+            "respuesta": "El médico que revisa el hidrocele es el urólogo, quien realiza exploración física y estudios de imagen. Esto permite confirmar el diagnóstico y descartar otras afecciones."
+        },
+        {
+            "pregunta": "¿Qué doctor trata hidrocele?",
+            "respuesta": "El doctor que trata el hidrocele es el urólogo, capacitado para manejar problemas testiculares. En CDMX, puedes acudir para una valoración integral."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por hidrocele?",
+            "respuesta": "Debes acudir si notas aumento de volumen en el escroto o molestias persistentes. En CDMX, una evaluación temprana ayuda a evitar complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar hidrocele en CDMX?",
+            "respuesta": "El hidrocele se trata en clínicas u hospitales con servicio de urología en CDMX. Es importante elegir un especialista para un manejo adecuado."
+        },
+        {
+            "pregunta": "¿El hidrocele requiere cirugía siempre?",
+            "respuesta": "No siempre, depende del tamaño y los síntomas del hidrocele. El urólogo en CDMX determinará si es necesario operar o solo vigilar."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo hidrocele?",
+            "respuesta": "El hidrocele suele manifestarse como inflamación indolora en el escroto. Un urólogo puede confirmarlo con exploración y estudios."
+        },
+        {
+            "pregunta": "¿El hidrocele es urgente?",
+            "respuesta": "Generalmente no es una urgencia, pero debe evaluarse para descartar otras causas. En CDMX, puedes acudir a consulta programada con un urólogo."
+        },
+        {
+            "pregunta": "¿Cuánto tarda el tratamiento del hidrocele?",
+            "respuesta": "Depende del caso y del tipo de tratamiento indicado. El urólogo definirá el tiempo según la evolución del hidrocele."
+        },
+        {
+            "pregunta": "¿El hidrocele desaparece solo?",
+            "respuesta": "En algunos casos leves puede resolverse sin tratamiento, pero no siempre. Es recomendable una valoración médica para seguimiento."
+        },
+        {
+            "pregunta": "¿El hidrocele causa dolor?",
+            "respuesta": "Puede causar molestia o sensación de pesadez, aunque muchas veces es indoloro. Si hay dolor, es importante acudir a revisión."
+        },
+        {
+            "pregunta": "¿Puedo acudir primero con médico general por hidrocele?",
+            "respuesta": "Sí, pero lo ideal es acudir directamente con un urólogo. En CDMX, esto permite un diagnóstico más rápido y preciso."
+        },
+        {
+            "pregunta": "¿Qué estudios se necesitan para hidrocele?",
+            "respuesta": "El ultrasonido escrotal es el estudio más común para confirmar hidrocele. También se realiza exploración física en consulta."
+        },
+        {
+            "pregunta": "¿El hidrocele afecta la fertilidad?",
+            "respuesta": "Generalmente no afecta la fertilidad, pero debe evaluarse si hay otras condiciones asociadas. El urólogo puede orientar según cada caso."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar hidrocele en CDMX?",
+            "respuesta": "El costo varía según el tratamiento y los estudios requeridos. Lo más importante es contar con un diagnóstico adecuado desde el inicio."
+        },
+        {
+            "pregunta": "¿El hidrocele puede volver después del tratamiento?",
+            "respuesta": "En algunos casos puede recurrir, especialmente si no se trata la causa. El seguimiento con el urólogo es clave para prevenirlo."
+        },
+        {
+            "pregunta": "¿El hidrocele se puede prevenir?",
+            "respuesta": "No siempre se puede prevenir, ya que puede aparecer por diversas causas. Sin embargo, acudir a revisión temprana ayuda a detectarlo a tiempo."
+        },
+        {
+            "pregunta": "¿El hidrocele afecta la vida diaria?",
+            "respuesta": "Puede causar incomodidad al caminar o al realizar actividades físicas. El tratamiento adecuado mejora la calidad de vida."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato el hidrocele?",
+            "respuesta": "Puede aumentar de tamaño y generar molestias o complicaciones. En CDMX, es recomendable acudir con un urólogo para valoración oportuna."
+        }
+    ]
+}

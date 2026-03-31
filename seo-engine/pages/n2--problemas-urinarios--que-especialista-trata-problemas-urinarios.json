@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "problemas urinarios",
+        "palabras_clave_secundarias": [
+            "síntomas urinarios",
+            "urologo CDMX",
+            "dificultad para orinar",
+            "tratamiento problemas urinarios",
+            "salud urinaria"
+        ],
+        "slug": "que-especialista-trata-problemas-urinarios",
+        "title": "¿Qué especialista trata problemas urinarios en CDMX? Diagnóstico y tratamiento adecuado",
+        "meta_description": "Descubre qué especialista trata problemas urinarios, cuándo acudir y dónde atenderlos en CDMX. Información clara para tomar acción.",
+        "h1": "¿Qué especialista trata problemas urinarios en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "Los problemas urinarios pueden manifestarse con síntomas como dificultad para orinar, urgencia frecuente o molestias persistentes que afectan la vida diaria. Saber qué especialista trata estos síntomas en CDMX es clave para identificar la causa y recibir el tratamiento adecuado. Detectar a tiempo estas alteraciones permite evitar complicaciones y mejorar la salud urinaria.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata problemas urinarios?",
+                "descripcion": "El especialista indicado para tratar los problemas urinarios es el urólogo, quien se enfoca en el diagnóstico y tratamiento del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en síntomas urinarios",
+                        "contenido": "El urólogo evalúa los síntomas, identifica la causa de los problemas urinarios y determina el tratamiento más adecuado. Esto permite abordar desde infecciones hasta alteraciones estructurales que afectan la micción."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa problemas urinarios?",
+                "descripcion": "Un médico general puede detectar los primeros síntomas, pero la valoración completa corresponde al especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Diagnóstico adecuado desde la especialidad",
+                        "contenido": "El médico general puede identificar síntomas urinarios iniciales, pero el urólogo realiza estudios más precisos para determinar el origen del problema y descartar enfermedades urológicas más complejas."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata problemas urinarios?",
+                "descripcion": "El doctor que trata los problemas urinarios es el urólogo, quien adapta el tratamiento según la causa y la severidad.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento personalizadas",
+                        "contenido": "El tratamiento puede incluir medicamentos, cambios en hábitos o procedimientos específicos. El urólogo define la mejor opción según el tipo de problema urinario y las necesidades del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por problemas urinarios?",
+                "descripcion": "Es importante acudir al médico cuando los síntomas urinarios son persistentes o afectan la calidad de vida.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que requieren valoración",
+                        "contenido": "Dificultad para orinar, ardor, urgencia frecuente o cambios en la orina son señales que no deben ignorarse. Acudir a tiempo permite detectar la causa y evitar que el problema avance."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar problemas urinarios?",
+                "descripcion": "Los problemas urinarios deben tratarse con un urólogo en CDMX para asegurar un diagnóstico adecuado.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite recibir una evaluación integral, identificar la causa de los problemas urinarios y establecer un tratamiento adecuado que mejore la calidad de vida."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si presentas síntomas o dudas sobre problemas urinarios, acudir con un urólogo en CDMX es el paso clave para obtener un diagnóstico claro y comenzar el tratamiento adecuado lo antes posible.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata problemas urinarios en CDMX?",
+            "description": "Información sobre qué especialista trata problemas urinarios, cuándo acudir y dónde atenderlos en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Problemas urinarios"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata problemas urinarios?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata los problemas urinarios. En CDMX, puede evaluar la causa y ofrecer el tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué especialista trata problemas urinarios?",
+            "respuesta": "Los problemas urinarios deben ser valorados por un urólogo, experto en el sistema urinario. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa problemas urinarios?",
+            "respuesta": "El médico que revisa problemas urinarios es el urólogo, quien analiza síntomas y solicita estudios. Esto permite identificar la causa del problema."
+        },
+        {
+            "pregunta": "¿Qué doctor trata problemas urinarios?",
+            "respuesta": "El doctor que trata problemas urinarios es el urólogo, capacitado en enfermedades urinarias. En CDMX, puedes acudir para una valoración completa."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por problemas urinarios?",
+            "respuesta": "Debes acudir cuando presentas dolor al orinar, urgencia o cambios en la micción. En CDMX, una evaluación temprana ayuda a evitar complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar problemas urinarios en CDMX?",
+            "respuesta": "Los problemas urinarios se tratan en clínicas y hospitales con servicio de urología en CDMX. Es importante acudir con un especialista para un diagnóstico preciso."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios tienen tratamiento efectivo?",
+            "respuesta": "Sí, existen tratamientos que dependen de la causa específica. El urólogo definirá la mejor opción para cada caso."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo problemas urinarios?",
+            "respuesta": "Se identifican por síntomas como dolor, urgencia o dificultad para orinar. El diagnóstico lo confirma un urólogo con estudios."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios son urgentes?",
+            "respuesta": "No siempre son urgentes, pero requieren valoración médica. En CDMX, puedes agendar consulta con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué estudios se hacen para problemas urinarios?",
+            "respuesta": "Se realizan análisis de orina, sangre y estudios de imagen. Esto permite identificar la causa de los síntomas."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden desaparecer solos?",
+            "respuesta": "Algunos casos leves pueden mejorar, pero muchos requieren tratamiento. Es importante no ignorar los síntomas."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios afectan la vida diaria?",
+            "respuesta": "Sí, pueden interferir con actividades cotidianas y el descanso. El tratamiento adecuado mejora la calidad de vida."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por problemas urinarios?",
+            "respuesta": "Sí, pero lo ideal es acudir con un urólogo para una evaluación más específica. En CDMX, esto permite un diagnóstico preciso."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios afectan la función sexual?",
+            "respuesta": "En algunos casos pueden influir indirectamente en la vida sexual. El tratamiento adecuado mejora el bienestar general."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar problemas urinarios en CDMX?",
+            "respuesta": "El costo depende de los estudios y tratamiento necesarios. Es recomendable acudir a consulta para una valoración personalizada."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden empeorar con el tiempo?",
+            "respuesta": "Sí, pueden progresar si no se tratan oportunamente. Por eso es importante el seguimiento médico."
+        },
+        {
+            "pregunta": "¿El tratamiento de los problemas urinarios es permanente?",
+            "respuesta": "Depende de la causa, algunos tratamientos son temporales y otros requieren seguimiento. El urólogo definirá la mejor opción."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios están relacionados con otras enfermedades?",
+            "respuesta": "Sí, pueden asociarse a otros problemas del sistema urinario. El diagnóstico adecuado permite identificar estas relaciones."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato los problemas urinarios?",
+            "respuesta": "Puede haber complicaciones como infecciones o daño renal. En CDMX, es recomendable tratarlos a tiempo."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios afectan el sueño?",
+            "respuesta": "Sí, pueden causar interrupciones por la necesidad frecuente de orinar. El tratamiento adecuado mejora el descanso."
+        }
+    ]
+}

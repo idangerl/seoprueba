@@ -1,0 +1,46 @@
+RewriteEngine On
+
+# Redirigir de sin www a www (dinamico para cualquier dominio)
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [L,R=301]
+
+# Forzar HTTPS (excepto para validaciones SSL)
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteBase /
+
+# No tocar llamadas internas al sistema SEO-Engine
+RewriteRule ^seo-engine/ - [L,NC]
+
+# Ignorar archivos y directorios reales
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Nivel 2: /categoria/seccion/
+RewriteCond %{DOCUMENT_ROOT}/seo-engine/pages/n2--$1--$2.json -f
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/?$ seo-engine/router.php?slug1=$1&slug2=$2 [L,QSA,NC]
+
+# Nivel 1: /categoria/
+RewriteCond %{DOCUMENT_ROOT}/seo-engine/pages/n1--$1.json -f
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ seo-engine/router.php?slug1=$1 [L,QSA,NC]
+# Reescribir URL para servicio.php
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ servicio.php?servicio=$1 [L,QSA]
+
+# No tocar llamadas internas al sistema SEO-Engine
+RewriteRule ^seo-engine/ - [L,NC]
+
+# No reescribir archivos ni directorios reales
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Nivel 2: /categoria/seccion/
+RewriteRule ^([^/]+)/([^/]+)/?$ seo-engine/router.php?slug1=$1&slug2=$2 [L,QSA,NC]
+
+# Nivel 1: /categoria/
+RewriteRule ^([^/]+)/?$ seo-engine/router.php?slug1=$1 [L,QSA,NC]

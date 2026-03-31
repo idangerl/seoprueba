@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "prostatitis",
+        "palabras_clave_secundarias": [
+            "inflamación de la próstata",
+            "dolor prostático",
+            "urologo CDMX",
+            "síntomas prostáticos",
+            "salud prostática"
+        ],
+        "slug": "prostatitis",
+        "title": "Prostatitis en CDMX: síntomas, causas y relación con enfermedades urológicas",
+        "meta_description": "Conoce qué es la prostatitis, sus síntomas y cómo se relaciona con otras enfermedades urológicas en CDMX. Información clara y útil.",
+        "h1": "Prostatitis en CDMX: síntomas, causas y qué puede indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La prostatitis es una condición frecuente en hombres que puede manifestarse con dolor, molestias al orinar o síntomas persistentes en la zona pélvica. Más allá de una simple inflamación de la próstata, este problema puede estar relacionado con infecciones o alteraciones más amplias del sistema urinario. En CDMX, comprender la prostatitis permite identificar sus causas, reconocer sus síntomas y entender su relación con otros problemas urológicos que afectan la salud prostática y urinaria.",
+        "bloques": [
+            {
+                "h2": "¿Cómo se manifiesta la prostatitis y qué síntomas genera?",
+                "descripcion": "La prostatitis puede presentar síntomas variados que afectan tanto la micción como la zona genital.",
+                "h3": [
+                    {
+                        "titulo": "Síntomas urinarios y dolor asociado",
+                        "contenido": "Los pacientes pueden experimentar ardor al orinar, dificultad para vaciar la vejiga, dolor pélvico o molestias que pueden confundirse con una infección urinaria. También puede aparecer hematuria o incontinencia urinaria en algunos casos, lo que refleja la afectación del sistema urinario."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de la prostatitis con otras enfermedades urológicas",
+                "descripcion": "La prostatitis no siempre aparece de forma aislada y puede coexistir con diversas condiciones urológicas.",
+                "h3": [
+                    {
+                        "titulo": "Enfermedades prostáticas y diagnósticos diferenciales",
+                        "contenido": "Es importante diferenciar la prostatitis de la hiperplasia prostática y del cáncer de próstata, ya que comparten síntomas similares. Estas condiciones forman parte de los principales problemas de próstata que requieren evaluación especializada."
+                    },
+                    {
+                        "titulo": "Relación con riñones, vejiga y otras patologías",
+                        "contenido": "Los cálculos renales, el cáncer de vejiga y los tumores urológicos pueden presentar síntomas urinarios similares. Asimismo, la estenosis uretral y los problemas renales pueden influir en la aparición o persistencia de molestias urinarias. Las infecciones genitales también pueden estar relacionadas con la prostatitis en algunos casos."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de la prostatitis en la salud integral masculina",
+                "descripcion": "Además de los síntomas urinarios, la prostatitis puede afectar otros aspectos de la salud.",
+                "h3": [
+                    {
+                        "titulo": "Relación con función sexual y salud genital",
+                        "contenido": "La prostatitis puede asociarse con disfunción eréctil o eyaculación precoz. También pueden coexistir condiciones como el varicocele, hidrocele o fimosis, acompañadas en ocasiones de dolor testicular, lo que refleja una afectación más amplia del sistema urológico."
+                    },
+                    {
+                        "titulo": "Importancia de la evaluación integral en CDMX",
+                        "contenido": "En CDMX, la valoración por un urólogo permite analizar la prostatitis dentro de un contexto más amplio, considerando su relación con problemas urinarios y otras enfermedades. Esto facilita un diagnóstico preciso y una mejor comprensión de la salud urológica en general."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Prostatitis en CDMX",
+            "description": "Información completa sobre la prostatitis, sus síntomas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Prostatitis"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la prostatitis y por qué ocurre?",
+            "respuesta": "La prostatitis es la inflamación de la próstata, generalmente relacionada con infecciones o irritación. Puede asociarse con Infección urinaria y otros Problemas de próstata."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de la prostatitis?",
+            "respuesta": "Incluyen dolor pélvico, molestias al orinar y dificultad urinaria. También puede haber relación con Problemas urinarios o Dolor testicular."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por prostatitis en CDMX?",
+            "respuesta": "Debes acudir si los síntomas persisten o afectan tu calidad de vida. En CDMX, el urólogo puede descartar Cálculos renales o Infecciones genitales."
+        },
+        {
+            "pregunta": "¿La prostatitis es una enfermedad grave?",
+            "respuesta": "No siempre, pero puede causar molestias importantes si no se trata. En algunos casos se debe descartar Cáncer de próstata o Tumores urológicos."
+        },
+        {
+            "pregunta": "¿La prostatitis puede causar problemas urinarios?",
+            "respuesta": "Sí, es una causa frecuente de Problemas urinarios como urgencia o dificultad para orinar. También puede coexistir con Incontinencia urinaria."
+        },
+        {
+            "pregunta": "¿La prostatitis puede afectar la función sexual?",
+            "respuesta": "Sí, puede generar Disfunción eréctil o Eyaculación precoz en algunos casos. El tratamiento adecuado ayuda a mejorar estos síntomas."
+        },
+        {
+            "pregunta": "¿La prostatitis puede causar sangre en la orina?",
+            "respuesta": "En algunos casos puede presentarse Hematuria. Esto también requiere descartar Cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para diagnosticar la prostatitis?",
+            "respuesta": "Se realizan análisis de orina, estudios prostáticos y evaluación clínica. Esto ayuda a diferenciarla de Hiperplasia prostática u otras afecciones."
+        },
+        {
+            "pregunta": "¿La prostatitis puede confundirse con otras enfermedades?",
+            "respuesta": "Sí, puede confundirse con Hiperplasia prostática, Infección urinaria o Estenosis uretral. El diagnóstico médico es clave."
+        },
+        {
+            "pregunta": "¿La prostatitis puede causar dolor testicular?",
+            "respuesta": "Sí, puede generar Dolor testicular o molestias en la zona pélvica. También puede relacionarse con Infecciones genitales."
+        },
+        {
+            "pregunta": "¿La prostatitis es frecuente en hombres jóvenes?",
+            "respuesta": "Sí, puede presentarse en hombres jóvenes y adultos. A menudo se asocia con infecciones o factores inflamatorios."
+        },
+        {
+            "pregunta": "¿La prostatitis puede volverse crónica?",
+            "respuesta": "Sí, en algunos casos puede persistir y volverse crónica. Esto requiere seguimiento médico especializado."
+        },
+        {
+            "pregunta": "¿La prostatitis puede afectar los riñones?",
+            "respuesta": "No directamente, pero si se asocia a infecciones puede influir en los Problemas renales. Esto debe evaluarse adecuadamente."
+        },
+        {
+            "pregunta": "¿La prostatitis está relacionada con infecciones?",
+            "respuesta": "Sí, muchas veces está vinculada con Infección urinaria o Infecciones genitales. Estas deben tratarse de forma adecuada."
+        },
+        {
+            "pregunta": "¿La prostatitis puede requerir tratamiento prolongado?",
+            "respuesta": "Sí, algunos casos requieren tratamiento por varias semanas. El urólogo definirá la duración según la evolución."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con la prostatitis?",
+            "respuesta": "Puede coexistir con Varicocele, Fimosis o Hidrocele en algunos casos. El urólogo evalúa el sistema urogenital completo."
+        },
+        {
+            "pregunta": "¿La prostatitis puede derivar en cáncer?",
+            "respuesta": "No directamente, pero puede coexistir con Cáncer de próstata. Por eso es importante el seguimiento médico."
+        },
+        {
+            "pregunta": "¿La prostatitis afecta la calidad de vida?",
+            "respuesta": "Sí, puede generar dolor, molestias urinarias y afectar la vida diaria. El tratamiento adecuado mejora el bienestar."
+        },
+        {
+            "pregunta": "¿La prostatitis puede empeorar con el tiempo?",
+            "respuesta": "Sí, puede agravarse si no se trata oportunamente. Esto puede aumentar los Problemas urinarios."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación en la sección Prostatitis?",
+            "respuesta": "Incluye diagnóstico, tratamiento y relación con Problemas de próstata o Problemas urinarios. La sección Prostatitis orienta al paciente de forma integral."
+        }
+    ]
+}

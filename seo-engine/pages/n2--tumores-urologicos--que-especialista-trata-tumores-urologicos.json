@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "tumores urológicos",
+        "palabras_clave_secundarias": [
+            "cáncer urológico",
+            "urologo CDMX",
+            "síntomas tumores urológicos",
+            "tratamiento urológico",
+            "diagnóstico urológico"
+        ],
+        "slug": "que-especialista-trata-tumores-urologicos",
+        "title": "¿Qué especialista trata tumores urológicos en CDMX? Diagnóstico y atención especializada",
+        "meta_description": "Descubre qué especialista trata tumores urológicos, cuándo acudir y dónde atenderlos en CDMX. Información clara para tomar acción.",
+        "h1": "¿Qué especialista trata tumores urológicos en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "Los tumores urológicos pueden afectar órganos como la próstata, la vejiga o los riñones, y en muchos casos presentan síntomas que pueden confundirse con otras enfermedades. Identificar a tiempo los síntomas tumores urológicos es fundamental para acudir con un urologo CDMX y obtener un diagnóstico oportuno que permita definir el tratamiento adecuado. Detectar cualquier alteración a tiempo mejora el pronóstico y protege la salud urológica.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata tumores urológicos?",
+                "descripcion": "El especialista indicado para tratar los tumores urológicos es el urólogo, quien se encarga del diagnóstico y manejo del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en cáncer urológico",
+                        "contenido": "El urólogo evalúa los síntomas, solicita estudios diagnósticos y determina si existe un tumor. Esto permite establecer un plan de tratamiento adecuado según el tipo y la localización del tumor urológico."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa tumores urológicos?",
+                "descripcion": "Un médico general puede identificar síntomas iniciales, pero la valoración completa corresponde al especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Diagnóstico preciso desde la especialidad",
+                        "contenido": "El médico general puede detectar señales de alerta, pero el urólogo realiza estudios más específicos para confirmar la presencia de tumores urológicos y diferenciar otras enfermedades con síntomas similares."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata tumores urológicos?",
+                "descripcion": "El doctor que trata los tumores urológicos es el urólogo, quien adapta el tratamiento según cada caso.",
+                "h3": [
+                    {
+                        "titulo": "Tratamiento personalizado según diagnóstico",
+                        "contenido": "El tratamiento puede variar desde seguimiento hasta procedimientos especializados, dependiendo del tipo de tumor. El urólogo define la mejor estrategia para controlar la enfermedad y preservar la salud del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por tumores urológicos?",
+                "descripcion": "Es importante acudir al médico ante cualquier síntoma que pueda estar relacionado con alteraciones urológicas.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que requieren valoración",
+                        "contenido": "Presencia de sangre en la orina, cambios urinarios, dolor persistente o molestias inexplicables son señales que requieren evaluación médica. Detectar estos síntomas a tiempo es clave para un diagnóstico oportuno."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar tumores urológicos?",
+                "descripcion": "Los tumores urológicos deben tratarse con un especialista en CDMX para asegurar una atención adecuada.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite recibir una evaluación integral, confirmar el diagnóstico y establecer un tratamiento adecuado para tumores urológicos, priorizando la salud y el seguimiento del paciente."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si tienes síntomas o sospechas de tumores urológicos, acudir con un urólogo en CDMX es el paso más importante para obtener un diagnóstico claro y comenzar un tratamiento adecuado a tiempo.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata tumores urológicos en CDMX?",
+            "description": "Información sobre qué especialista trata tumores urológicos, cuándo acudir y dónde atenderlos en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Tumores urológicos"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata tumores urológicos?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata los tumores urológicos. En CDMX, puede coordinar estudios y manejo integral."
+        },
+        {
+            "pregunta": "¿Qué especialista trata tumores urológicos?",
+            "respuesta": "Los tumores urológicos deben ser valorados por un urólogo, experto en el sistema urinario y reproductor. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa tumores urológicos?",
+            "respuesta": "El médico que revisa tumores urológicos es el urólogo, quien evalúa síntomas y solicita estudios. Esto permite confirmar el diagnóstico."
+        },
+        {
+            "pregunta": "¿Qué doctor trata tumores urológicos?",
+            "respuesta": "El doctor que trata tumores urológicos es el urólogo, capacitado en enfermedades del aparato urogenital. En CDMX, puedes acudir para una valoración completa."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por tumores urológicos?",
+            "respuesta": "Debes acudir si presentas sangre en la orina, dolor persistente o síntomas urinarios. En CDMX, una evaluación temprana es clave."
+        },
+        {
+            "pregunta": "¿Dónde tratar tumores urológicos en CDMX?",
+            "respuesta": "Los tumores urológicos se tratan en hospitales y clínicas con servicio de urología en CDMX. Es importante acudir con un especialista."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos tienen tratamiento efectivo?",
+            "respuesta": "Sí, el tratamiento depende del tipo y etapa del tumor. El urólogo definirá el manejo más adecuado."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo tumores urológicos?",
+            "respuesta": "Se sospechan por síntomas como hematuria o cambios urinarios. El diagnóstico lo confirma un urólogo con estudios."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos son urgentes?",
+            "respuesta": "No siempre son urgentes, pero requieren valoración médica oportuna. En CDMX, es recomendable acudir a consulta."
+        },
+        {
+            "pregunta": "¿Qué estudios se hacen para tumores urológicos?",
+            "respuesta": "Se realizan estudios de imagen, análisis y exploración clínica. Esto permite identificar el tipo de tumor."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden desaparecer solos?",
+            "respuesta": "No, los tumores urológicos requieren evaluación y tratamiento médico. No deben ignorarse los síntomas."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos afectan la vida diaria?",
+            "respuesta": "Sí, pueden afectar la micción, el bienestar y la calidad de vida. El tratamiento adecuado mejora estos aspectos."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por tumores urológicos?",
+            "respuesta": "Sí, pero lo ideal es acudir con un urólogo para una valoración especializada. En CDMX, esto permite un diagnóstico preciso."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos afectan la función sexual?",
+            "respuesta": "En algunos casos pueden influir en la función sexual. El tratamiento adecuado puede ayudar a mejorar estos efectos."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar tumores urológicos en CDMX?",
+            "respuesta": "El costo depende de los estudios y tratamiento necesario. Se recomienda acudir a consulta para una valoración personalizada."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos pueden empeorar con el tiempo?",
+            "respuesta": "Sí, pueden progresar si no se detectan a tiempo. Por eso es importante el seguimiento médico."
+        },
+        {
+            "pregunta": "¿El tratamiento de los tumores urológicos es permanente?",
+            "respuesta": "Depende del tipo de tumor, algunos requieren tratamiento prolongado. El urólogo definirá la mejor opción."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos están relacionados con otras enfermedades?",
+            "respuesta": "Sí, pueden asociarse a otros problemas del sistema urinario. El diagnóstico adecuado permite identificar estas relaciones."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato los tumores urológicos?",
+            "respuesta": "Puede haber progresión de la enfermedad y complicaciones graves. En CDMX, es recomendable tratarlos a tiempo."
+        },
+        {
+            "pregunta": "¿Los tumores urológicos afectan el descanso o el sueño?",
+            "respuesta": "Sí, pueden causar molestias o síntomas urinarios nocturnos. El tratamiento adecuado mejora el descanso."
+        }
+    ]
+}

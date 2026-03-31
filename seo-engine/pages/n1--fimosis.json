@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "fimosis",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "tratamiento fimosis",
+            "problemas del prepucio",
+            "salud genital masculina",
+            "cirugía de fimosis"
+        ],
+        "slug": "fimosis",
+        "title": "Fimosis en CDMX: causas, síntomas y enfoque urológico integral",
+        "meta_description": "Conoce qué es la fimosis, sus síntomas, causas y cómo se relaciona con otras condiciones urológicas en CDMX.",
+        "h1": "Fimosis en CDMX: enfoque urológico integral"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La fimosis es una condición que puede generar molestias, dificultades en la higiene y afectar la salud genital masculina si no se trata adecuadamente. En CDMX, muchos pacientes consultan por síntomas que inicialmente parecen leves, pero que pueden estar relacionados con infecciones genitales o incluso con infección urinaria recurrente. Además, la fimosis puede coexistir con otros problemas urológicos como dolor testicular, problemas urinarios o alteraciones en el flujo de la orina, lo que hace fundamental una valoración integral para identificar todas las posibles causas asociadas.",
+        "bloques": [
+            {
+                "h2": "Relación de la fimosis con infecciones y problemas urinarios",
+                "descripcion": "La fimosis puede facilitar la acumulación de secreciones y favorecer infecciones que impactan el sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Infecciones y síntomas asociados",
+                        "contenido": "La presencia de fimosis puede aumentar el riesgo de infecciones genitales y de infección urinaria. Esto puede derivar en síntomas como molestias al orinar, hematuria o incluso incontinencia urinaria. En algunos casos, también se relaciona con prostatitis o problemas urinarios persistentes que requieren evaluación médica."
+                    }
+                ]
+            },
+            {
+                "h2": "Cómo la fimosis se relaciona con la salud prostática y enfermedades urológicas",
+                "descripcion": "El sistema urinario y reproductor masculino está interconectado, lo que influye en múltiples condiciones.",
+                "h3": [
+                    {
+                        "titulo": "Relación con próstata y enfermedades oncológicas",
+                        "contenido": "Aunque la fimosis es una condición localizada, puede coexistir con problemas de próstata como hiperplasia prostática o cáncer de próstata. Asimismo, síntomas como hematuria pueden estar relacionados con enfermedades más complejas como cáncer de vejiga o tumores urológicos, por lo que es importante un diagnóstico completo."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de la fimosis en la función sexual y otras condiciones genitales",
+                "descripcion": "La fimosis puede afectar la vida sexual y estar asociada con otras alteraciones del sistema reproductor.",
+                "h3": [
+                    {
+                        "titulo": "Relación con función sexual y condiciones asociadas",
+                        "contenido": "La fimosis puede generar molestias durante las relaciones sexuales y relacionarse con disfunción eréctil o eyaculación precoz. También puede coexistir con condiciones como varicocele, hidrocele o estenosis uretral. En algunos casos, se vincula con molestias como dolor testicular o incluso con problemas renales y cálculos renales que afectan de forma indirecta la salud general."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [
+        "Evaluación integral de la salud urológica",
+        "Detección de problemas asociados",
+        "Enfoque personalizado según síntomas",
+        "Atención especializada en salud masculina",
+        "Orientación clara y profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Fimosis en CDMX: enfoque urológico integral",
+            "description": "Información sobre la fimosis y su relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Fimosis"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la fimosis y por qué ocurre?",
+            "respuesta": "La fimosis es la imposibilidad de retraer el prepucio sobre el glande. Puede estar relacionada con infecciones genitales o problemas urinarios."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas de la fimosis?",
+            "respuesta": "Incluyen dificultad para retraer el prepucio, dolor o inflamación. También puede asociarse con infecciones genitales o infección urinaria."
+        },
+        {
+            "pregunta": "¿La fimosis es común en adultos?",
+            "respuesta": "Sí, aunque es más frecuente en niños, también puede presentarse en adultos. Puede coexistir con problemas de próstata o disfunción eréctil."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al urólogo por fimosis en CDMX?",
+            "respuesta": "Debes acudir si hay dolor, infecciones recurrentes o dificultad para orinar. También si afecta la función sexual."
+        },
+        {
+            "pregunta": "¿La fimosis puede causar infecciones?",
+            "respuesta": "Sí, puede favorecer infecciones genitales y también infección urinaria. Esto ocurre por la acumulación de bacterias."
+        },
+        {
+            "pregunta": "¿Qué relación tiene la fimosis con la disfunción eréctil?",
+            "respuesta": "Puede causar molestias durante la erección y afectar la vida sexual. También puede coexistir con disfunción eréctil o eyaculación precoz."
+        },
+        {
+            "pregunta": "¿La fimosis puede estar relacionada con problemas urinarios?",
+            "respuesta": "Sí, puede dificultar la micción y causar problemas urinarios. En algunos casos puede relacionarse con estenosis uretral."
+        },
+        {
+            "pregunta": "¿La fimosis puede causar dolor testicular?",
+            "respuesta": "En algunos casos puede generar molestias que se irradian hacia el testículo. También puede coexistir con dolor testicular o infecciones."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para evaluar la fimosis?",
+            "respuesta": "Generalmente se realiza una exploración física. También se descartan infecciones o tumores urológicos si es necesario."
+        },
+        {
+            "pregunta": "¿La fimosis puede causar hematuria?",
+            "respuesta": "No es común, pero puede haber irritación o sangrado leve. La hematuria también puede indicar otros problemas urinarios."
+        },
+        {
+            "pregunta": "¿La fimosis puede estar relacionada con cáncer de pene o vejiga?",
+            "respuesta": "En casos avanzados o sin tratamiento puede aumentar riesgos. También se evalúan condiciones como cáncer de vejiga o tumores urológicos."
+        },
+        {
+            "pregunta": "¿La fimosis puede afectar la fertilidad?",
+            "respuesta": "Puede dificultar las relaciones sexuales si es severa. También puede coexistir con varicocele u otros problemas reproductivos."
+        },
+        {
+            "pregunta": "¿La fimosis puede aparecer de forma repentina?",
+            "respuesta": "Sí, puede desarrollarse por infecciones o inflamación. Esto puede estar relacionado con prostatitis o infecciones genitales."
+        },
+        {
+            "pregunta": "¿Qué enfermedades deben descartarse junto a la fimosis?",
+            "respuesta": "Se deben descartar infecciones genitales, problemas de próstata, hiperplasia prostática, cáncer de próstata, cálculos renales y tumores urológicos. También condiciones como hidrocele."
+        },
+        {
+            "pregunta": "¿La fimosis puede afectar la calidad de vida?",
+            "respuesta": "Sí, puede causar molestias, dolor y afectar la vida sexual. También puede asociarse con disfunción eréctil o problemas urinarios."
+        },
+        {
+            "pregunta": "¿Qué papel tiene el urólogo en el tratamiento de la fimosis?",
+            "respuesta": "El urólogo evalúa el grado de fimosis y define el tratamiento. También descarta condiciones como infección urinaria o problemas renales."
+        },
+        {
+            "pregunta": "¿La fimosis puede estar relacionada con hiperplasia prostática?",
+            "respuesta": "No directamente, pero pueden coexistir en algunos pacientes. La hiperplasia prostática y el cáncer de próstata también pueden generar problemas urinarios."
+        },
+        {
+            "pregunta": "¿La fimosis puede causar incontinencia urinaria?",
+            "respuesta": "No es lo más común, pero puede alterar la micción. Esto puede relacionarse con incontinencia urinaria en algunos casos."
+        },
+        {
+            "pregunta": "¿Qué otras enfermedades urológicas se relacionan con la fimosis?",
+            "respuesta": "Puede relacionarse con infecciones genitales, prostatitis o estenosis uretral. También con problemas de próstata."
+        },
+        {
+            "pregunta": "¿La fimosis puede prevenirse?",
+            "respuesta": "Una buena higiene genital ayuda a reducir el riesgo. También es importante tratar infecciones a tiempo para evitar complicaciones."
+        }
+    ]
+}

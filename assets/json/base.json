@@ -1,0 +1,117 @@
+{
+    "informacion_general": {
+        "nombre": "Centro Urológico Masculino",
+        "especialidad": "Urología",
+        "descripcion": "",
+        "ubicacion": "CDMX"
+    },
+    "informacion_contacto": {
+        "whatsapp": [
+            {
+                "numero": "+5215537174210",
+                "mensaje": "Hola, vi su sitio en google, quiero informes de la consulta"
+            }
+        ],
+        "telefono": [
+            "5537174210"
+        ],
+        "correo": [
+            "centrourologicomasculino@gmail.com"
+        ],
+        "ubicacion": [
+            {
+                "completa": "MAC la Viga, Calz. de la Viga 1174, El triunfo, Iztapalapa, CDMX. C.P. 09430, Consultorio 812",
+                "simplificada": "Hospital MAC La Viga, Iztapalapa, CDMX",
+                "url": "https://maps.app.goo.gl/8WCUeVn3GQnDS3Dy8"
+            }
+        ],
+        "redes_sociales": {
+        },
+        "horario": [
+            {
+                "dias": "Lunes a Viernes",
+                "horas": "08:00 - 19:00"
+            }
+        ]
+    },
+
+    "informacion_profesional": {
+
+        "formacion_profesional":[],
+
+        "anos_de_experiencia": "",
+
+        "cedulas_profesionales":[],
+
+        "certificaciones":[],
+        "asociaciones":[
+            {
+                "nombre": "Sociedad Mexicana de Urologia",
+                "imagen": ""
+            }, 
+            {
+                "nombre": "Asociación Americana de Urologia",
+                "imagen": ""
+            }
+        ],
+        
+        "aseguradoras": [ ]
+    },
+  "servicios": [
+    {
+      "nombre": "Consulta urológica",
+      "slug": "consulta-urologica",
+      "contenido": "Valoración médica integral para diagnosticar y tratar afecciones del sistema urinario y reproductor masculino.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Detección de ETS",
+      "slug": "deteccion-de-ets",
+      "contenido": "Pruebas clínicas para identificar enfermedades de transmisión sexual, como VIH, clamidia o sífilis.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Resección de verrugas o lesiones de ETS",
+      "slug": "reseccion-de-verrugas-o-lesiones-de-ets",
+      "contenido": "Eliminación de lesiones genitales causadas por virus como el VPH, con métodos quirúrgicos o de cauterización.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Circuncisión",
+      "slug": "circuncision",
+      "contenido": "Procedimiento quirúrgico para remover el prepucio del pene, indicado por razones médicas o personales.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Vasectomia",
+      "slug": "vasectomia",
+      "contenido": "Método anticonceptivo permanente para hombres, que consiste en cortar los conductos deferentes.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Valoración de fertilidad",
+      "slug": "valoracion-de-fertilidad",
+      "contenido": "Estudios clínicos para analizar la capacidad reproductiva masculina y determinar posibles causas de infertilidad.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Disfunción eréctil",
+      "slug": "disfuncion-erectil",
+      "contenido": "Diagnóstico y tratamiento de la incapacidad persistente para lograr o mantener una erección firme.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Eyaculación precoz",
+      "slug": "eyaculacion-precoz",
+      "contenido": "Atención especializada para controlar la eyaculación que ocurre antes de lo deseado durante el acto sexual.",
+      "categoria": "Servicio"
+    },
+    {
+      "nombre": "Enfermedades de la próstata",
+      "slug": "enfermedades-de-la-prostata",
+      "contenido": "Evaluación y tratamiento de afecciones prostáticas como prostatitis, hiperplasia benigna o cáncer.",
+      "categoria": "Servicio"
+    }
+  ]
+
+}

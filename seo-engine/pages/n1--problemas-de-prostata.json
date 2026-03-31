@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "problemas de próstata",
+        "palabras_clave_secundarias": [
+            "salud prostática",
+            "síntomas de próstata",
+            "urologo CDMX",
+            "problemas al orinar",
+            "enfermedades prostáticas"
+        ],
+        "slug": "problemas-de-prostata",
+        "title": "Problemas de próstata en CDMX: síntomas, causas y enfermedades relacionadas",
+        "meta_description": "Conoce los principales problemas de próstata, sus síntomas y cómo se relacionan con otras enfermedades urológicas en CDMX.",
+        "h1": "Problemas de próstata en CDMX: síntomas, causas y qué pueden indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "Los problemas de próstata son una de las principales causas de consulta urológica en hombres, especialmente a partir de cierta edad. Aunque en muchos casos comienzan con síntomas leves, como cambios en la forma de orinar, pueden estar relacionados con diversas enfermedades que requieren atención especializada. En CDMX, comprender los problemas de próstata permite identificar señales tempranas, diferenciar entre condiciones benignas y detectar posibles complicaciones que afectan la salud urinaria y general.",
+        "bloques": [
+            {
+                "h2": "¿Qué síntomas pueden indicar problemas de próstata?",
+                "descripcion": "Los problemas de próstata suelen manifestarse a través de alteraciones urinarias y otros síntomas asociados.",
+                "h3": [
+                    {
+                        "titulo": "Cambios urinarios y señales de alerta",
+                        "contenido": "Dificultad para orinar, flujo débil, urgencia frecuente o sensación de vaciado incompleto son síntomas comunes. Estos problemas urinarios también pueden acompañarse de incontinencia urinaria o hematuria. En algunos casos, una infección urinaria puede aparecer como consecuencia de la obstrucción causada por la próstata."
+                    }
+                ]
+            },
+            {
+                "h2": "Principales enfermedades relacionadas con la próstata",
+                "descripcion": "Existen diferentes condiciones que pueden afectar la próstata y generar síntomas similares.",
+                "h3": [
+                    {
+                        "titulo": "Hiperplasia, inflamación y cáncer",
+                        "contenido": "La hiperplasia prostática es una de las causas más frecuentes de agrandamiento prostático. También puede presentarse prostatitis, que genera inflamación y molestias. En casos más complejos, es importante descartar cáncer de próstata o incluso tumores urológicos que puedan afectar el sistema urinario."
+                    },
+                    {
+                        "titulo": "Relación con vejiga y otros órganos",
+                        "contenido": "El cáncer de vejiga puede presentar síntomas urinarios similares, lo que requiere diagnóstico diferencial. Además, los problemas renales y los cálculos renales pueden verse afectados por la obstrucción urinaria. Condiciones como la estenosis uretral también pueden agravar los síntomas."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de los problemas de próstata en la salud integral",
+                "descripcion": "Las enfermedades prostáticas pueden influir en diferentes áreas de la salud masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con función sexual y salud genital",
+                        "contenido": "Los problemas de próstata pueden asociarse con disfunción eréctil o eyaculación precoz. Además, infecciones genitales, fimosis o condiciones como varicocele e hidrocele pueden coexistir en pacientes con afecciones urológicas, en ocasiones acompañadas de dolor testicular."
+                    },
+                    {
+                        "titulo": "Importancia de la evaluación integral en CDMX",
+                        "contenido": "En CDMX, la valoración por un urólogo permite analizar los problemas de próstata dentro de un contexto más amplio, considerando su relación con el sistema urinario y otras enfermedades. Esto facilita un diagnóstico preciso y una mejor comprensión de la salud urológica en general."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Problemas de próstata en CDMX",
+            "description": "Información completa sobre los problemas de próstata, sus síntomas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Problemas de próstata"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué son los problemas de próstata y por qué ocurren?",
+            "respuesta": "Los problemas de próstata incluyen diversas afecciones que afectan esta glándula, como Hiperplasia prostática, Prostatitis o Cáncer de próstata. Suelen relacionarse con Problemas urinarios en hombres adultos."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de los problemas de próstata?",
+            "respuesta": "Incluyen dificultad para orinar, chorro débil y urgencia urinaria. Estos síntomas también pueden aparecer en Infección urinaria o Estenosis uretral."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por problemas de próstata en CDMX?",
+            "respuesta": "Debes acudir si presentas síntomas urinarios persistentes o cambios en la micción. En CDMX, el urólogo puede descartar Tumores urológicos o Cáncer de próstata."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata son graves?",
+            "respuesta": "Depende de la causa, ya que pueden ir desde afecciones benignas hasta Cáncer de próstata. Por eso es importante un diagnóstico oportuno."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata afectan la función sexual?",
+            "respuesta": "Sí, pueden influir en la función sexual, causando Disfunción eréctil o Eyaculación precoz. Esto depende del tipo de afección prostática."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden causar incontinencia urinaria?",
+            "respuesta": "Sí, especialmente en etapas avanzadas pueden provocar Incontinencia urinaria. Esto forma parte de los Problemas urinarios asociados."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden causar sangre en la orina?",
+            "respuesta": "En algunos casos pueden provocar Hematuria. Esto también obliga a descartar Cáncer de vejiga o Tumores urológicos."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para evaluar los problemas de próstata?",
+            "respuesta": "Se realizan análisis de laboratorio, estudios de imagen y evaluación clínica. Esto permite diferenciar entre Hiperplasia prostática, Prostatitis o cáncer."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden confundirse con otras enfermedades?",
+            "respuesta": "Sí, pueden confundirse con Cálculos renales, Infección urinaria o Estenosis uretral. El diagnóstico médico es clave para diferenciarlos."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden causar dolor testicular?",
+            "respuesta": "No es lo más común, pero pueden coexistir con Dolor testicular si hay inflamación o infección. Esto puede relacionarse con Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata son frecuentes?",
+            "respuesta": "Sí, son comunes en hombres adultos y aumentan con la edad. Forman parte de las principales causas de Problemas urinarios."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden aparecer en jóvenes?",
+            "respuesta": "Sí, aunque son menos frecuentes, pueden presentarse como Prostatitis. También pueden relacionarse con Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata afectan los riñones?",
+            "respuesta": "En casos avanzados pueden afectar los Problemas renales debido a la obstrucción urinaria. Esto requiere atención médica."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden estar relacionados con infecciones?",
+            "respuesta": "Sí, especialmente en casos de Prostatitis o Infección urinaria. Estas condiciones pueden coexistir."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden requerir cirugía?",
+            "respuesta": "Algunos casos, como Hiperplasia prostática avanzada, pueden requerir cirugía. El urólogo define el tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con los problemas de próstata?",
+            "respuesta": "Pueden coexistir con Hidrocele, Varicocele o Fimosis en algunos casos. El urólogo evalúa el sistema urogenital completo."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden derivar en cáncer?",
+            "respuesta": "Algunas condiciones pueden coexistir con Cáncer de próstata. Por eso es importante el seguimiento médico."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata afectan la calidad de vida?",
+            "respuesta": "Sí, pueden afectar el sueño, la micción y la vida sexual. El tratamiento adecuado mejora significativamente el bienestar."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden empeorar con el tiempo?",
+            "respuesta": "Sí, pueden progresar si no se tratan oportunamente. Esto puede aumentar los Problemas urinarios."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación en la sección Problemas de próstata?",
+            "respuesta": "Incluye diagnóstico, tratamiento y relación con Problemas urinarios o Tumores urológicos. La sección Problemas de próstata orienta de forma integral al paciente."
+        }
+    ]
+}

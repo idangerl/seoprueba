@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "hiperplasia prostática",
+        "palabras_clave_secundarias": [
+            "agrandamiento de próstata",
+            "síntomas urinarios hombres",
+            "urologo CDMX",
+            "problemas al orinar",
+            "salud prostática"
+        ],
+        "slug": "hiperplasia-prostatica",
+        "title": "Hiperplasia prostática en CDMX: síntomas, causas y relación con problemas urinarios",
+        "meta_description": "Conoce qué es la hiperplasia prostática, sus síntomas y cómo se relaciona con problemas urinarios, infecciones y otras enfermedades urológicas en CDMX.",
+        "h1": "Hiperplasia prostática en CDMX: síntomas, causas y su impacto en la salud urinaria"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La hiperplasia prostática es una de las condiciones más comunes en hombres a partir de cierta edad y suele manifestarse con cambios progresivos en la forma de orinar. Más allá de la molestia inicial, este crecimiento benigno de la próstata puede afectar la calidad de vida y estar relacionado con otros problemas urinarios o urológicos, como la infección urinaria o alteraciones anatómicas como la fimosis que pueden influir en la salud del tracto urinario. En CDMX, donde el acceso a evaluación especializada permite un diagnóstico oportuno, comprender este padecimiento es clave para identificar sus causas, su evolución y su vínculo con otras enfermedades como infecciones, alteraciones renales o incluso tumores urológicos.",
+        "bloques": [
+            {
+                "h2": "¿Cómo se manifiesta la hiperplasia prostática y qué síntomas genera?",
+                "descripcion": "Los síntomas suelen desarrollarse de forma gradual y están directamente relacionados con la obstrucción del flujo urinario.",
+                "h3": [
+                    {
+                        "titulo": "Cambios urinarios y su impacto en la vida diaria",
+                        "contenido": "La hiperplasia prostática puede provocar dificultad para iniciar la micción, flujo débil, sensación de vaciado incompleto y aumento en la frecuencia urinaria, incluso durante la noche. Estos problemas urinarios también pueden relacionarse con incontinencia urinaria o con la aparición de hematuria en algunos casos. Además, la obstrucción prolongada puede favorecer infecciones urinarias recurrentes."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de la hiperplasia prostática con otras enfermedades urológicas",
+                "descripcion": "Este padecimiento no ocurre de forma aislada y puede coexistir o confundirse con otras condiciones del sistema urinario y reproductor.",
+                "h3": [
+                    {
+                        "titulo": "Enfermedades prostáticas y diagnósticos diferenciales",
+                        "contenido": "Es importante diferenciar la hiperplasia prostática del cáncer de próstata, ya que ambas pueden presentar síntomas similares. También puede coexistir con prostatitis, generando inflamación y molestias adicionales. En algunos casos, la presencia de tumores urológicos o cáncer de vejiga puede manifestarse con síntomas urinarios que requieren evaluación detallada."
+                    },
+                    {
+                        "titulo": "Interacción con riñones, vías urinarias y salud general",
+                        "contenido": "La obstrucción urinaria puede afectar el funcionamiento de los riñones, generando problemas renales si no se trata a tiempo. Además, condiciones como los cálculos renales o la estenosis uretral pueden agravar los síntomas. Las infecciones genitales, el hidrocele o incluso el varicocele pueden coexistir en pacientes con alteraciones urológicas complejas, acompañándose en ocasiones de dolor testicular."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de la hiperplasia prostática en la función sexual y calidad de vida",
+                "descripcion": "Además de los síntomas urinarios, la hiperplasia prostática puede influir en otros aspectos de la salud masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con la función sexual",
+                        "contenido": "Algunos pacientes pueden experimentar disfunción eréctil o eyaculación precoz en el contexto de enfermedades prostáticas. Aunque no siempre están directamente relacionadas, comparten factores de riesgo y pueden coexistir dentro de un mismo cuadro clínico."
+                    },
+                    {
+                        "titulo": "Importancia de un enfoque integral en CDMX",
+                        "contenido": "En CDMX, la evaluación por un urólogo permite analizar todos los factores involucrados en la hiperplasia prostática, desde los síntomas urinarios hasta su impacto en la calidad de vida. Esto facilita identificar si existen problemas de próstata más amplios o enfermedades asociadas que requieran atención específica."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Hiperplasia prostática en CDMX",
+            "description": "Información completa sobre la hiperplasia prostática, sus síntomas, causas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Hiperplasia prostática"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es la hiperplasia prostática y por qué ocurre?",
+            "respuesta": "La hiperplasia prostática es el crecimiento benigno de la próstata que afecta el flujo urinario. Forma parte de los Problemas de próstata y puede relacionarse con Problemas urinarios en hombres adultos."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de la hiperplasia prostática?",
+            "respuesta": "Los síntomas incluyen dificultad para orinar, chorro débil y urgencia urinaria. Estos signos también pueden confundirse con Infección urinaria o Estenosis uretral."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática es lo mismo que cáncer de próstata?",
+            "respuesta": "No, la hiperplasia prostática es benigna, pero comparte síntomas con el Cáncer de próstata. Por eso es importante un diagnóstico adecuado en CDMX."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por hiperplasia prostática en CDMX?",
+            "respuesta": "Debes acudir si presentas síntomas urinarios persistentes o cambios en la micción. Esto ayuda a descartar Problemas urinarios más complejos o Tumores urológicos."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática causa sangre en la orina?",
+            "respuesta": "En algunos casos puede provocar Hematuria, lo que requiere evaluación médica. También puede estar asociada a otros Problemas de próstata."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática afecta la función sexual?",
+            "respuesta": "Puede influir en la función sexual, generando Disfunción eréctil o Eyaculación precoz en algunos casos. Esto depende del grado de afectación prostática."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para diagnosticar la hiperplasia prostática?",
+            "respuesta": "El urólogo puede solicitar análisis de orina, ultrasonido y estudios prostáticos. Esto permite diferenciarla de Prostatitis o Cáncer de próstata."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede causar incontinencia urinaria?",
+            "respuesta": "Sí, en etapas avanzadas puede provocar Incontinencia urinaria por obstrucción del flujo. Esto se relaciona con Problemas urinarios progresivos."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática tiene relación con infecciones?",
+            "respuesta": "Sí, puede favorecer la aparición de Infección urinaria o Infecciones genitales. Esto ocurre por la dificultad para vaciar completamente la vejiga."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede afectar los riñones?",
+            "respuesta": "En casos avanzados puede impactar los Problemas renales debido a la obstrucción urinaria. Por eso es importante tratarla a tiempo."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede confundirse con otras enfermedades?",
+            "respuesta": "Sí, puede confundirse con Cálculos renales, Estenosis uretral o incluso Cáncer de vejiga. La evaluación médica permite diferenciarlas."
+        },
+        {
+            "pregunta": "¿Qué tan frecuente es la hiperplasia prostática?",
+            "respuesta": "Es muy común en hombres mayores y forma parte de los principales Problemas de próstata. Su frecuencia aumenta con la edad."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática causa dolor testicular?",
+            "respuesta": "No es lo más común, pero puede coexistir con Dolor testicular si hay inflamación o infecciones asociadas. Esto requiere valoración médica."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede aparecer en hombres jóvenes?",
+            "respuesta": "Es menos frecuente en jóvenes, pero puede presentarse junto a Prostatitis o Infecciones genitales. El urólogo debe evaluarlo en cada caso."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática requiere cirugía siempre?",
+            "respuesta": "No siempre, el tratamiento depende de la gravedad de los síntomas. El urólogo puede indicar desde medicamentos hasta cirugía si es necesario."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede causar problemas al orinar por la noche?",
+            "respuesta": "Sí, es común que cause aumento de la frecuencia urinaria nocturna. Esto forma parte de los Problemas urinarios asociados."
+        },
+        {
+            "pregunta": "¿Qué relación hay entre hiperplasia prostática y otros problemas urológicos?",
+            "respuesta": "Puede coexistir con condiciones como Hidrocele, Varicocele o Fimosis en el contexto general del paciente. El urólogo evalúa todo el sistema urogenital."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede derivar en cáncer?",
+            "respuesta": "No directamente, pero puede coexistir con Cáncer de próstata o Tumores urológicos. Por eso se recomienda seguimiento médico."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática afecta la calidad de vida?",
+            "respuesta": "Sí, puede afectar el sueño y las actividades diarias por los síntomas urinarios. También puede influir en la función sexual y el bienestar general."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se evalúan junto con la hiperplasia prostática?",
+            "respuesta": "El urólogo puede revisar Hematuria, Problemas renales o Incontinencia urinaria para un diagnóstico integral. La sección Hiperplasia prostática conecta estos temas para orientar mejor al paciente."
+        }
+    ]
+}

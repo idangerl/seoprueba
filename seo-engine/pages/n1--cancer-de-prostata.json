@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "cáncer de próstata",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "detección de cáncer de próstata",
+            "síntomas prostáticos",
+            "tratamiento urológico CDMX",
+            "enfermedades prostáticas"
+        ],
+        "slug": "cancer-de-prostata",
+        "title": "Cáncer de próstata en CDMX: síntomas, diagnóstico y enfoque urológico integral",
+        "meta_description": "Conoce cómo se detecta y aborda el cáncer de próstata en CDMX, su relación con otros problemas urológicos y la importancia de una valoración oportuna.",
+        "h1": "Cáncer de próstata en CDMX: enfoque urológico integral"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "El cáncer de próstata es una de las principales preocupaciones en salud masculina, especialmente cuando aparecen síntomas urinarios o cambios en la función prostática. En CDMX, la valoración por un urólogo permite entender si estos signos están relacionados con condiciones como hiperplasia prostática, prostatitis o incluso una infección urinaria. Además, muchas veces se presenta junto con otros problemas urinarios como hematuria o molestias persistentes, lo que hace fundamental un enfoque integral que también contemple enfermedades como cálculos renales, problemas renales o incluso tumores urológicos. Esta página funciona como una guía completa para comprender cómo se relaciona el cáncer de próstata con otras afecciones urológicas y cuándo es importante realizar una evaluación especializada.",
+        "bloques": [
+            {
+                "h2": "Relación del cáncer de próstata con otros problemas de próstata y urinarios",
+                "descripcion": "El cáncer de próstata no siempre aparece de forma aislada. Frecuentemente comparte síntomas o se confunde con otras condiciones urológicas comunes.",
+                "h3": [
+                    {
+                        "titulo": "Diferencias y similitudes con otras afecciones prostáticas",
+                        "contenido": "Es común que síntomas como dificultad para orinar, urgencia urinaria o flujo débil se asocien tanto a hiperplasia prostática como a prostatitis. Sin embargo, también pueden estar presentes en el cáncer de próstata. A esto se suman condiciones como la incontinencia urinaria o infecciones urinarias recurrentes, que pueden enmascarar el origen del problema. Por ello, el análisis clínico debe diferenciar entre problemas de próstata benignos y procesos oncológicos."
+                    }
+                ]
+            },
+            {
+                "h2": "Cómo se integra el cáncer de próstata dentro de los tumores urológicos",
+                "descripcion": "El cáncer de próstata forma parte de un grupo más amplio de enfermedades oncológicas del sistema urinario y reproductor masculino.",
+                "h3": [
+                    {
+                        "titulo": "Relación con cáncer de vejiga y otras patologías urológicas",
+                        "contenido": "Dentro de los tumores urológicos, el cáncer de próstata puede coexistir o compartir factores de riesgo con el cáncer de vejiga. Además, síntomas como hematuria pueden ser indicativos de distintas patologías, no solo prostáticas. Otras condiciones como estenosis uretral o problemas urinarios crónicos también pueden influir en el diagnóstico diferencial, por lo que es clave una evaluación completa del sistema urinario."
+                    }
+                ]
+            },
+            {
+                "h2": "El impacto del cáncer de próstata en la salud sexual y reproductiva",
+                "descripcion": "El cáncer de próstata y sus tratamientos pueden afectar diversas funciones relacionadas con la salud masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con disfunción eréctil y otras condiciones genitales",
+                        "contenido": "El cáncer de próstata puede estar asociado con disfunción eréctil, ya sea por la enfermedad en sí o como consecuencia del tratamiento. También puede coexistir con otras afecciones como varicocele, hidrocele o fimosis, que afectan la anatomía y función genital. En algunos casos, se presentan infecciones genitales, dolor testicular o alteraciones como eyaculación precoz, lo que refuerza la necesidad de un abordaje urológico integral que contemple tanto la salud oncológica como la funcional."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [
+        "Valoración integral del sistema urinario y prostático",
+        "Detección oportuna de enfermedades urológicas",
+        "Enfoque personalizado según síntomas y antecedentes",
+        "Orientación clara sobre estudios y seguimiento",
+        "Atención especializada en salud masculina"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Cáncer de próstata en CDMX: enfoque urológico integral",
+            "description": "Guía sobre el cáncer de próstata y su relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Cáncer de próstata"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es el cáncer de próstata y cómo afecta a los hombres?",
+            "respuesta": "El cáncer de próstata es un crecimiento anormal en la glándula prostática que puede afectar la función urinaria y sexual. Se relaciona con otros problemas de próstata como la hiperplasia prostática, la prostatitis y la infección urinaria."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas del cáncer de próstata?",
+            "respuesta": "Puede causar dificultad para orinar, sangre en la orina o molestias pélvicas. Estos signos también pueden confundirse con problemas urinarios, hematuria o infecciones urinarias."
+        },
+        {
+            "pregunta": "¿Cómo se detecta el cáncer de próstata a tiempo en CDMX?",
+            "respuesta": "Se detecta mediante estudios como el antígeno prostático y exploración física con un urólogo. Esto ayuda a diferenciarlo de otros problemas de próstata o tumores urológicos."
+        },
+        {
+            "pregunta": "¿Quién debe hacerse estudios para detectar cáncer de próstata?",
+            "respuesta": "Hombres mayores de 40 o con antecedentes familiares deben evaluarse periódicamente. También es recomendable si hay síntomas asociados a problemas urinarios o disfunción eréctil."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata siempre presenta síntomas?",
+            "respuesta": "No siempre, en etapas iniciales puede ser asintomático. Por eso se recomienda revisión incluso sin molestias como incontinencia urinaria o hematuria."
+        },
+        {
+            "pregunta": "¿Cuál es la diferencia entre cáncer de próstata y hiperplasia prostática?",
+            "respuesta": "La hiperplasia prostática es un crecimiento benigno, mientras que el cáncer implica células malignas. Ambos pueden causar problemas urinarios similares."
+        },
+        {
+            "pregunta": "¿Qué relación tiene el cáncer de próstata con la disfunción eréctil?",
+            "respuesta": "El cáncer o su tratamiento pueden afectar la función eréctil. También puede coexistir con otros trastornos como eyaculación precoz o infecciones genitales."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para confirmar el cáncer de próstata?",
+            "respuesta": "Se utilizan pruebas de laboratorio, imagen y biopsia prostática. Esto permite diferenciarlo de condiciones como prostatitis o cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata puede confundirse con otras enfermedades urológicas?",
+            "respuesta": "Sí, puede confundirse con infecciones urinarias, prostatitis o hiperplasia prostática. Por eso es clave una evaluación especializada."
+        },
+        {
+            "pregunta": "¿Qué tan frecuente es el cáncer de próstata en hombres?",
+            "respuesta": "Es uno de los cánceres más comunes en hombres adultos. Su detección temprana es clave para evitar complicaciones mayores en el sistema urinario."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata afecta la micción?",
+            "respuesta": "Sí, puede causar dificultad para orinar o flujo débil. Estos síntomas también aparecen en estenosis uretral o problemas urinarios."
+        },
+        {
+            "pregunta": "¿Se puede prevenir el cáncer de próstata?",
+            "respuesta": "No siempre se puede prevenir, pero los chequeos regulares ayudan a detectarlo a tiempo. También permiten identificar otros problemas renales o urológicos."
+        },
+        {
+            "pregunta": "¿Qué otros órganos pueden verse afectados por el cáncer de próstata?",
+            "respuesta": "Puede extenderse a vejiga, huesos u otras estructuras cercanas. Esto lo relaciona con enfermedades como cáncer de vejiga y tumores urológicos."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al urólogo por sospecha de cáncer de próstata?",
+            "respuesta": "Debes acudir si presentas síntomas urinarios persistentes o cambios en la micción. También si hay dolor testicular o antecedentes familiares."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata puede causar sangre en la orina?",
+            "respuesta": "Sí, en algunos casos puede provocar hematuria. Este síntoma también aparece en cálculos renales o infecciones urinarias."
+        },
+        {
+            "pregunta": "¿Cómo impacta el cáncer de próstata en la calidad de vida?",
+            "respuesta": "Puede afectar la función urinaria y sexual si no se trata a tiempo. También puede coexistir con incontinencia urinaria o disfunción eréctil."
+        },
+        {
+            "pregunta": "¿Qué papel tiene el urólogo en el tratamiento del cáncer de próstata?",
+            "respuesta": "El urólogo diagnostica, trata y da seguimiento al paciente. También evalúa condiciones relacionadas como varicocele o hidrocele si están presentes."
+        },
+        {
+            "pregunta": "¿El cáncer de próstata está relacionado con problemas renales?",
+            "respuesta": "En casos avanzados puede afectar la función renal. Esto lo conecta con problemas renales o complicaciones urinarias severas."
+        },
+        {
+            "pregunta": "¿Existen señales tempranas de alerta del cáncer de próstata?",
+            "respuesta": "Las señales pueden ser sutiles como cambios en la orina o molestias leves. A veces se confunden con prostatitis o hiperplasia prostática."
+        },
+        {
+            "pregunta": "¿Qué otras enfermedades urológicas deben evaluarse junto al cáncer de próstata?",
+            "respuesta": "Es importante descartar condiciones como infecciones genitales, fimosis o dolor testicular. Esto permite un diagnóstico integral dentro de los tumores urológicos."
+        }
+    ]
+}

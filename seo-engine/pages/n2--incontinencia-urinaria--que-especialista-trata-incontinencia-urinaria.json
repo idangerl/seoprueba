@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "incontinencia urinaria",
+        "palabras_clave_secundarias": [
+            "pérdida de orina",
+            "urologo CDMX",
+            "tratamiento incontinencia urinaria",
+            "control urinario",
+            "problemas al orinar"
+        ],
+        "slug": "que-especialista-trata-incontinencia-urinaria",
+        "title": "¿Qué especialista trata la incontinencia urinaria en CDMX? Diagnóstico y tratamiento",
+        "meta_description": "Descubre qué especialista trata la incontinencia urinaria, cuándo acudir y dónde atenderla en CDMX. Información clara para tomar acción.",
+        "h1": "¿Qué especialista trata incontinencia urinaria en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La incontinencia urinaria es un problema frecuente que afecta el control urinario y puede impactar la calidad de vida de forma significativa. Identificar qué especialista tratará esta condición en CDMX es clave para encontrar la causa y definir un tratamiento adecuado, especialmente cuando la pérdida de orina se vuelve constante o interfiere con las actividades diarias.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata incontinencia urinaria?",
+                "descripcion": "El especialista indicado para tratar la incontinencia urinaria es el urólogo, quien se encarga del diagnóstico y manejo de los trastornos del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en control urinario",
+                        "contenido": "El urólogo evalúa el tipo de incontinencia urinaria, su causa y el impacto en la vida diaria. A partir de ello, define un plan de tratamiento que puede incluir cambios en hábitos, terapia o intervenciones específicas para mejorar el control urinario."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa incontinencia urinaria?",
+                "descripcion": "Un médico general puede detectar los primeros signos, pero la evaluación completa debe realizarla un especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Diagnóstico preciso desde la consulta especializada",
+                        "contenido": "El médico general puede identificar la pérdida de orina como un síntoma inicial, pero el urólogo realiza estudios más detallados para determinar el tipo de incontinencia urinaria y descartar causas como infecciones, alteraciones estructurales o problemas neurológicos."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata incontinencia urinaria?",
+                "descripcion": "El doctor que trata la incontinencia urinaria es el urólogo, quien adapta el tratamiento según el origen y la severidad del problema.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento personalizadas",
+                        "contenido": "El tratamiento puede variar desde ejercicios para fortalecer el suelo pélvico hasta medicamentos o procedimientos más avanzados. El urólogo define la mejor estrategia según el tipo de incontinencia urinaria y las necesidades del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por incontinencia urinaria?",
+                "descripcion": "Es importante no normalizar la pérdida de orina y buscar atención médica cuando aparece de forma recurrente.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que requieren valoración",
+                        "contenido": "Se debe acudir al médico si la incontinencia urinaria ocurre con frecuencia, empeora con el tiempo o afecta actividades cotidianas. También es importante consultar si se acompaña de dolor, ardor o cambios en la orina, ya que puede indicar una condición subyacente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar incontinencia urinaria?",
+                "descripcion": "La incontinencia urinaria debe tratarse con un urólogo en CDMX, donde se pueda realizar un diagnóstico completo.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite acceder a una valoración integral y definir el tratamiento adecuado. Esto ayuda a recuperar el control urinario y mejorar la calidad de vida de forma progresiva y segura."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si estás presentando pérdida de orina o síntomas de incontinencia urinaria, acudir con un urólogo en CDMX es el paso clave para identificar la causa y recuperar el control urinario con el tratamiento adecuado.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata incontinencia urinaria en CDMX?",
+            "description": "Información sobre qué especialista trata la incontinencia urinaria, cuándo acudir y dónde atenderla en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Incontinencia urinaria"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata incontinencia urinaria?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata la incontinencia urinaria según su causa. En CDMX, puede ofrecer opciones médicas y terapéuticas personalizadas."
+        },
+        {
+            "pregunta": "¿Qué especialista trata incontinencia urinaria?",
+            "respuesta": "La incontinencia urinaria debe ser valorada por un urólogo, experto en trastornos del sistema urinario. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa incontinencia urinaria?",
+            "respuesta": "El médico que revisa la incontinencia urinaria es el urólogo, quien evalúa los síntomas y solicita estudios. Esto permite identificar la causa y definir el tratamiento."
+        },
+        {
+            "pregunta": "¿Qué doctor trata incontinencia urinaria?",
+            "respuesta": "El doctor que trata la incontinencia urinaria es el urólogo, capacitado en problemas urinarios. En CDMX, puedes acudir para una valoración integral."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por incontinencia urinaria?",
+            "respuesta": "Debes acudir cuando la pérdida de orina es frecuente o afecta tu calidad de vida. En CDMX, una evaluación temprana evita complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar incontinencia urinaria en CDMX?",
+            "respuesta": "La incontinencia urinaria se trata en clínicas y hospitales con servicio de urología en CDMX. Es importante acudir con un especialista para un diagnóstico adecuado."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria tiene tratamiento efectivo?",
+            "respuesta": "Sí, existen tratamientos que van desde cambios de hábitos hasta medicamentos o cirugía. El urólogo define la mejor opción según cada caso."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria es normal con la edad?",
+            "respuesta": "Puede ser más frecuente con la edad, pero no se considera normal. Siempre debe ser evaluada por un especialista."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo incontinencia urinaria?",
+            "respuesta": "Se identifica por la pérdida involuntaria de orina en diferentes situaciones. Un urólogo puede confirmar el diagnóstico y orientar el tratamiento."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria es urgente?",
+            "respuesta": "No suele ser una urgencia, pero sí requiere valoración médica. En CDMX, puedes agendar consulta con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué estudios se hacen para incontinencia urinaria?",
+            "respuesta": "Se realizan análisis de orina, estudios funcionales y de imagen. Esto ayuda a determinar la causa del problema."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede desaparecer sola?",
+            "respuesta": "En algunos casos leves puede mejorar, pero muchas veces requiere tratamiento. Es importante no ignorar los síntomas."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria afecta la vida diaria?",
+            "respuesta": "Sí, puede impactar actividades cotidianas y el bienestar emocional. El tratamiento adecuado mejora la calidad de vida."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por incontinencia urinaria?",
+            "respuesta": "Sí, pero lo ideal es acudir con un urólogo para una evaluación más específica. En CDMX, esto permite un tratamiento más preciso."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria tiene solución definitiva?",
+            "respuesta": "Depende de la causa, pero muchos casos pueden controlarse o resolverse. El urólogo determinará el mejor enfoque terapéutico."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar la incontinencia urinaria en CDMX?",
+            "respuesta": "El costo depende de los estudios y tratamiento necesario. Lo más importante es obtener un diagnóstico adecuado desde el inicio."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria puede empeorar con el tiempo?",
+            "respuesta": "Sí, puede progresar si no se trata oportunamente. Por eso se recomienda acudir a valoración médica."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria está relacionada con otras enfermedades?",
+            "respuesta": "Sí, puede asociarse a infecciones urinarias u otros problemas del sistema urinario. El diagnóstico médico permite identificar estas relaciones."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato la incontinencia urinaria?",
+            "respuesta": "Puede afectar la calidad de vida y aumentar el riesgo de complicaciones. En CDMX, es recomendable tratarla con un especialista."
+        },
+        {
+            "pregunta": "¿La incontinencia urinaria afecta la calidad del sueño?",
+            "respuesta": "Sí, puede interrumpir el descanso debido a la necesidad frecuente de orinar. El tratamiento adecuado ayuda a mejorar el sueño."
+        }
+    ]
+}

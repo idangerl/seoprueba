@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "dolor testicular",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "causas del dolor testicular",
+            "dolor en testículos tratamiento",
+            "problemas testiculares",
+            "síntomas urológicos masculinos"
+        ],
+        "slug": "dolor-testicular",
+        "title": "Dolor testicular en CDMX: causas, diagnóstico y enfoque urológico completo",
+        "meta_description": "Conoce las causas del dolor testicular, su relación con otras enfermedades urológicas y cuándo acudir a un urólogo en CDMX.",
+        "h1": "Dolor testicular en CDMX: guía urológica integral"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "El dolor testicular es un síntoma que puede aparecer de forma repentina o persistente y que, en muchos casos, genera preocupación inmediata. En CDMX, es frecuente que este tipo de molestia esté relacionado con diferentes condiciones urológicas, desde infecciones genitales o infección urinaria hasta problemas más complejos del sistema urinario o reproductor. Además, puede presentarse junto a otros síntomas como problemas urinarios, hematuria o incluso molestias asociadas a cálculos renales o problemas renales. Comprender el contexto en el que aparece el dolor testicular es fundamental para identificar su causa y recibir una valoración adecuada.",
+        "bloques": [
+            {
+                "h2": "Principales causas del dolor testicular y su relación con otras enfermedades",
+                "descripcion": "El dolor testicular puede tener múltiples orígenes, muchos de ellos vinculados a otras patologías urológicas.",
+                "h3": [
+                    {
+                        "titulo": "Desde infecciones hasta alteraciones estructurales",
+                        "contenido": "Entre las causas más comunes se encuentran infecciones genitales, prostatitis o infección urinaria. También pueden intervenir condiciones como varicocele, hidrocele o fimosis. En algunos casos, el dolor puede estar relacionado con tumores urológicos o incluso cáncer de vejiga, lo que hace imprescindible una evaluación médica para descartar causas graves."
+                    }
+                ]
+            },
+            {
+                "h2": "Cómo el dolor testicular se relaciona con problemas de próstata y urinarios",
+                "descripcion": "El sistema urinario y reproductor masculino está estrechamente conectado, por lo que distintas enfermedades pueden manifestarse con dolor testicular.",
+                "h3": [
+                    {
+                        "titulo": "Relación con próstata y síntomas urinarios",
+                        "contenido": "Condiciones como hiperplasia prostática o cáncer de próstata pueden generar molestias que se irradian hacia los testículos. Asimismo, la incontinencia urinaria, la estenosis uretral o cualquier alteración en el flujo urinario pueden estar asociadas. Estos problemas de próstata y problemas urinarios requieren un enfoque integral para identificar el origen real del dolor."
+                    }
+                ]
+            },
+            {
+                "h2": "El impacto del dolor testicular en la salud sexual y general",
+                "descripcion": "El dolor testicular no solo afecta el bienestar físico, sino también la función sexual y la calidad de vida.",
+                "h3": [
+                    {
+                        "titulo": "Relación con función sexual y condiciones asociadas",
+                        "contenido": "El dolor testicular puede influir en la disfunción eréctil o coexistir con problemas como eyaculación precoz. Además, cuando se asocia con síntomas como hematuria o molestias persistentes, puede ser señal de enfermedades más complejas dentro del espectro de los tumores urológicos. Por ello, una valoración urológica completa es clave para abordar tanto la causa como sus efectos en la salud general."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [
+        "Evaluación integral del sistema urológico",
+        "Identificación precisa de la causa del dolor",
+        "Enfoque personalizado según síntomas",
+        "Atención especializada en salud masculina",
+        "Orientación clara y profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Dolor testicular en CDMX: guía urológica integral",
+            "description": "Información sobre el dolor testicular y su relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Dolor testicular"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es el dolor testicular y por qué ocurre?",
+            "respuesta": "El dolor testicular es una molestia en uno o ambos testículos que puede tener múltiples causas. Puede relacionarse con infecciones genitales, varicocele o incluso problemas urinarios."
+        },
+        {
+            "pregunta": "¿Cuáles son las causas más comunes del dolor testicular?",
+            "respuesta": "Las causas incluyen infecciones, inflamación o lesiones. También puede estar asociado con prostatitis o infección urinaria."
+        },
+        {
+            "pregunta": "¿El dolor testicular es siempre grave?",
+            "respuesta": "No siempre, pero debe evaluarse si es intenso o persistente. Puede estar relacionado con condiciones como hidrocele o tumores urológicos."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al urólogo por dolor testicular en CDMX?",
+            "respuesta": "Debes acudir si el dolor es intenso, repentino o no desaparece. También si hay síntomas urinarios o inflamación."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede estar relacionado con infecciones?",
+            "respuesta": "Sí, muchas veces está relacionado con infecciones genitales o infección urinaria. Estas pueden causar inflamación y molestias."
+        },
+        {
+            "pregunta": "¿Qué relación tiene el dolor testicular con el varicocele?",
+            "respuesta": "El varicocele es una causa frecuente de dolor testicular. Puede generar sensación de pesadez o molestia constante."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede estar relacionado con problemas de próstata?",
+            "respuesta": "Sí, condiciones como prostatitis, hiperplasia prostática o cáncer de próstata pueden generar dolor referido. También pueden presentarse problemas urinarios."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede confundirse con cálculos renales?",
+            "respuesta": "Sí, el dolor de cálculos renales puede irradiarse hacia el testículo. Por eso es importante una evaluación médica adecuada."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para evaluar el dolor testicular?",
+            "respuesta": "Se utilizan ultrasonido, análisis de orina y exploración física. Esto permite descartar infecciones, tumores urológicos o hidrocele."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede afectar la función sexual?",
+            "respuesta": "Sí, puede influir en la actividad sexual por molestia o incomodidad. También puede coexistir con disfunción eréctil o eyaculación precoz."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede ser causado por fimosis?",
+            "respuesta": "Sí, en algunos casos la fimosis puede generar molestias o infecciones que se extienden. Esto puede provocar dolor en la zona genital."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede estar relacionado con hematuria?",
+            "respuesta": "Sí, en algunos casos ambos síntomas pueden aparecer juntos. La hematuria puede indicar problemas urinarios o enfermedades urológicas."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede ser un signo de cáncer?",
+            "respuesta": "En algunos casos puede estar asociado con tumores urológicos. Por eso es importante descartar cáncer de vejiga u otras patologías."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede afectar la fertilidad?",
+            "respuesta": "Sí, dependiendo de la causa puede influir en la fertilidad. Condiciones como varicocele pueden afectar la calidad espermática."
+        },
+        {
+            "pregunta": "¿Cómo se relaciona el dolor testicular con problemas renales?",
+            "respuesta": "El dolor puede irradiarse desde los riñones hacia el testículo. Esto ocurre en casos como cálculos renales o problemas renales."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede aparecer de forma repentina?",
+            "respuesta": "Sí, puede ser súbito por torsión, infección o lesión. En estos casos se requiere atención médica inmediata."
+        },
+        {
+            "pregunta": "¿Qué otras enfermedades pueden causar dolor testicular?",
+            "respuesta": "Puede estar relacionado con estenosis uretral, infecciones o problemas urinarios. También con enfermedades prostáticas."
+        },
+        {
+            "pregunta": "¿El dolor testicular puede ser crónico?",
+            "respuesta": "Sí, puede volverse persistente si no se trata la causa. Es importante evaluación médica para evitar complicaciones."
+        },
+        {
+            "pregunta": "¿Cómo impacta el dolor testicular en la calidad de vida?",
+            "respuesta": "Puede afectar la movilidad, el descanso y la vida sexual. También puede asociarse con disfunción eréctil, incontinencia urinaria o problemas urinarios."
+        },
+        {
+            "pregunta": "¿Qué papel tiene el urólogo en el tratamiento del dolor testicular?",
+            "respuesta": "El urólogo diagnostica la causa y define el tratamiento adecuado. También evalúa condiciones relacionadas como infecciones, problemas de próstata o tumores urológicos."
+        }
+    ]
+}

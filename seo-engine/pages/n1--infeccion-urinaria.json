@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "infección urinaria",
+        "palabras_clave_secundarias": [
+            "infección de vías urinarias",
+            "ardor al orinar",
+            "urologo CDMX",
+            "dolor al orinar",
+            "problemas urinarios"
+        ],
+        "slug": "infeccion-urinaria",
+        "title": "Infección urinaria en CDMX: causas, síntomas y relación con enfermedades urológicas",
+        "meta_description": "Descubre qué es la infección urinaria, sus síntomas y cómo se relaciona con otras enfermedades urológicas en CDMX. Información clara y útil.",
+        "h1": "Infección urinaria en CDMX: síntomas, causas y qué puede indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "La infección urinaria es una de las causas más comunes de molestias al orinar y puede afectar a personas de diferentes edades. Más allá del ardor al orinar o la urgencia frecuente, este problema puede ser una señal de alteraciones más profundas en el sistema urinario. En CDMX, comprender la infección de vías urinarias permite identificar su origen, prevenir recurrencias y detectar si está asociada a otras condiciones urológicas que requieren atención especializada.",
+        "bloques": [
+            {
+                "h2": "¿Por qué ocurre una infección urinaria y qué factores la favorecen?",
+                "descripcion": "Las infecciones urinarias se producen cuando bacterias ingresan al tracto urinario y se multiplican, generando inflamación y síntomas molestos.",
+                "h3": [
+                    {
+                        "titulo": "Factores urinarios y estructurales asociados",
+                        "contenido": "Condiciones como los cálculos renales pueden facilitar la acumulación de bacterias, mientras que alteraciones como la estenosis uretral dificultan el flujo de la orina y favorecen infecciones. Estos problemas urinarios aumentan el riesgo de episodios recurrentes si no se tratan adecuadamente."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de la infección urinaria con otras enfermedades urológicas",
+                "descripcion": "Una infección urinaria puede ser tanto una causa como una consecuencia de otras condiciones del sistema urinario y reproductor.",
+                "h3": [
+                    {
+                        "titulo": "Vínculo con próstata, vejiga y enfermedades graves",
+                        "contenido": "En hombres, la hiperplasia prostática y la prostatitis pueden dificultar el vaciado de la vejiga, favoreciendo infecciones. También es importante descartar cáncer de próstata o cáncer de vejiga cuando existen síntomas persistentes. La hematuria puede aparecer como signo asociado en algunos casos."
+                    },
+                    {
+                        "titulo": "Relación con riñones y otras afecciones urológicas",
+                        "contenido": "Las infecciones pueden ascender hacia los riñones y generar problemas renales si no se tratan a tiempo. Asimismo, tumores urológicos pueden manifestarse con síntomas similares a una infección urinaria. Además, condiciones como la incontinencia urinaria pueden aumentar el riesgo de infecciones recurrentes."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de la infección urinaria en la salud integral",
+                "descripcion": "Aunque suele considerarse un problema localizado, la infección urinaria puede relacionarse con otras áreas de la salud urológica.",
+                "h3": [
+                    {
+                        "titulo": "Relación con salud genital y síntomas asociados",
+                        "contenido": "Las infecciones genitales pueden coexistir con infecciones urinarias, generando síntomas combinados. También pueden presentarse molestias como dolor testicular, especialmente cuando hay inflamación asociada. Condiciones como el varicocele, hidrocele o fimosis pueden influir en la salud genital y urinaria."
+                    },
+                    {
+                        "titulo": "Conexión con función sexual y calidad de vida",
+                        "contenido": "Problemas como la disfunción eréctil o la eyaculación precoz pueden coexistir en pacientes con antecedentes urológicos. La presencia recurrente de infecciones urinarias afecta la calidad de vida y puede ser un indicador de problemas de próstata u otras alteraciones que requieren evaluación integral en CDMX."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Infección urinaria en CDMX",
+            "description": "Información completa sobre la infección urinaria, sus causas, síntomas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Infección urinaria"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es una infección urinaria y por qué ocurre?",
+            "respuesta": "La infección urinaria es una infección en cualquier parte del sistema urinario y forma parte de los Problemas urinarios. Puede relacionarse con Estenosis uretral o Problemas renales que dificultan el flujo de la orina."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de una infección urinaria?",
+            "respuesta": "Incluyen ardor al orinar, urgencia urinaria y dolor pélvico. También puede presentarse Hematuria o molestias asociadas a Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por infección urinaria en CDMX?",
+            "respuesta": "Debes acudir si los síntomas persisten, empeoran o se repiten. En CDMX, el urólogo puede descartar causas como Cálculos renales o Problemas de próstata."
+        },
+        {
+            "pregunta": "¿La infección urinaria es grave?",
+            "respuesta": "Generalmente no, pero puede complicarse si no se trata a tiempo. En casos severos puede afectar los Problemas renales o estar relacionada con Tumores urológicos."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede causar sangre en la orina?",
+            "respuesta": "Sí, puede provocar Hematuria en algunos casos. Esto también obliga a descartar condiciones como Cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿La infección urinaria está relacionada con problemas de próstata?",
+            "respuesta": "Sí, en hombres puede asociarse con Hiperplasia prostática o Prostatitis. Estas condiciones forman parte de los Problemas de próstata."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede afectar la función sexual?",
+            "respuesta": "Indirectamente sí, ya que puede causar molestias que impactan la vida sexual. Puede coexistir con Disfunción eréctil o Eyaculación precoz."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede causar dolor testicular?",
+            "respuesta": "En algunos casos puede generar Dolor testicular si la infección se extiende. También puede relacionarse con Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para diagnosticar una infección urinaria?",
+            "respuesta": "Se realizan análisis de orina y, en algunos casos, estudios de imagen. Esto ayuda a descartar Cálculos renales o Problemas renales asociados."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede ser recurrente?",
+            "respuesta": "Sí, puede repetirse especialmente si hay factores predisponentes. Esto puede incluir Estenosis uretral o Problemas urinarios persistentes."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede confundirse con otras enfermedades?",
+            "respuesta": "Sí, puede confundirse con Cálculos renales, Prostatitis o incluso Cáncer de vejiga. Por eso es importante un diagnóstico adecuado."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede causar incontinencia urinaria?",
+            "respuesta": "Sí, puede provocar episodios de Incontinencia urinaria debido a la irritación de la vejiga. Esto suele mejorar con el tratamiento."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede afectar los riñones?",
+            "respuesta": "Sí, si no se trata puede extenderse y afectar los Problemas renales. Esto puede generar complicaciones más serias."
+        },
+        {
+            "pregunta": "¿La infección urinaria es común en hombres?",
+            "respuesta": "Es menos frecuente que en mujeres, pero puede presentarse en hombres con Problemas de próstata. También puede relacionarse con Fimosis."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede estar asociada a cáncer?",
+            "respuesta": "No directamente, pero puede coexistir con Tumores urológicos o Cáncer de próstata. Por eso se recomienda evaluación médica."
+        },
+        {
+            "pregunta": "¿Qué factores aumentan el riesgo de infección urinaria?",
+            "respuesta": "Factores como mala higiene, obstrucciones urinarias o enfermedades previas pueden influir. Esto incluye Problemas urinarios o Infecciones genitales."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede aparecer en jóvenes?",
+            "respuesta": "Sí, puede presentarse a cualquier edad. En jóvenes puede estar relacionada con Infecciones genitales o hábitos higiénicos."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con la infección urinaria?",
+            "respuesta": "Puede estar vinculada con Hidrocele, Varicocele o incluso Dolor testicular en algunos casos. El urólogo evalúa el contexto completo del paciente."
+        },
+        {
+            "pregunta": "¿La infección urinaria afecta la calidad de vida?",
+            "respuesta": "Sí, puede causar molestias constantes y afectar actividades diarias. El tratamiento adecuado mejora rápidamente los síntomas."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación en la sección Infección urinaria?",
+            "respuesta": "Incluye diagnóstico, tratamiento y relación con otros Problemas urinarios o Problemas de próstata. La sección Infección urinaria orienta al paciente de forma integral."
+        }
+    ]
+}

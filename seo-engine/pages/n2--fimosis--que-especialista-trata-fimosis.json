@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "fimosis",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "tratamiento fimosis",
+            "problemas del prepucio",
+            "salud genital masculina",
+            "cirugía de fimosis"
+        ],
+        "slug": "que-especialista-trata-fimosis",
+        "title": "¿Qué especialista trata fimosis en CDMX? Atención urológica especializada",
+        "meta_description": "Descubre qué especialista trata la fimosis en CDMX, cuándo acudir y dónde recibir diagnóstico y tratamiento adecuados.",
+        "h1": "¿Qué especialista trata fimosis en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La fimosis es una condición que puede causar molestias, dificultad para la higiene y problemas en la vida diaria si no se trata a tiempo. Saber a qué especialista acudir en CDMX es clave para recibir un diagnóstico adecuado y acceder a un tratamiento fimosis efectivo. Una valoración médica oportuna permite evitar complicaciones y mejorar la salud genital masculina.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata fimosis?",
+                "descripcion": "El especialista indicado para tratar la fimosis es el urólogo, experto en el sistema urinario y genital masculino.",
+                "h3": [
+                    {
+                        "titulo": "El papel del urólogo en el tratamiento",
+                        "contenido": "El urólogo en CDMX evalúa el grado de fimosis y determina el tratamiento más adecuado. Puede orientar desde manejo conservador hasta procedimientos específicos, dependiendo de la severidad del caso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa fimosis?",
+                "descripcion": "Aunque puede detectarse en una consulta general, la evaluación completa corresponde al urólogo.",
+                "h3": [
+                    {
+                        "titulo": "Valoración clínica y diagnóstico",
+                        "contenido": "El urólogo realiza una exploración física para confirmar la fimosis y descartar otras condiciones asociadas. Esta evaluación permite definir el mejor enfoque terapéutico según cada paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata fimosis?",
+                "descripcion": "El tratamiento de la fimosis es guiado por el urólogo, quien adapta el manejo según el caso.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento disponibles",
+                        "contenido": "El tratamiento fimosis puede incluir medidas conservadoras o procedimientos como la cirugía de fimosis. En CDMX, el objetivo es resolver el problema de forma segura y mejorar la calidad de vida del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por fimosis?",
+                "descripcion": "Identificar el momento adecuado para consultar es clave para evitar complicaciones.",
+                "h3": [
+                    {
+                        "titulo": "Señales que requieren atención médica",
+                        "contenido": "Se recomienda acudir al especialista si hay dolor, dificultad para retraer el prepucio, infecciones recurrentes o molestias durante la higiene. Una evaluación temprana permite un tratamiento más sencillo y efectivo."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar fimosis?",
+                "descripcion": "El tratamiento debe realizarse en centros especializados en urología.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de la atención especializada en CDMX",
+                        "contenido": "En CDMX, acudir a un urólogo con experiencia en fimosis permite acceder a un diagnóstico preciso y a un tratamiento adecuado. La atención especializada mejora los resultados y el seguimiento del paciente."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "¿Buscas saber qué especialista trata fimosis en CDMX? Agenda tu valoración con un urólogo y recibe un diagnóstico claro junto con el tratamiento adecuado para mejorar tu salud.",
+    "beneficios_contacto": [
+        "Atención especializada en urología",
+        "Diagnóstico preciso y oportuno",
+        "Tratamientos adaptados a cada caso",
+        "Mejora de la salud genital masculina",
+        "Seguimiento médico profesional"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata fimosis en CDMX?",
+            "description": "Información sobre qué especialista trata la fimosis, cuándo acudir y dónde recibir atención en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Fimosis"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata fimosis?",
+            "respuesta": "El especialista que trata la fimosis es el urólogo. En CDMX puedes acudir para una valoración y tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué especialista trata fimosis?",
+            "respuesta": "El urólogo es el médico indicado para tratar la fimosis. Evalúa el grado y define el mejor manejo."
+        },
+        {
+            "pregunta": "¿Qué médico revisa fimosis?",
+            "respuesta": "El médico que revisa la fimosis es el urólogo. Realiza una exploración física para confirmar el diagnóstico."
+        },
+        {
+            "pregunta": "¿Qué doctor trata fimosis?",
+            "respuesta": "El doctor que trata la fimosis es el urólogo especializado en salud masculina. Puede recomendar tratamiento médico o quirúrgico."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por fimosis?",
+            "respuesta": "Debes acudir si hay dolor, infecciones o dificultad para retraer el prepucio. La atención temprana evita complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar fimosis?",
+            "respuesta": "La fimosis se trata en clínicas urológicas y hospitales en CDMX. Es importante acudir a un especialista con experiencia."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas de la fimosis?",
+            "respuesta": "Incluyen dificultad para retraer el prepucio, dolor o inflamación. También puede haber infecciones recurrentes."
+        },
+        {
+            "pregunta": "¿La fimosis siempre requiere cirugía?",
+            "respuesta": "No siempre, algunos casos se tratan con medicamentos o cuidados locales. El urólogo define el tratamiento."
+        },
+        {
+            "pregunta": "¿Qué tratamientos existen para la fimosis?",
+            "respuesta": "El tratamiento puede incluir cremas, ejercicios o cirugía como la circuncisión. Depende de la severidad del caso."
+        },
+        {
+            "pregunta": "¿La fimosis puede desaparecer sola?",
+            "respuesta": "En algunos casos leves puede mejorar con el tiempo. Sin embargo, es importante evaluación médica."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar la fimosis en CDMX?",
+            "respuesta": "El costo depende del tratamiento y la clínica. Se recomienda una valoración previa para conocer el precio."
+        },
+        {
+            "pregunta": "¿La fimosis puede causar infecciones?",
+            "respuesta": "Sí, puede favorecer infecciones por acumulación de bacterias. Esto requiere tratamiento oportuno."
+        },
+        {
+            "pregunta": "¿La fimosis afecta la vida sexual?",
+            "respuesta": "Sí, puede causar dolor o incomodidad durante las relaciones. El tratamiento mejora la calidad de vida."
+        },
+        {
+            "pregunta": "¿La fimosis puede afectar la fertilidad?",
+            "respuesta": "No directamente, pero puede dificultar las relaciones sexuales. Es importante tratarla si causa molestias."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato la fimosis?",
+            "respuesta": "Puede provocar infecciones, dolor o complicaciones. El tratamiento oportuno evita problemas mayores."
+        },
+        {
+            "pregunta": "¿La fimosis puede aparecer en adultos?",
+            "respuesta": "Sí, puede desarrollarse por infecciones o inflamación. También puede aparecer sin causa clara."
+        },
+        {
+            "pregunta": "¿Cómo elegir un buen urólogo en CDMX para fimosis?",
+            "respuesta": "Busca experiencia, certificaciones y buenas opiniones de pacientes. Es importante que ofrezca atención integral."
+        },
+        {
+            "pregunta": "¿La fimosis tiene solución definitiva?",
+            "respuesta": "Sí, especialmente con tratamiento quirúrgico. La mayoría de los casos se resuelve completamente."
+        },
+        {
+            "pregunta": "¿La fimosis puede prevenirse?",
+            "respuesta": "Una buena higiene ayuda a reducir el riesgo. También es importante tratar infecciones a tiempo."
+        },
+        {
+            "pregunta": "¿La fimosis puede estar relacionada con otros problemas de salud?",
+            "respuesta": "Sí, puede asociarse con infecciones o condiciones urológicas. Por eso es importante una evaluación médica completa."
+        }
+    ]
+}

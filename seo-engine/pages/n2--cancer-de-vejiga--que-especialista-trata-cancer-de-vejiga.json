@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "cáncer de vejiga",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "oncología urológica vejiga",
+            "tratamiento de cáncer de vejiga",
+            "síntomas de cáncer de vejiga",
+            "diagnóstico urológico vejiga"
+        ],
+        "slug": "que-especialista-trata-cancer-de-vejiga",
+        "title": "¿Qué especialista trata cáncer de vejiga en CDMX? Atención urológica especializada",
+        "meta_description": "Conoce qué especialista trata el cáncer de vejiga en CDMX, cuándo acudir y dónde recibir un diagnóstico y tratamiento adecuados.",
+        "h1": "¿Qué especialista trata cáncer de vejiga en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "El cáncer de vejiga puede iniciar con síntomas que muchas veces se confunden con problemas urinarios comunes, lo que retrasa la atención médica adecuada. Saber a qué especialista acudir en CDMX es clave para obtener un diagnóstico urológico vejiga preciso y definir el mejor tratamiento de cáncer de vejiga desde las primeras etapas. Identificar quién evalúa, revisa y trata esta condición permite actuar con mayor seguridad y mejorar el pronóstico.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata cáncer de vejiga?",
+                "descripcion": "El especialista indicado para tratar el cáncer de vejiga es el urólogo, experto en enfermedades del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Especialización en urología oncológica",
+                        "contenido": "El urólogo en CDMX es quien se encarga del diagnóstico y tratamiento del cáncer de vejiga. Cuenta con formación en oncología urológica, lo que le permite evaluar la extensión de la enfermedad y definir el enfoque terapéutico más adecuado según cada caso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa cáncer de vejiga?",
+                "descripcion": "El proceso de revisión puede iniciar con un médico general, pero la evaluación completa corresponde al urólogo.",
+                "h3": [
+                    {
+                        "titulo": "Estudios y valoración especializada",
+                        "contenido": "El urólogo realiza estudios específicos como análisis de orina, cistoscopia o estudios de imagen para identificar el cáncer de vejiga. Esta revisión permite diferenciarlo de otras condiciones urinarias y establecer un diagnóstico preciso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata cáncer de vejiga?",
+                "descripcion": "El tratamiento del cáncer de vejiga es liderado por el urólogo, quien diseña un plan personalizado.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento según el caso",
+                        "contenido": "El tratamiento de cáncer de vejiga puede incluir procedimientos endoscópicos, terapias médicas o seguimiento especializado. En CDMX, el urólogo adapta el tratamiento según la etapa del cáncer y las características del paciente, priorizando resultados efectivos y control de la enfermedad."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por cáncer de vejiga?",
+                "descripcion": "Detectar a tiempo los síntomas del cáncer de vejiga es clave para un tratamiento más efectivo.",
+                "h3": [
+                    {
+                        "titulo": "Síntomas que requieren evaluación inmediata",
+                        "contenido": "Se recomienda acudir al médico si se presenta sangre en la orina, molestias al orinar o cambios en la frecuencia urinaria. Estos signos pueden parecer leves, pero requieren valoración por un especialista para descartar cáncer de vejiga u otras enfermedades."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar cáncer de vejiga?",
+                "descripcion": "El tratamiento debe realizarse en centros con experiencia en urología y manejo oncológico.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de la atención especializada en CDMX",
+                        "contenido": "En CDMX, acudir a un urólogo con experiencia en cáncer de vejiga permite acceder a un diagnóstico preciso y a un tratamiento adecuado. La atención especializada mejora el seguimiento y las decisiones clínicas en cada etapa de la enfermedad."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "¿Necesitas saber qué especialista trata cáncer de vejiga en CDMX? Agenda tu valoración con un urólogo y recibe una atención clara, especializada y enfocada en tu diagnóstico.",
+    "beneficios_contacto": [
+        "Atención especializada en urología",
+        "Diagnóstico preciso con estudios adecuados",
+        "Tratamiento personalizado según cada caso",
+        "Seguimiento médico continuo",
+        "Enfoque integral en salud urinaria"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata cáncer de vejiga en CDMX?",
+            "description": "Información sobre qué especialista trata el cáncer de vejiga, cuándo acudir y dónde recibir atención en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Cáncer de vejiga"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata cáncer de vejiga?",
+            "respuesta": "El especialista que trata el cáncer de vejiga es el urólogo, quien se encarga del diagnóstico y tratamiento. En CDMX puedes acudir a consulta para una evaluación completa."
+        },
+        {
+            "pregunta": "¿Qué especialista trata cáncer de vejiga?",
+            "respuesta": "El urólogo es el médico indicado para tratar el cáncer de vejiga. En algunos casos puede trabajar junto con un oncólogo."
+        },
+        {
+            "pregunta": "¿Qué médico revisa cáncer de vejiga?",
+            "respuesta": "El médico que revisa el cáncer de vejiga es el urólogo. Puede solicitar estudios como cistoscopia y análisis de orina."
+        },
+        {
+            "pregunta": "¿Qué doctor trata cáncer de vejiga?",
+            "respuesta": "El doctor que trata el cáncer de vejiga es el urólogo especializado en enfermedades del sistema urinario. Define el tratamiento según el caso."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por cáncer de vejiga?",
+            "respuesta": "Debes acudir si presentas sangre en la orina o síntomas urinarios persistentes. La atención temprana mejora el pronóstico."
+        },
+        {
+            "pregunta": "¿Dónde tratar cáncer de vejiga?",
+            "respuesta": "El cáncer de vejiga se trata en hospitales y clínicas urológicas especializadas en CDMX. Es importante elegir un centro con experiencia."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas del cáncer de vejiga?",
+            "respuesta": "El síntoma principal es la sangre en la orina, también puede haber dolor o urgencia urinaria. Algunos casos no presentan síntomas al inicio."
+        },
+        {
+            "pregunta": "¿Cómo se diagnostica el cáncer de vejiga en CDMX?",
+            "respuesta": "Se diagnostica mediante estudios de orina, cistoscopia y pruebas de imagen. En algunos casos se requiere biopsia."
+        },
+        {
+            "pregunta": "¿Qué tratamientos existen para el cáncer de vejiga?",
+            "respuesta": "El tratamiento puede incluir cirugía, inmunoterapia o quimioterapia. Depende del tipo y etapa del tumor."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga siempre requiere cirugía?",
+            "respuesta": "No siempre, algunos casos se manejan con tratamientos no quirúrgicos. El urólogo define la mejor opción."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar cáncer de vejiga en CDMX?",
+            "respuesta": "El costo varía según el tratamiento y la clínica. Se recomienda valoración previa para un presupuesto exacto."
+        },
+        {
+            "pregunta": "¿Qué tan urgente es tratar el cáncer de vejiga?",
+            "respuesta": "Es importante tratarlo lo antes posible para evitar que avance. El diagnóstico temprano mejora las opciones de tratamiento."
+        },
+        {
+            "pregunta": "¿Se puede curar el cáncer de vejiga?",
+            "respuesta": "Sí, especialmente si se detecta en etapas tempranas. El seguimiento médico es clave para evitar recurrencias."
+        },
+        {
+            "pregunta": "¿Qué estudios necesito para detectar cáncer de vejiga?",
+            "respuesta": "Se utilizan análisis de orina, cistoscopia y estudios de imagen. Estos permiten confirmar el diagnóstico."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga afecta la función urinaria?",
+            "respuesta": "Sí, puede causar urgencia, dolor o dificultad para orinar. Estos síntomas deben evaluarse con un especialista."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato el cáncer de vejiga?",
+            "respuesta": "Puede avanzar y afectar otros órganos o funciones del cuerpo. Esto complica el tratamiento y el pronóstico."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga tiene factores de riesgo?",
+            "respuesta": "Sí, el tabaquismo y la exposición a sustancias químicas aumentan el riesgo. También influyen factores genéticos."
+        },
+        {
+            "pregunta": "¿Cómo elegir un buen urólogo en CDMX para cáncer de vejiga?",
+            "respuesta": "Busca experiencia, certificaciones y buenas opiniones de pacientes. Es importante que ofrezca diagnóstico y tratamiento integral."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga puede reaparecer después del tratamiento?",
+            "respuesta": "Sí, puede haber recurrencia, por lo que se requiere seguimiento médico constante. Los controles periódicos son fundamentales."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga puede detectarse sin síntomas?",
+            "respuesta": "Sí, en algunos casos se detecta en estudios de rutina. Por eso es recomendable realizar chequeos médicos periódicos."
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "problemas de próstata",
+        "palabras_clave_secundarias": [
+            "salud prostática",
+            "urologo CDMX",
+            "síntomas de próstata",
+            "tratamiento próstata",
+            "problemas al orinar"
+        ],
+        "slug": "que-especialista-trata-problemas-de-prostata",
+        "title": "¿Qué especialista trata problemas de próstata en CDMX? Diagnóstico y atención urológica",
+        "meta_description": "Descubre qué especialista trata problemas de próstata, cuándo acudir y dónde atenderlos en CDMX. Información clara para actuar a tiempo.",
+        "h1": "¿Qué especialista trata problemas de próstata en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "Los problemas de próstata son frecuentes en hombres y pueden afectar tanto la forma de orinar como la calidad de vida. Saber qué especialista trata estos problemas en CDMX es clave para obtener un diagnóstico oportuno y evitar complicaciones. Identificar los síntomas a tiempo permite iniciar el tratamiento adecuado y mejorar la salud prostática.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata problemas de próstata?",
+                "descripcion": "El especialista indicado para tratar los problemas de próstata es el urólogo, quien se encarga de la salud del sistema urinario y reproductor masculino.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en enfermedades prostáticas",
+                        "contenido": "El urólogo evalúa los síntomas, realiza estudios específicos y determina si se trata de condiciones como hiperplasia, inflamación u otras alteraciones. Esto permite establecer un tratamiento adecuado según cada caso."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa problemas de próstata?",
+                "descripcion": "Un médico general puede identificar los primeros síntomas, pero la evaluación completa corresponde al especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Diagnóstico preciso desde la especialidad",
+                        "contenido": "El médico general puede detectar cambios urinarios o molestias iniciales, pero el urólogo realiza una valoración más profunda para confirmar el diagnóstico y descartar enfermedades más complejas relacionadas con la próstata."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata problemas de próstata?",
+                "descripcion": "El doctor que trata los problemas de próstata es el urólogo, quien define el tratamiento según la causa y gravedad.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento según el caso",
+                        "contenido": "El tratamiento puede incluir medicamentos, cambios en el estilo de vida o procedimientos específicos. El urólogo adapta el manejo según los síntomas y la evolución del paciente, buscando mejorar su calidad de vida."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por problemas de próstata?",
+                "descripcion": "Es importante acudir al médico ante cualquier cambio en la forma de orinar o molestias persistentes.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que requieren valoración",
+                        "contenido": "Dificultad para orinar, flujo débil, urgencia frecuente o dolor son signos que deben evaluarse. También es recomendable acudir si los síntomas empeoran o afectan la vida diaria, ya que pueden indicar una condición que requiere tratamiento."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar problemas de próstata?",
+                "descripcion": "Los problemas de próstata deben tratarse con un urólogo en CDMX para asegurar un diagnóstico correcto.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite recibir una evaluación completa, identificar la causa del problema y definir un tratamiento adecuado que ayude a controlar los síntomas y prevenir complicaciones."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si presentas síntomas o dudas sobre problemas de próstata, acudir con un urólogo en CDMX es la mejor decisión para obtener un diagnóstico claro y el tratamiento adecuado que cuide tu salud.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata problemas de próstata en CDMX?",
+            "description": "Información sobre qué especialista trata problemas de próstata, cuándo acudir y dónde atenderlos en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Problemas de próstata"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata problemas de próstata?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata los problemas de próstata. En CDMX, puede evaluar desde afecciones benignas hasta condiciones más complejas."
+        },
+        {
+            "pregunta": "¿Qué especialista trata problemas de próstata?",
+            "respuesta": "Los problemas de próstata deben ser valorados por un urólogo, experto en el sistema urogenital masculino. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa problemas de próstata?",
+            "respuesta": "El médico que revisa los problemas de próstata es el urólogo, quien analiza síntomas urinarios y realiza estudios. Esto permite definir el tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué doctor trata problemas de próstata?",
+            "respuesta": "El doctor que trata problemas de próstata es el urólogo, capacitado en enfermedades prostáticas. En CDMX, puedes acudir para una valoración integral."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por problemas de próstata?",
+            "respuesta": "Debes acudir cuando presentas dificultad para orinar, chorro débil o urgencia urinaria. En CDMX, una evaluación temprana ayuda a evitar complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar problemas de próstata en CDMX?",
+            "respuesta": "Los problemas de próstata se tratan en clínicas y hospitales con servicio de urología en CDMX. Es importante acudir con un especialista para un diagnóstico preciso."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata tienen tratamiento efectivo?",
+            "respuesta": "Sí, existen tratamientos que van desde medicamentos hasta cirugía. El urólogo definirá la mejor opción según cada caso."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo problemas de próstata?",
+            "respuesta": "Se sospechan por síntomas urinarios como dificultad al orinar o vaciamiento incompleto. El diagnóstico lo confirma un urólogo con estudios."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata son urgentes?",
+            "respuesta": "No siempre son urgentes, pero requieren valoración médica oportuna. En CDMX, puedes agendar consulta con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué estudios se hacen para problemas de próstata?",
+            "respuesta": "Se realizan análisis de sangre, orina y estudios de imagen. Esto permite identificar la causa específica del problema."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden desaparecer solos?",
+            "respuesta": "Algunos casos leves pueden mejorar, pero muchos requieren tratamiento. Es importante no ignorar los síntomas."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata afectan la vida diaria?",
+            "respuesta": "Sí, pueden afectar el sueño, la micción y la calidad de vida. El tratamiento adecuado mejora estos síntomas."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por problemas de próstata?",
+            "respuesta": "Sí, pero lo ideal es acudir directamente con un urólogo. En CDMX, esto permite un diagnóstico más preciso."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata afectan la vida sexual?",
+            "respuesta": "Sí, pueden influir en la función sexual en algunos casos. El tratamiento adecuado puede mejorar tanto la función urinaria como sexual."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar problemas de próstata en CDMX?",
+            "respuesta": "El costo depende de los estudios y tratamiento requerido. Es recomendable acudir a consulta para una valoración personalizada."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata pueden empeorar con el tiempo?",
+            "respuesta": "Sí, pueden progresar si no se tratan oportunamente. Por eso es importante el seguimiento médico."
+        },
+        {
+            "pregunta": "¿El tratamiento de los problemas de próstata es permanente?",
+            "respuesta": "Depende del tipo de afección, algunos tratamientos son continuos y otros definitivos. El urólogo definirá la mejor opción."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata están relacionados con otras enfermedades?",
+            "respuesta": "Sí, pueden asociarse a otros problemas del sistema urinario. El diagnóstico adecuado permite identificar estas relaciones."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato los problemas de próstata?",
+            "respuesta": "Puede haber complicaciones como retención urinaria o infecciones. En CDMX, es recomendable tratarlos a tiempo."
+        },
+        {
+            "pregunta": "¿Los problemas de próstata afectan la calidad del sueño?",
+            "respuesta": "Sí, pueden causar interrupciones del sueño por la necesidad frecuente de orinar. El tratamiento adecuado mejora el descanso."
+        }
+    ]
+}

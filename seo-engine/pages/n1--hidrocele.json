@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "hidrocele",
+        "palabras_clave_secundarias": [
+            "inflamación testicular",
+            "acumulación de líquido en el escroto",
+            "urologo CDMX",
+            "dolor testicular causas",
+            "enfermedades urológicas hombres"
+        ],
+        "slug": "hidrocele",
+        "title": "Hidrocele en CDMX: causas, síntomas y relación con problemas urológicos",
+        "meta_description": "Conoce qué es el hidrocele, por qué aparece y cómo se relaciona con dolor testicular, infecciones, varicocele y otras enfermedades urológicas en CDMX.",
+        "h1": "Hidrocele en CDMX: causas, síntomas y qué puede indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "El aumento de volumen en el escroto suele generar preocupación inmediata, especialmente cuando aparece de forma progresiva o sin una causa clara. El hidrocele es una de las condiciones más frecuentes detrás de este tipo de inflamación, pero no siempre se presenta de forma aislada. En muchos casos puede estar vinculado a infecciones genitales, dolor testicular o incluso a otras alteraciones del sistema urinario y reproductor, como una infección urinaria que puede generar inflamación o molestias asociadas. En CDMX, donde es posible acceder a valoración urológica especializada, entender este tipo de cambios permite identificar si se trata de un problema benigno o de una señal asociada a otras enfermedades urológicas más complejas.",
+        "bloques": [
+            {
+                "h2": "¿Qué es el hidrocele y por qué aparece?",
+                "descripcion": "El hidrocele se produce por la acumulación de líquido alrededor del testículo, lo que genera inflamación visible en el escroto. Aunque suele ser indoloro, su origen puede variar y requiere una evaluación adecuada.",
+                "h3": [
+                    {
+                        "titulo": "Relación con inflamación, infecciones y otras causas",
+                        "contenido": "El hidrocele puede desarrollarse tras procesos inflamatorios o infecciones genitales, así como después de traumatismos o cirugías. También puede coexistir con condiciones como el varicocele o presentarse junto a dolor testicular persistente. En algunos casos, infecciones urinarias o alteraciones en el tracto urinario pueden influir indirectamente en su aparición."
+                    }
+                ]
+            },
+            {
+                "h2": "Hidrocele y su relación con otros problemas urológicos",
+                "descripcion": "Aunque el hidrocele suele ser benigno, su presencia puede estar relacionada con un contexto más amplio de enfermedades urológicas que afectan tanto el sistema urinario como el reproductivo.",
+                "h3": [
+                    {
+                        "titulo": "Vínculo con próstata, función urinaria y salud sexual",
+                        "contenido": "Alteraciones como la hiperplasia prostática, la prostatitis o incluso el cáncer de próstata pueden coexistir con síntomas urinarios que requieren evaluación conjunta. Asimismo, problemas como la incontinencia urinaria, la estenosis uretral o la hematuria pueden formar parte del mismo cuadro clínico. En el ámbito sexual, condiciones como la disfunción eréctil o la eyaculación precoz pueden presentarse en pacientes con antecedentes urológicos complejos, lo que refuerza la importancia de un enfoque integral."
+                    },
+                    {
+                        "titulo": "Relación con enfermedades renales y urinarias",
+                        "contenido": "El sistema urinario está interconectado, por lo que problemas renales, como los cálculos renales u otras afecciones, pueden generar síntomas que coinciden o se confunden con patologías escrotales. Además, los problemas urinarios crónicos pueden influir en la percepción de molestias en la región genital, lo que hace necesaria una valoración completa."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo el hidrocele requiere mayor atención médica?",
+                "descripcion": "Aunque en muchos casos el hidrocele no representa un riesgo grave, existen situaciones en las que puede ser un signo de alerta que no debe ignorarse.",
+                "h3": [
+                    {
+                        "titulo": "Señales que pueden indicar condiciones más complejas",
+                        "contenido": "Un crecimiento rápido, dolor intenso o cambios en la consistencia del escroto pueden sugerir la presencia de tumores urológicos o incluso cáncer de vejiga en etapas avanzadas con manifestaciones indirectas. También es importante considerar otras condiciones como la fimosis o infecciones persistentes que pueden agravar el cuadro."
+                    },
+                    {
+                        "titulo": "Importancia de la evaluación urológica en CDMX",
+                        "contenido": "En una ciudad como CDMX, donde existe acceso a especialistas, la valoración por un urólogo permite descartar complicaciones y diferenciar entre un hidrocele simple y otras patologías más complejas. Esto es clave para establecer un diagnóstico preciso y entender si el origen está relacionado con problemas de próstata, enfermedades renales o alteraciones del sistema urinario en general."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Hidrocele en CDMX",
+            "description": "Información completa sobre el hidrocele, sus causas, síntomas y relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Hidrocele"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es el hidrocele y por qué aparece?",
+            "respuesta": "El hidrocele es la acumulación de líquido alrededor del testículo y puede relacionarse con Dolor testicular o Infecciones genitales. En algunos casos también se evalúa junto a condiciones como Varicocele dentro de la sección Hidrocele."
+        },
+        {
+            "pregunta": "¿El hidrocele es peligroso?",
+            "respuesta": "Generalmente no es grave, pero puede asociarse a Tumores urológicos o Hematuria en casos específicos. Por eso, es importante una valoración urológica en CDMX."
+        },
+        {
+            "pregunta": "¿Qué síntomas causa el hidrocele?",
+            "respuesta": "El síntoma principal es la inflamación escrotal, a veces acompañada de Dolor testicular. También puede confundirse con otras afecciones urológicas como Varicocele."
+        },
+        {
+            "pregunta": "¿El hidrocele puede desaparecer solo?",
+            "respuesta": "En algunos casos leves puede resolverse, pero otros requieren seguimiento médico. Esto es importante para descartar Problemas renales o Infecciones genitales asociadas."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por hidrocele en CDMX?",
+            "respuesta": "Debes acudir si notas aumento de volumen o molestias persistentes. En CDMX, el urólogo puede descartar causas como Tumores urológicos o Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Cómo se diagnostica el hidrocele?",
+            "respuesta": "El diagnóstico se realiza con exploración física y ultrasonido. Esto ayuda a diferenciarlo de Varicocele, Dolor testicular u otras alteraciones urológicas."
+        },
+        {
+            "pregunta": "¿El hidrocele está relacionado con infecciones?",
+            "respuesta": "Sí, en algunos casos puede asociarse a Infecciones genitales o Infección urinaria. Por eso se evalúa dentro del contexto de Problemas urinarios."
+        },
+        {
+            "pregunta": "¿El hidrocele puede afectar la fertilidad?",
+            "respuesta": "Generalmente no, pero si se asocia con Varicocele o infecciones puede influir indirectamente. Por eso es importante evaluarlo en conjunto con otras condiciones urológicas."
+        },
+        {
+            "pregunta": "¿El hidrocele puede confundirse con otras enfermedades?",
+            "respuesta": "Sí, puede confundirse con Varicocele, Tumores urológicos o incluso hernias. En la sección Hidrocele se orienta sobre estas diferencias."
+        },
+        {
+            "pregunta": "¿El hidrocele requiere cirugía siempre?",
+            "respuesta": "No siempre, depende del tamaño y los síntomas. El urólogo evalúa si hay relación con Dolor testicular u otras afecciones como Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Qué causa el hidrocele en adultos?",
+            "respuesta": "Puede deberse a inflamación, traumatismos o infecciones. También se investiga su relación con Problemas urinarios o Infección urinaria."
+        },
+        {
+            "pregunta": "¿El hidrocele puede causar dolor?",
+            "respuesta": "En algunos casos sí, generando Dolor testicular o sensación de pesadez. Esto puede requerir evaluación para descartar otras patologías."
+        },
+        {
+            "pregunta": "¿El hidrocele está relacionado con problemas de próstata?",
+            "respuesta": "No directamente, pero el urólogo puede evaluar Problemas de próstata como Hiperplasia prostática o Prostatitis en el contexto general del paciente."
+        },
+        {
+            "pregunta": "¿Puede el hidrocele aparecer junto con sangre en la orina?",
+            "respuesta": "No es común, pero si hay Hematuria se deben descartar otras causas como Cáncer de vejiga o Problemas renales. Esto requiere evaluación especializada."
+        },
+        {
+            "pregunta": "¿El hidrocele puede estar asociado a cáncer?",
+            "respuesta": "En raros casos puede coexistir con Tumores urológicos o Cáncer de próstata. Por eso es importante un diagnóstico adecuado en CDMX."
+        },
+        {
+            "pregunta": "¿El hidrocele afecta la vida sexual?",
+            "respuesta": "Puede causar incomodidad, pero no suele afectar directamente funciones como la Disfunción eréctil o Eyaculación precoz. Sin embargo, el malestar puede influir en la calidad de vida."
+        },
+        {
+            "pregunta": "¿El hidrocele puede aparecer en jóvenes?",
+            "respuesta": "Sí, puede presentarse a cualquier edad, incluso en jóvenes. En estos casos se evalúa junto a Varicocele o Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Qué diferencia hay entre hidrocele y varicocele?",
+            "respuesta": "El hidrocele es líquido acumulado, mientras que el Varicocele es dilatación de venas. Ambos pueden causar Dolor testicular y requieren evaluación."
+        },
+        {
+            "pregunta": "¿El hidrocele puede relacionarse con problemas urinarios?",
+            "respuesta": "Indirectamente sí, especialmente si hay infecciones asociadas. Por eso se analiza dentro del contexto de Problemas urinarios o Estenosis uretral."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones urológicas se revisan junto con el hidrocele?",
+            "respuesta": "El urólogo puede evaluar Incontinencia urinaria, Fimosis o incluso Cálculos renales según los síntomas. La sección Hidrocele conecta estas condiciones para orientar mejor al paciente."
+        }
+    ]
+}

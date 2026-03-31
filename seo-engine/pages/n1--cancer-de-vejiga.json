@@ -1,0 +1,181 @@
+{
+    "seo": {
+        "palabra_clave_principal": "cáncer de vejiga",
+        "palabras_clave_secundarias": [
+            "urólogo en CDMX",
+            "síntomas de cáncer de vejiga",
+            "tratamiento urológico vejiga",
+            "tumores urológicos vejiga",
+            "diagnóstico vejiga"
+        ],
+        "slug": "cancer-de-vejiga",
+        "title": "Cáncer de vejiga en CDMX: síntomas, diagnóstico y enfoque urológico integral",
+        "meta_description": "Descubre cómo se presenta el cáncer de vejiga, su relación con otros problemas urológicos y la importancia de una evaluación especializada en CDMX.",
+        "h1": "Cáncer de vejiga en CDMX: visión urológica completa"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "El cáncer de vejiga suele manifestarse con señales que muchas veces se confunden con otros problemas urinarios frecuentes, lo que retrasa su detección. En CDMX, es común que síntomas como hematuria, molestias al orinar o cambios en la frecuencia urinaria se asocien inicialmente con una infección urinaria o incluso con cálculos renales. Sin embargo, cuando estos signos persisten, es fundamental una valoración urológica completa que permita descartar o confirmar la presencia de tumores urológicos. Comprender cómo se relaciona el cáncer de vejiga con otras condiciones del sistema urinario y genital es clave para tomar decisiones informadas y buscar atención médica adecuada.",
+        "bloques": [
+            {
+                "h2": "Cómo se relaciona el cáncer de vejiga con otros problemas urinarios",
+                "descripcion": "El cáncer de vejiga comparte síntomas con múltiples afecciones urológicas, lo que puede dificultar su identificación temprana.",
+                "h3": [
+                    {
+                        "titulo": "Síntomas que se confunden con afecciones comunes",
+                        "contenido": "La presencia de hematuria es uno de los signos más relevantes, pero también puede aparecer en infecciones urinarias o cálculos renales. Además, molestias al orinar pueden confundirse con prostatitis o estenosis uretral. Incluso la incontinencia urinaria o cambios en el patrón urinario pueden estar relacionados tanto con problemas benignos como con procesos más complejos. Por ello, un diagnóstico adecuado es clave para diferenciar entre estas condiciones."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación del cáncer de vejiga con enfermedades prostáticas y renales",
+                "descripcion": "El sistema urinario funciona de manera integrada, por lo que distintas enfermedades pueden influir en el diagnóstico y evolución del cáncer de vejiga.",
+                "h3": [
+                    {
+                        "titulo": "Interacción con problemas de próstata y riñón",
+                        "contenido": "Condiciones como hiperplasia prostática o cáncer de próstata pueden generar síntomas urinarios similares al cáncer de vejiga. Asimismo, los problemas renales pueden alterar la función urinaria y complicar la evaluación clínica. En conjunto, estos factores forman parte de un panorama más amplio de problemas urinarios que deben analizarse de forma integral para llegar a un diagnóstico preciso."
+                    }
+                ]
+            },
+            {
+                "h2": "El cáncer de vejiga dentro del contexto de la salud urológica masculina",
+                "descripcion": "Además de los síntomas urinarios, el cáncer de vejiga puede coexistir con otras condiciones que afectan la salud masculina en general.",
+                "h3": [
+                    {
+                        "titulo": "Relación con condiciones genitales y funcionales",
+                        "contenido": "El cáncer de vejiga puede presentarse en pacientes que también tienen condiciones como varicocele, hidrocele o fimosis. Asimismo, la salud sexual puede verse influida por problemas como disfunción eréctil o eyaculación precoz. En algunos casos, también se asocia con infecciones genitales o dolor testicular. Todo esto forma parte de un enfoque integral que considera no solo la vejiga, sino el conjunto del sistema urológico y reproductor masculino."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [
+        "Evaluación integral del sistema urinario",
+        "Detección oportuna de enfermedades urológicas",
+        "Orientación clara sobre síntomas y estudios",
+        "Enfoque personalizado según cada caso",
+        "Atención especializada en salud masculina"
+    ],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Cáncer de vejiga en CDMX: visión urológica completa",
+            "description": "Información sobre el cáncer de vejiga y su relación con otras enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Cáncer de vejiga"
+            },
+            "medicalSpecialty": {
+                "@type": "MedicalSpecialty",
+                "name": "Urología"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué es el cáncer de vejiga y cómo se desarrolla?",
+            "respuesta": "El cáncer de vejiga es un crecimiento anormal de células en la vejiga que forma parte de los tumores urológicos. Puede afectar la función urinaria y relacionarse con problemas urinarios como la hematuria o la infección urinaria."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas del cáncer de vejiga?",
+            "respuesta": "El síntoma más común es la hematuria, es decir, sangre en la orina. También puede confundirse con infección urinaria o cálculos renales por síntomas similares."
+        },
+        {
+            "pregunta": "¿Cómo se detecta el cáncer de vejiga en CDMX?",
+            "respuesta": "Se detecta mediante estudios de orina, cistoscopia y pruebas de imagen con un urólogo. Esto permite diferenciarlo de otros tumores urológicos o problemas urinarios."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga siempre presenta síntomas?",
+            "respuesta": "No siempre, en etapas tempranas puede no causar molestias. Por eso es importante evaluar signos como hematuria o cambios urinarios persistentes."
+        },
+        {
+            "pregunta": "¿Qué factores de riesgo están asociados al cáncer de vejiga?",
+            "respuesta": "El tabaquismo, la exposición a químicos y antecedentes urológicos aumentan el riesgo. También puede coexistir con problemas renales o infecciones urinarias recurrentes."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga puede confundirse con otras enfermedades?",
+            "respuesta": "Sí, puede parecer una infección urinaria, cálculos renales o prostatitis. Por eso es clave una evaluación especializada."
+        },
+        {
+            "pregunta": "¿Qué estudios se utilizan para diagnosticar cáncer de vejiga?",
+            "respuesta": "Se utilizan análisis de orina, cistoscopia y estudios de imagen. Esto ayuda a diferenciarlo de estenosis uretral o problemas urinarios."
+        },
+        {
+            "pregunta": "¿Cuál es la diferencia entre cáncer de vejiga y cáncer de próstata?",
+            "respuesta": "El cáncer de vejiga afecta la vejiga, mientras que el cáncer de próstata se origina en la próstata. Ambos pueden causar síntomas urinarios similares."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al urólogo por sospecha de cáncer de vejiga?",
+            "respuesta": "Debes acudir si presentas sangre en la orina o síntomas urinarios persistentes. También si hay antecedentes de infecciones urinarias frecuentes."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga afecta la micción?",
+            "respuesta": "Sí, puede causar urgencia, dolor o dificultad para orinar. Estos síntomas también aparecen en hiperplasia prostática o incontinencia urinaria."
+        },
+        {
+            "pregunta": "¿Qué tan frecuente es el cáncer de vejiga?",
+            "respuesta": "Es uno de los tumores urológicos más comunes. Su detección temprana es clave para evitar complicaciones mayores."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga puede afectar otros órganos?",
+            "respuesta": "En etapas avanzadas puede extenderse a órganos cercanos o afectar la función renal. Esto lo relaciona con problemas renales."
+        },
+        {
+            "pregunta": "¿Cómo impacta el cáncer de vejiga en la calidad de vida?",
+            "respuesta": "Puede afectar la función urinaria y generar molestias constantes. También puede coexistir con incontinencia urinaria o disfunción eréctil."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga puede causar dolor?",
+            "respuesta": "Sí, puede provocar dolor al orinar o en la zona pélvica. Sin embargo, a veces solo se presenta como hematuria sin dolor."
+        },
+        {
+            "pregunta": "¿Qué papel tiene el urólogo en el manejo del cáncer de vejiga?",
+            "respuesta": "El urólogo es el especialista que diagnostica y trata esta enfermedad. También evalúa condiciones asociadas como prostatitis o problemas de próstata."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga está relacionado con infecciones genitales?",
+            "respuesta": "No directamente, pero pueden coexistir en algunos pacientes. Es importante evaluar infecciones genitales y condiciones como fimosis junto con otros problemas urinarios."
+        },
+        {
+            "pregunta": "¿Existen señales tempranas de cáncer de vejiga?",
+            "respuesta": "La hematuria es una de las primeras señales de alerta. Puede confundirse con infección urinaria o cálculos renales en etapas iniciales."
+        },
+        {
+            "pregunta": "¿Qué otras enfermedades urológicas deben evaluarse junto al cáncer de vejiga?",
+            "respuesta": "Se deben descartar condiciones como varicocele, hidrocele o dolor testicular. Esto permite un diagnóstico integral dentro de los tumores urológicos."
+        },
+        {
+            "pregunta": "¿El cáncer de vejiga puede afectar la función sexual?",
+            "respuesta": "Puede influir indirectamente en la función sexual dependiendo del tratamiento. También puede coexistir con disfunción eréctil o eyaculación precoz."
+        },
+        {
+            "pregunta": "¿Qué relación tiene el cáncer de vejiga con los problemas urinarios?",
+            "respuesta": "Está estrechamente relacionado con síntomas urinarios como dolor, urgencia o sangre en la orina. Estos también pueden aparecer en hiperplasia prostática o estenosis uretral."
+        }
+    ]
+}

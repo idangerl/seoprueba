@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "problemas urinarios",
+        "palabras_clave_secundarias": [
+            "síntomas urinarios",
+            "dificultad para orinar",
+            "urologo CDMX",
+            "alteraciones urinarias",
+            "salud urinaria"
+        ],
+        "slug": "problemas-urinarios",
+        "title": "Problemas urinarios en CDMX: causas, síntomas y enfermedades relacionadas",
+        "meta_description": "Conoce los problemas urinarios, sus causas y cómo se relacionan con otras enfermedades urológicas en CDMX. Información clara y útil.",
+        "h1": "Problemas urinarios en CDMX: causas, síntomas y qué pueden indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Infecciones genitales",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "Los problemas urinarios son una de las causas más frecuentes de consulta en urología y pueden manifestarse con síntomas como dificultad para orinar, aumento en la frecuencia urinaria o molestias persistentes. Más allá de ser una incomodidad pasajera, estos síntomas pueden ser la primera señal de alteraciones en la salud urinaria o de enfermedades más complejas. En CDMX, comprender los problemas urinarios permite identificar su origen, reconocer cuándo es necesario acudir con un especialista y entender su relación con otras condiciones del sistema urinario y reproductor.",
+        "bloques": [
+            {
+                "h2": "¿Qué síntomas pueden indicar problemas urinarios?",
+                "descripcion": "Los problemas urinarios pueden presentarse de distintas formas y variar según la causa subyacente.",
+                "h3": [
+                    {
+                        "titulo": "Alteraciones en la micción y señales de alerta",
+                        "contenido": "Síntomas como ardor al orinar, flujo débil, urgencia frecuente o dificultad para iniciar la micción son comunes. Estos pueden estar relacionados con una infección urinaria, la presencia de hematuria o incluso con incontinencia urinaria. En algunos casos, los cálculos renales pueden provocar dolor intenso y cambios en la orina."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de los problemas urinarios con enfermedades urológicas",
+                "descripcion": "Los problemas urinarios suelen estar asociados con diferentes enfermedades que afectan la próstata, la vejiga o los riñones.",
+                "h3": [
+                    {
+                        "titulo": "Enfermedades prostáticas y su impacto urinario",
+                        "contenido": "La hiperplasia prostática y la prostatitis pueden generar obstrucción urinaria y síntomas persistentes. También es importante descartar cáncer de próstata en presencia de síntomas prolongados. Estos forman parte de los principales problemas de próstata que afectan la función urinaria."
+                    },
+                    {
+                        "titulo": "Relación con vejiga, riñones y otras patologías",
+                        "contenido": "El cáncer de vejiga, los tumores urológicos y los problemas renales pueden manifestarse con alteraciones urinarias. La estenosis uretral también puede dificultar el flujo de la orina. Además, infecciones genitales pueden coexistir con síntomas urinarios, generando molestias combinadas."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de los problemas urinarios en la salud integral",
+                "descripcion": "Los problemas urinarios no solo afectan la micción, sino también otras áreas de la salud masculina.",
+                "h3": [
+                    {
+                        "titulo": "Relación con salud sexual y genital",
+                        "contenido": "Condiciones como la disfunción eréctil o la eyaculación precoz pueden coexistir con alteraciones urinarias. Además, el varicocele, el hidrocele o la fimosis pueden presentarse junto con molestias urológicas, en ocasiones acompañadas de dolor testicular."
+                    },
+                    {
+                        "titulo": "Importancia de la evaluación integral en CDMX",
+                        "contenido": "En CDMX, la valoración por un urólogo permite analizar los problemas urinarios de forma integral, considerando su relación con enfermedades prostáticas, renales o infecciosas. Esto facilita un diagnóstico preciso y una mejor comprensión del estado de la salud urológica."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Problemas urinarios en CDMX",
+            "description": "Información completa sobre los problemas urinarios, sus causas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Problemas urinarios"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué son los problemas urinarios y por qué ocurren?",
+            "respuesta": "Los problemas urinarios son alteraciones en la micción que pueden tener múltiples causas. Pueden relacionarse con Infección urinaria, Hiperplasia prostática o Problemas renales."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas más comunes de los problemas urinarios?",
+            "respuesta": "Incluyen dolor al orinar, urgencia urinaria o chorro débil. También pueden presentarse Hematuria o Incontinencia urinaria."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por problemas urinarios en CDMX?",
+            "respuesta": "Debes acudir si los síntomas son persistentes o afectan tu vida diaria. En CDMX, el urólogo puede descartar Cálculos renales o Problemas de próstata."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios son graves?",
+            "respuesta": "Depende de la causa, ya que pueden ser leves o indicar enfermedades más serias. Algunos casos se relacionan con Tumores urológicos o Cáncer de vejiga."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden estar relacionados con infecciones?",
+            "respuesta": "Sí, una Infección urinaria es una causa frecuente. También pueden coexistir con Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios afectan la función sexual?",
+            "respuesta": "En algunos casos pueden influir en la vida sexual. Esto puede relacionarse con Disfunción eréctil o Eyaculación precoz."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden causar sangre en la orina?",
+            "respuesta": "Sí, pueden provocar Hematuria dependiendo de la causa. Esto requiere descartar Cáncer de vejiga o Cálculos renales."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para evaluar problemas urinarios?",
+            "respuesta": "Se realizan análisis de orina, sangre y estudios de imagen. Esto ayuda a identificar causas como Estenosis uretral o Problemas renales."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden confundirse con otras enfermedades?",
+            "respuesta": "Sí, pueden confundirse con Prostatitis, Cálculos renales o Problemas de próstata. El diagnóstico médico es clave."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden causar dolor testicular?",
+            "respuesta": "En algunos casos pueden asociarse con Dolor testicular. Esto también puede relacionarse con Varicocele o Infecciones genitales."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios son frecuentes en hombres?",
+            "respuesta": "Sí, son comunes especialmente en hombres adultos. Suelen estar asociados con Hiperplasia prostática o Problemas de próstata."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden aparecer en jóvenes?",
+            "respuesta": "Sí, pueden presentarse a cualquier edad. En jóvenes suelen relacionarse con Infecciones genitales o hábitos de higiene."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden afectar los riñones?",
+            "respuesta": "Sí, si no se tratan pueden impactar los Problemas renales. Esto puede generar complicaciones a largo plazo."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden causar incontinencia urinaria?",
+            "respuesta": "Sí, pueden provocar Incontinencia urinaria dependiendo de la causa. Esto afecta el control de la micción."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden requerir cirugía?",
+            "respuesta": "Algunos casos pueden requerir procedimientos quirúrgicos. Esto ocurre en condiciones como Estenosis uretral o Hiperplasia prostática avanzada."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con los problemas urinarios?",
+            "respuesta": "Pueden coexistir con Hidrocele, Fimosis o incluso Tumores urológicos. El urólogo evalúa el sistema urogenital completo."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden derivar en cáncer?",
+            "respuesta": "Algunas causas pueden estar relacionadas con Cáncer de vejiga o Cáncer de próstata. Por eso es importante el diagnóstico oportuno."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios afectan la calidad de vida?",
+            "respuesta": "Sí, pueden afectar el sueño, la rutina diaria y el bienestar. El tratamiento adecuado mejora significativamente la calidad de vida."
+        },
+        {
+            "pregunta": "¿Los problemas urinarios pueden empeorar con el tiempo?",
+            "respuesta": "Sí, pueden progresar si no se tratan adecuadamente. Esto puede agravar otros Problemas de próstata o renales."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación en la sección Problemas urinarios?",
+            "respuesta": "Incluye diagnóstico, tratamiento y relación con Problemas de próstata o Problemas renales. La sección Problemas urinarios orienta de forma integral al paciente."
+        }
+    ]
+}

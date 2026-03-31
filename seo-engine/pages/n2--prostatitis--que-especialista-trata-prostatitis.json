@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "prostatitis",
+        "palabras_clave_secundarias": [
+            "inflamación de la próstata",
+            "urologo CDMX",
+            "síntomas prostatitis",
+            "tratamiento prostatitis",
+            "dolor prostático"
+        ],
+        "slug": "que-especialista-trata-prostatitis",
+        "title": "¿Qué especialista trata la prostatitis en CDMX? Diagnóstico y tratamiento adecuado",
+        "meta_description": "Descubre qué especialista trata la prostatitis, cuándo acudir y dónde atenderla en CDMX. Información clara para actuar a tiempo.",
+        "h1": "¿Qué especialista trata prostatitis en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La prostatitis es una condición que puede causar dolor, molestias al orinar y síntomas persistentes que afectan la calidad de vida. Saber qué especialista trata este problema en CDMX es clave para recibir un diagnóstico adecuado y evitar complicaciones. Identificar a tiempo la inflamación de la próstata permite iniciar el tratamiento correcto y mejorar la salud prostática.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata prostatitis?",
+                "descripcion": "El especialista indicado para tratar la prostatitis es el urólogo, quien se encarga de la salud del sistema urinario y reproductor masculino.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en prostatitis",
+                        "contenido": "El urólogo evalúa los síntomas, identifica la causa de la prostatitis y define el tratamiento adecuado. Esto permite controlar la inflamación y aliviar los síntomas de forma efectiva."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa prostatitis?",
+                "descripcion": "Un médico general puede detectar síntomas iniciales, pero la evaluación completa debe realizarla un especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Diagnóstico adecuado desde la especialidad",
+                        "contenido": "El médico general puede sospechar la presencia de prostatitis, pero el urólogo realiza estudios específicos para confirmar el diagnóstico y descartar otras enfermedades prostáticas."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata prostatitis?",
+                "descripcion": "El doctor que trata la prostatitis es el urólogo, quien adapta el tratamiento según la causa y la evolución del problema.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento personalizadas",
+                        "contenido": "El tratamiento puede incluir medicamentos, cambios en hábitos o terapias específicas. El urólogo selecciona la mejor opción según los síntomas de prostatitis y las necesidades del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por prostatitis?",
+                "descripcion": "Es importante acudir al médico ante síntomas persistentes o molestos que afecten la vida diaria.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que requieren valoración",
+                        "contenido": "Dolor pélvico, molestias al orinar, fiebre o síntomas urinarios persistentes son señales claras para acudir al médico. Detectar la prostatitis a tiempo permite evitar complicaciones y mejorar el pronóstico."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar prostatitis?",
+                "descripcion": "La prostatitis debe tratarse con un urólogo en CDMX para asegurar un diagnóstico adecuado.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite recibir una evaluación completa, identificar la causa de la prostatitis y establecer un tratamiento adecuado que mejore la calidad de vida."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si presentas síntomas o sospechas de prostatitis, acudir con un urólogo en CDMX es el paso clave para obtener un diagnóstico claro y comenzar el tratamiento adecuado lo antes posible.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata prostatitis en CDMX?",
+            "description": "Información sobre qué especialista trata la prostatitis, cuándo acudir y dónde atenderla en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Prostatitis"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata prostatitis?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata la prostatitis según su causa. En CDMX, puede ofrecer un manejo integral y seguimiento."
+        },
+        {
+            "pregunta": "¿Qué especialista trata prostatitis?",
+            "respuesta": "La prostatitis debe ser valorada por un urólogo, experto en enfermedades de la próstata. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa prostatitis?",
+            "respuesta": "El médico que revisa la prostatitis es el urólogo, quien evalúa síntomas urinarios y prostáticos. Esto permite definir el tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué doctor trata prostatitis?",
+            "respuesta": "El doctor que trata prostatitis es el urólogo, capacitado en afecciones del sistema urogenital. En CDMX, puedes acudir para una valoración completa."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por prostatitis?",
+            "respuesta": "Debes acudir cuando hay dolor pélvico, molestias al orinar o síntomas persistentes. En CDMX, una evaluación temprana evita complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar prostatitis en CDMX?",
+            "respuesta": "La prostatitis se trata en clínicas y hospitales con servicio de urología en CDMX. Es importante acudir con un especialista para un diagnóstico preciso."
+        },
+        {
+            "pregunta": "¿La prostatitis tiene tratamiento efectivo?",
+            "respuesta": "Sí, el tratamiento depende de la causa e incluye medicamentos y cambios de hábitos. El urólogo definirá la mejor opción."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo prostatitis?",
+            "respuesta": "Se sospecha por síntomas como dolor pélvico, ardor al orinar o molestias genitales. El diagnóstico lo confirma un urólogo con estudios."
+        },
+        {
+            "pregunta": "¿La prostatitis es urgente?",
+            "respuesta": "No siempre es una urgencia, pero requiere valoración médica oportuna. En CDMX, puedes agendar consulta con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué estudios se hacen para prostatitis?",
+            "respuesta": "Se realizan análisis de orina, estudios prostáticos y evaluación clínica. Esto ayuda a identificar la causa de la prostatitis."
+        },
+        {
+            "pregunta": "¿La prostatitis puede desaparecer sola?",
+            "respuesta": "Algunos casos leves pueden mejorar, pero muchos requieren tratamiento. Es importante no ignorar los síntomas."
+        },
+        {
+            "pregunta": "¿La prostatitis afecta la vida diaria?",
+            "respuesta": "Sí, puede causar molestias que afectan el bienestar y la rutina diaria. El tratamiento adecuado mejora la calidad de vida."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por prostatitis?",
+            "respuesta": "Sí, pero lo ideal es acudir con un urólogo para una evaluación más precisa. En CDMX, esto permite un diagnóstico adecuado."
+        },
+        {
+            "pregunta": "¿La prostatitis afecta la función sexual?",
+            "respuesta": "Sí, puede influir en la función sexual en algunos casos. El tratamiento adecuado ayuda a mejorar estos síntomas."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar prostatitis en CDMX?",
+            "respuesta": "El costo depende de los estudios y tratamiento necesario. Se recomienda acudir a consulta para una valoración personalizada."
+        },
+        {
+            "pregunta": "¿La prostatitis puede empeorar con el tiempo?",
+            "respuesta": "Sí, puede progresar si no se trata oportunamente. Por eso es importante el seguimiento médico."
+        },
+        {
+            "pregunta": "¿El tratamiento de la prostatitis es permanente?",
+            "respuesta": "Depende del tipo, algunos casos requieren tratamiento prolongado y otros se resuelven rápidamente. El urólogo definirá la mejor opción."
+        },
+        {
+            "pregunta": "¿La prostatitis está relacionada con otras enfermedades?",
+            "respuesta": "Sí, puede asociarse a infecciones urinarias u otros problemas prostáticos. El diagnóstico adecuado permite identificar estas relaciones."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato la prostatitis?",
+            "respuesta": "Puede causar molestias persistentes y complicaciones urinarias. En CDMX, es recomendable tratarla a tiempo."
+        },
+        {
+            "pregunta": "¿La prostatitis afecta el sueño o descanso?",
+            "respuesta": "Sí, puede interrumpir el descanso por molestias o necesidad frecuente de orinar. El tratamiento adecuado mejora el sueño."
+        }
+    ]
+}

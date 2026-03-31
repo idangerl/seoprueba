@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "hiperplasia prostática",
+        "palabras_clave_secundarias": [
+            "agrandamiento de próstata",
+            "síntomas urinarios hombres",
+            "urologo CDMX",
+            "tratamiento hiperplasia prostática",
+            "problemas al orinar"
+        ],
+        "slug": "que-especialista-trata-hiperplasia-prostatica",
+        "title": "¿Qué especialista trata la hiperplasia prostática en CDMX? Diagnóstico y atención urológica",
+        "meta_description": "Descubre qué especialista trata la hiperplasia prostática, cuándo acudir y dónde atenderla en CDMX. Información clara para tomar decisiones de salud.",
+        "h1": "¿Qué especialista trata hiperplasia prostática en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La hiperplasia prostática es una condición frecuente, también conocida como agrandamiento de próstata, que afecta la forma de orinar y la calidad de vida en hombres. Identificar a tiempo qué especialista tratará este problema en CDMX permite evitar complicaciones y recibir un manejo adecuado desde el inicio, especialmente cuando aparecen síntomas urinarios persistentes o progresivos.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata hiperplasia prostática?",
+                "descripcion": "El especialista indicado para tratar la hiperplasia prostática es el urólogo, quien se enfoca en el diagnóstico y tratamiento de enfermedades del sistema urinario y la próstata.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en salud prostática",
+                        "contenido": "El urólogo evalúa el tamaño de la próstata, los síntomas urinarios y el impacto en la vida diaria. A partir de esta valoración, define si el tratamiento será médico o requiere procedimientos más específicos, siempre enfocado en mejorar la calidad de vida del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa hiperplasia prostática?",
+                "descripcion": "Un médico general puede identificar los primeros síntomas, pero la evaluación completa debe realizarla un especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Diagnóstico adecuado desde el inicio",
+                        "contenido": "El médico general puede sospechar la presencia de hiperplasia prostática ante síntomas urinarios, pero el urólogo es quien realiza estudios más precisos para confirmar el diagnóstico y descartar otras condiciones como infecciones o enfermedades prostáticas más complejas."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata hiperplasia prostática?",
+                "descripcion": "El doctor que trata la hiperplasia prostática es el urólogo, quien adapta el tratamiento según la evolución y severidad del caso.",
+                "h3": [
+                    {
+                        "titulo": "Opciones de tratamiento según el paciente",
+                        "contenido": "El tratamiento puede incluir medicamentos para mejorar el flujo urinario o reducir el tamaño prostático, así como procedimientos mínimamente invasivos en casos más avanzados. El urólogo selecciona la mejor alternativa en función de los síntomas y necesidades del paciente."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por hiperplasia prostática?",
+                "descripcion": "Es importante acudir al médico cuando los síntomas urinarios comienzan a afectar la vida diaria o se vuelven persistentes.",
+                "h3": [
+                    {
+                        "titulo": "Señales que requieren valoración urológica",
+                        "contenido": "Dificultad para orinar, flujo débil, necesidad frecuente de ir al baño o levantarse por la noche son señales claras para buscar atención médica. Ignorar estos síntomas puede provocar complicaciones en la vejiga o incluso afectar la función renal."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar hiperplasia prostática?",
+                "descripcion": "La hiperplasia prostática debe tratarse con un urólogo en CDMX, donde se pueda acceder a diagnóstico y seguimiento adecuados.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite recibir una evaluación completa y definir el tratamiento más adecuado según cada caso. Esto facilita un control efectivo de los síntomas y previene complicaciones a largo plazo."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si presentas síntomas urinarios o sospechas de hiperplasia prostática, acudir con un urólogo en CDMX es el paso clave para confirmar el diagnóstico y recibir el tratamiento adecuado. Atenderlo a tiempo mejora tu calidad de vida y previene complicaciones.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata hiperplasia prostática en CDMX?",
+            "description": "Información sobre qué especialista trata la hiperplasia prostática, cuándo acudir y dónde atenderla en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Hiperplasia prostática"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata hiperplasia prostática?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata la hiperplasia prostática. En CDMX, puede ofrecer opciones médicas o quirúrgicas según el caso."
+        },
+        {
+            "pregunta": "¿Qué especialista trata hiperplasia prostática?",
+            "respuesta": "La hiperplasia prostática debe ser valorada por un urólogo, experto en enfermedades de la próstata. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa hiperplasia prostática?",
+            "respuesta": "El médico que revisa la hiperplasia prostática es el urólogo, quien evalúa los síntomas urinarios y realiza estudios. Esto permite definir el tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿Qué doctor trata hiperplasia prostática?",
+            "respuesta": "El doctor que trata la hiperplasia prostática es el urólogo, capacitado en problemas prostáticos. En CDMX, puedes acudir para una valoración completa."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por hiperplasia prostática?",
+            "respuesta": "Debes acudir cuando presentes dificultad para orinar, chorro débil o aumento en la frecuencia urinaria. Una evaluación temprana en CDMX evita complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar hiperplasia prostática en CDMX?",
+            "respuesta": "La hiperplasia prostática se trata en clínicas y hospitales con servicio de urología en CDMX. Es importante acudir con un especialista para un manejo adecuado."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática requiere cirugía siempre?",
+            "respuesta": "No siempre, el tratamiento depende de la gravedad de los síntomas. El urólogo puede indicar medicamentos o cirugía según el caso."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo hiperplasia prostática?",
+            "respuesta": "Se sospecha por síntomas urinarios como dificultad para iniciar la micción o vaciamiento incompleto. El diagnóstico lo confirma un urólogo con estudios."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática es urgente?",
+            "respuesta": "No suele ser una urgencia, pero requiere valoración médica oportuna. En CDMX, puedes agendar consulta con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para hiperplasia prostática?",
+            "respuesta": "Se realizan análisis de orina, ultrasonido y estudios prostáticos específicos. Esto ayuda a descartar otras enfermedades y confirmar el diagnóstico."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática desaparece sola?",
+            "respuesta": "No suele desaparecer por sí sola y puede progresar con el tiempo. Por eso es importante el seguimiento con un urólogo."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática causa dolor?",
+            "respuesta": "Generalmente no causa dolor, pero sí molestias urinarias. Si hay dolor, puede indicar otra condición asociada."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por hiperplasia prostática?",
+            "respuesta": "Sí, pero lo ideal es acudir directamente con un urólogo. En CDMX, esto permite un diagnóstico más preciso y tratamiento adecuado."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática afecta la vida sexual?",
+            "respuesta": "Puede influir en la función sexual en algunos casos. El tratamiento adecuado puede mejorar tanto los síntomas urinarios como la calidad de vida."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar la hiperplasia prostática en CDMX?",
+            "respuesta": "El costo varía según los estudios y el tipo de tratamiento. Es importante acudir a consulta para una valoración personalizada."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede empeorar con el tiempo?",
+            "respuesta": "Sí, puede progresar si no se trata adecuadamente. Por eso se recomienda seguimiento médico continuo."
+        },
+        {
+            "pregunta": "¿El tratamiento de la hiperplasia prostática es permanente?",
+            "respuesta": "Depende del tipo de tratamiento, algunos son continuos y otros definitivos. El urólogo definirá la mejor opción según el caso."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática puede causar infecciones?",
+            "respuesta": "Sí, puede favorecer infecciones urinarias debido a la dificultad para vaciar la vejiga. Esto requiere tratamiento oportuno."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato la hiperplasia prostática?",
+            "respuesta": "Puede provocar complicaciones como retención urinaria o infecciones. En CDMX, es recomendable tratarla a tiempo con un especialista."
+        },
+        {
+            "pregunta": "¿La hiperplasia prostática afecta la calidad de vida?",
+            "respuesta": "Sí, puede afectar el sueño y las actividades diarias por los síntomas urinarios. El tratamiento adecuado mejora significativamente el bienestar."
+        }
+    ]
+}

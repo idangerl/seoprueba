@@ -1,0 +1,175 @@
+{
+    "seo": {
+        "palabra_clave_principal": "infección urinaria",
+        "palabras_clave_secundarias": [
+            "infección de vías urinarias",
+            "urologo CDMX",
+            "tratamiento infección urinaria",
+            "ardor al orinar",
+            "dolor al orinar"
+        ],
+        "slug": "que-especialista-trata-infeccion-urinaria",
+        "title": "¿Qué especialista trata la infección urinaria en CDMX? Diagnóstico y tratamiento adecuado",
+        "meta_description": "Descubre qué especialista trata la infección urinaria, cuándo acudir y dónde atenderla en CDMX. Información clara para actuar a tiempo.",
+        "h1": "¿Qué especialista trata infección urinaria en CDMX?"
+    },
+    "seccion_seo": {
+        "introduccion": "La infección urinaria es un problema común que puede causar ardor al orinar, urgencia y molestias constantes. Aunque muchas personas lo minimizan, es importante saber qué especialista puede tratarla correctamente en CDMX para evitar complicaciones o recurrencias. Identificar el origen de la infección de vías urinarias permite elegir el tratamiento adecuado y prevenir que el problema avance.",
+        "bloques": [
+            {
+                "h2": "¿Qué especialista trata infección urinaria?",
+                "descripcion": "El especialista indicado para tratar la infección urinaria es el urólogo, quien se encarga de las enfermedades del sistema urinario.",
+                "h3": [
+                    {
+                        "titulo": "Atención especializada en infecciones urinarias",
+                        "contenido": "El urólogo evalúa la causa de la infección urinaria, identifica si es un episodio aislado o recurrente y determina el tratamiento adecuado. Esto es clave para evitar complicaciones o que la infección se extienda a otros órganos como los riñones."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué médico revisa infección urinaria?",
+                "descripcion": "Un médico general puede detectar los síntomas iniciales, pero el diagnóstico completo corresponde al especialista en urología.",
+                "h3": [
+                    {
+                        "titulo": "Importancia de la valoración especializada",
+                        "contenido": "El médico general puede iniciar el tratamiento, pero si la infección urinaria es recurrente o no mejora, el urólogo realiza estudios más detallados para encontrar la causa exacta y evitar que el problema se repita."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Qué doctor trata infección urinaria?",
+                "descripcion": "El doctor que trata la infección urinaria es el urólogo, quien adapta el tratamiento según el tipo y la gravedad del caso.",
+                "h3": [
+                    {
+                        "titulo": "Tratamiento adecuado según el caso",
+                        "contenido": "El tratamiento puede incluir antibióticos y medidas específicas según la causa. El urólogo también evalúa factores de riesgo y posibles alteraciones del sistema urinario para evitar recurrencias y mejorar la salud urinaria."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Cuándo acudir al médico por infección urinaria?",
+                "descripcion": "Es importante acudir al médico desde los primeros síntomas para evitar complicaciones.",
+                "h3": [
+                    {
+                        "titulo": "Señales de alerta que requieren atención",
+                        "contenido": "Ardor al orinar, urgencia frecuente, dolor o cambios en la orina son señales claras para buscar atención médica. También es importante acudir si los síntomas persisten o empeoran, ya que la infección urinaria puede complicarse si no se trata a tiempo."
+                    }
+                ]
+            },
+            {
+                "h2": "¿Dónde tratar infección urinaria?",
+                "descripcion": "La infección urinaria debe tratarse con un urólogo en CDMX para asegurar un diagnóstico correcto.",
+                "h3": [
+                    {
+                        "titulo": "Atención urológica en CDMX",
+                        "contenido": "En CDMX, acudir con un urólogo permite recibir una evaluación completa, identificar la causa de la infección urinaria y definir un tratamiento efectivo que reduzca el riesgo de recurrencias."
+                    }
+                ]
+            }
+        ]
+    },
+    "cta": "Si presentas síntomas de infección urinaria o molestias al orinar, acudir con un urólogo en CDMX es la mejor decisión para obtener un diagnóstico claro y un tratamiento efectivo que evite complicaciones.",
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "¿Qué especialista trata infección urinaria en CDMX?",
+            "description": "Información sobre qué especialista trata la infección urinaria, cuándo acudir y dónde atenderla en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Infección urinaria"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 2,
+    "page_type": "transaccional",
+    "faqs": [
+        {
+            "pregunta": "¿Qué especialista trata infección urinaria?",
+            "respuesta": "El especialista indicado es el urólogo, quien diagnostica y trata la infección urinaria según su causa. En CDMX, puede ofrecer tratamiento adecuado y seguimiento."
+        },
+        {
+            "pregunta": "¿Qué especialista trata infección urinaria?",
+            "respuesta": "La infección urinaria debe ser valorada por un urólogo, experto en el sistema urinario. En CDMX, es recomendable acudir directamente con este especialista."
+        },
+        {
+            "pregunta": "¿Qué médico revisa infección urinaria?",
+            "respuesta": "El médico que revisa la infección urinaria es el urólogo, quien evalúa los síntomas y solicita estudios. Esto permite confirmar el diagnóstico y definir el tratamiento."
+        },
+        {
+            "pregunta": "¿Qué doctor trata infección urinaria?",
+            "respuesta": "El doctor que trata la infección urinaria es el urólogo, capacitado en enfermedades urinarias. En CDMX, puedes acudir para una valoración completa."
+        },
+        {
+            "pregunta": "¿Cuándo acudir al médico por infección urinaria?",
+            "respuesta": "Debes acudir cuando hay dolor al orinar, urgencia o síntomas persistentes. En CDMX, una atención temprana evita complicaciones."
+        },
+        {
+            "pregunta": "¿Dónde tratar infección urinaria en CDMX?",
+            "respuesta": "La infección urinaria se trata en clínicas y hospitales con servicio de urología en CDMX. Es importante acudir con un especialista para un manejo adecuado."
+        },
+        {
+            "pregunta": "¿La infección urinaria requiere tratamiento inmediato?",
+            "respuesta": "Sí, se recomienda tratarla lo antes posible para evitar complicaciones. El urólogo puede indicar el tratamiento adecuado según el caso."
+        },
+        {
+            "pregunta": "¿Cómo saber si tengo infección urinaria?",
+            "respuesta": "Se identifica por síntomas como ardor al orinar, urgencia o dolor pélvico. Un urólogo puede confirmar el diagnóstico con estudios."
+        },
+        {
+            "pregunta": "¿La infección urinaria es urgente?",
+            "respuesta": "No siempre es una urgencia, pero sí requiere valoración médica oportuna. En CDMX, puedes acudir a consulta con un urólogo."
+        },
+        {
+            "pregunta": "¿Qué estudios se hacen para infección urinaria?",
+            "respuesta": "Se realizan análisis de orina y, en algunos casos, estudios complementarios. Esto ayuda a identificar la causa exacta de la infección urinaria."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede desaparecer sola?",
+            "respuesta": "Algunas infecciones leves pueden mejorar, pero muchas requieren tratamiento. Es importante no automedicarse y acudir al médico."
+        },
+        {
+            "pregunta": "¿La infección urinaria afecta la vida diaria?",
+            "respuesta": "Sí, puede causar molestias constantes que afectan actividades cotidianas. El tratamiento adecuado mejora rápidamente los síntomas."
+        },
+        {
+            "pregunta": "¿Puedo acudir con médico general por infección urinaria?",
+            "respuesta": "Sí, pero lo ideal es acudir con un urólogo para un diagnóstico más preciso. En CDMX, esto permite un tratamiento adecuado desde el inicio."
+        },
+        {
+            "pregunta": "¿La infección urinaria tiene cura definitiva?",
+            "respuesta": "Sí, la mayoría de los casos se curan con tratamiento adecuado. Sin embargo, es importante identificar la causa para evitar recurrencias."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta tratar una infección urinaria en CDMX?",
+            "respuesta": "El costo depende de los estudios y el tratamiento necesario. Es recomendable acudir a consulta para una valoración personalizada."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede empeorar si no se trata?",
+            "respuesta": "Sí, puede progresar y causar complicaciones más serias. Por eso es importante acudir a valoración médica oportuna."
+        },
+        {
+            "pregunta": "¿La infección urinaria puede repetirse?",
+            "respuesta": "Sí, puede ser recurrente si no se trata correctamente o hay factores predisponentes. El seguimiento médico ayuda a prevenir recaídas."
+        },
+        {
+            "pregunta": "¿La infección urinaria está relacionada con otras enfermedades?",
+            "respuesta": "Sí, puede asociarse a otros problemas del sistema urinario. El diagnóstico adecuado permite identificar estas relaciones."
+        },
+        {
+            "pregunta": "¿Qué pasa si no trato la infección urinaria?",
+            "respuesta": "Puede provocar complicaciones como infecciones más graves o daño renal. En CDMX, es recomendable tratarla a tiempo."
+        },
+        {
+            "pregunta": "¿La infección urinaria afecta el descanso o el sueño?",
+            "respuesta": "Sí, puede interrumpir el sueño por la necesidad frecuente de orinar. El tratamiento adecuado mejora el descanso."
+        }
+    ]
+}

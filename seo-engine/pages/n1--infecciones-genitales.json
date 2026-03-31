@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "palabra_clave_principal": "infecciones genitales",
+        "palabras_clave_secundarias": [
+            "infecciones íntimas",
+            "salud genital masculina",
+            "urologo CDMX",
+            "síntomas genitales hombres",
+            "problemas genitales"
+        ],
+        "slug": "infecciones-genitales",
+        "title": "Infecciones genitales en CDMX: síntomas, causas y relación con enfermedades urológicas",
+        "meta_description": "Conoce qué son las infecciones genitales, sus síntomas y cómo se relacionan con otros problemas urológicos en CDMX. Información clara y útil.",
+        "h1": "Infecciones genitales en CDMX: síntomas, causas y qué pueden indicar"
+    },
+    "secciones_relacionadas_nivel": [
+        "Infección urinaria",
+        "Cálculos renales",
+        "Hiperplasia prostática",
+        "Cáncer de próstata",
+        "Incontinencia urinaria",
+        "Disfunción eréctil",
+        "Prostatitis",
+        "Hematuria",
+        "Cáncer de vejiga",
+        "Varicocele",
+        "Fimosis",
+        "Eyaculación precoz",
+        "Dolor testicular",
+        "Tumores urológicos",
+        "Problemas de próstata",
+        "Problemas urinarios",
+        "Hidrocele",
+        "Estenosis uretral",
+        "Problemas renales"
+    ],
+    "seccion_seo": {
+        "introduccion": "Las infecciones genitales son un motivo frecuente de consulta urológica y pueden manifestarse con síntomas como irritación, secreción o molestias en la zona íntima. Más allá de la incomodidad inicial, este tipo de infecciones puede estar relacionado con otros problemas del sistema urinario o reproductor, incluyendo la incontinencia urinaria, que puede favorecer la proliferación bacteriana y complicar el cuadro clínico. En CDMX, comprender las infecciones genitales permite identificar su origen, evitar complicaciones y detectar si están asociadas a condiciones como infección urinaria u otras alteraciones urológicas.",
+        "bloques": [
+            {
+                "h2": "¿Por qué aparecen las infecciones genitales y qué factores influyen?",
+                "descripcion": "Las infecciones genitales pueden tener múltiples causas, desde bacterias hasta factores estructurales o hábitos que favorecen su aparición.",
+                "h3": [
+                    {
+                        "titulo": "Factores asociados y relación con el sistema urinario",
+                        "contenido": "Las infecciones genitales pueden coexistir con una infección urinaria, especialmente cuando hay alteraciones en el flujo urinario o higiene inadecuada. También pueden relacionarse con problemas urinarios como la estenosis uretral, que dificulta la eliminación adecuada de bacterias."
+                    }
+                ]
+            },
+            {
+                "h2": "Relación de las infecciones genitales con otras enfermedades urológicas",
+                "descripcion": "Las infecciones genitales no siempre son un problema aislado, ya que pueden estar vinculadas a otras condiciones del sistema urinario y reproductor.",
+                "h3": [
+                    {
+                        "titulo": "Enfermedades prostáticas y urológicas asociadas",
+                        "contenido": "Condiciones como la prostatitis o la hiperplasia prostática pueden favorecer la aparición de infecciones. También es importante descartar cáncer de próstata o tumores urológicos cuando los síntomas son persistentes. En algunos casos, la hematuria o el cáncer de vejiga pueden presentarse con síntomas similares que requieren evaluación."
+                    },
+                    {
+                        "titulo": "Relación con riñones y otras alteraciones",
+                        "contenido": "Los cálculos renales y los problemas renales pueden aumentar el riesgo de infecciones recurrentes. Además, condiciones como el hidrocele o el varicocele pueden coexistir con molestias genitales. La presencia de dolor testicular puede ser un síntoma relevante que requiere valoración especializada."
+                    }
+                ]
+            },
+            {
+                "h2": "Impacto de las infecciones genitales en la salud masculina",
+                "descripcion": "Las infecciones genitales pueden afectar diferentes aspectos de la salud, más allá de los síntomas locales.",
+                "h3": [
+                    {
+                        "titulo": "Relación con función sexual y condiciones asociadas",
+                        "contenido": "Problemas como la disfunción eréctil o la eyaculación precoz pueden coexistir con infecciones genitales, especialmente cuando hay inflamación o molestias persistentes. Además, condiciones como la fimosis pueden facilitar la acumulación de bacterias y favorecer infecciones recurrentes."
+                    },
+                    {
+                        "titulo": "Importancia de la evaluación integral en CDMX",
+                        "contenido": "En CDMX, la valoración por un urólogo permite identificar si las infecciones genitales están relacionadas con problemas de próstata, alteraciones urinarias o enfermedades más complejas. Esto facilita un diagnóstico preciso y una comprensión completa del estado de la salud urológica."
+                    }
+                ]
+            }
+        ]
+    },
+    "beneficios_contacto": [],
+    "schema": {
+        "tipo_recomendado": "MedicalWebPage",
+        "json_ld": {
+            "@context": "[https:\/\/schema.org](https:\/\/schema.org)",
+            "@type": "MedicalWebPage",
+            "name": "Infecciones genitales en CDMX",
+            "description": "Información completa sobre las infecciones genitales, sus causas y relación con enfermedades urológicas en CDMX.",
+            "about": {
+                "@type": "MedicalCondition",
+                "name": "Infecciones genitales"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ciudad de México"
+            }
+        }
+    },
+    "mode": "general",
+    "nivel": 1,
+    "page_type": "hub",
+    "faqs": [
+        {
+            "pregunta": "¿Qué son las infecciones genitales y por qué ocurren?",
+            "respuesta": "Las infecciones genitales son infecciones que afectan los órganos sexuales y pueden estar relacionadas con Infección urinaria o Problemas urinarios, así como con Hiperplasia prostática en algunos contextos. También pueden asociarse a factores como higiene o transmisión sexual."
+        },
+        {
+            "pregunta": "¿Cuáles son los síntomas de las infecciones genitales?",
+            "respuesta": "Incluyen ardor, secreción, picazón o molestias en la zona genital. En algunos casos pueden acompañarse de Dolor testicular o Hematuria."
+        },
+        {
+            "pregunta": "¿Cuándo debo acudir al urólogo por infecciones genitales en CDMX?",
+            "respuesta": "Debes acudir si presentas síntomas persistentes o recurrentes. En CDMX, el urólogo puede evaluar si existe relación con Prostatitis o Problemas de próstata."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales son graves?",
+            "respuesta": "Generalmente son tratables, pero pueden complicarse si no se atienden. En algunos casos pueden afectar Problemas renales o derivar en complicaciones urológicas."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden afectar la función sexual?",
+            "respuesta": "Sí, pueden causar molestias que afectan la vida sexual, incluyendo Disfunción eréctil o Eyaculación precoz. El tratamiento oportuno ayuda a mejorar estos síntomas."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales están relacionadas con infecciones urinarias?",
+            "respuesta": "Sí, pueden coexistir con Infección urinaria debido a la cercanía anatómica. Ambas forman parte de los Problemas urinarios."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden causar dolor testicular?",
+            "respuesta": "Sí, pueden provocar Dolor testicular si la infección se extiende o hay inflamación. Esto requiere valoración médica."
+        },
+        {
+            "pregunta": "¿Qué estudios se realizan para diagnosticar infecciones genitales?",
+            "respuesta": "Se realizan análisis de laboratorio y exploración física. Esto permite descartar otras condiciones como Cálculos renales o Estenosis uretral."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden confundirse con otras enfermedades?",
+            "respuesta": "Sí, pueden confundirse con Fimosis, Varicocele o incluso Tumores urológicos. Por eso es importante un diagnóstico adecuado."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden ser recurrentes?",
+            "respuesta": "Sí, pueden repetirse si no se trata la causa subyacente. Esto puede estar relacionado con Problemas urinarios o infecciones persistentes."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden causar sangre en la orina?",
+            "respuesta": "En algunos casos pueden asociarse a Hematuria. Esto también requiere descartar Cáncer de vejiga u otras patologías."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales afectan la fertilidad?",
+            "respuesta": "En casos no tratados pueden influir en la fertilidad masculina. También pueden coexistir con Varicocele u otros problemas urológicos."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden aparecer en jóvenes?",
+            "respuesta": "Sí, son frecuentes en jóvenes, especialmente por transmisión sexual. También pueden relacionarse con hábitos o factores de riesgo."
+        },
+        {
+            "pregunta": "¿Qué factores aumentan el riesgo de infecciones genitales?",
+            "respuesta": "Factores como relaciones sin protección o higiene inadecuada pueden influir. También pueden asociarse a Problemas de próstata o Prostatitis."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden estar relacionadas con cáncer?",
+            "respuesta": "No directamente, pero pueden coexistir con Tumores urológicos o Cáncer de próstata. Por eso se recomienda evaluación médica."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden causar incontinencia urinaria?",
+            "respuesta": "En algunos casos pueden provocar Incontinencia urinaria por irritación. Esto forma parte de los Problemas urinarios."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales pueden afectar los riñones?",
+            "respuesta": "Si se complican, pueden impactar los Problemas renales. Esto ocurre si la infección asciende en el tracto urinario."
+        },
+        {
+            "pregunta": "¿Qué otras condiciones se relacionan con las infecciones genitales?",
+            "respuesta": "Pueden coexistir con Hidrocele, Fimosis o Dolor testicular en algunos casos. El urólogo evalúa el panorama completo del paciente."
+        },
+        {
+            "pregunta": "¿Las infecciones genitales afectan la calidad de vida?",
+            "respuesta": "Sí, pueden generar molestias físicas y emocionales. El tratamiento adecuado mejora rápidamente los síntomas."
+        },
+        {
+            "pregunta": "¿Qué incluye la evaluación en la sección Infecciones genitales?",
+            "respuesta": "Incluye diagnóstico, tratamiento y relación con Problemas urinarios o Problemas de próstata. La sección Infecciones genitales orienta de forma integral al paciente."
+        }
+    ]
+}
